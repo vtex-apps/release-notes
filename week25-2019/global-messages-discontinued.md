@@ -33,9 +33,9 @@ Where:
 •	`vendor.name` is the vendor and the name of your dependency
 •	`message-id` is the ID of the message you are using
 
-> Example: [https://github.com/vtex-apps/my-account/blob/feature/lazy-messages/messages/context.json#L58](https://github.com/vtex-apps/my-account/blob/feature/lazy-messages/messages/context.json#L58)
+Example: [https://github.com/vtex-apps/my-account/blob/feature/lazy-messages/messages/context.json#L58](https://github.com/vtex-apps/my-account/blob/feature/lazy-messages/messages/context.json#L58)
 
-In order to use messages defined by a dependency, you must specify that they should be used in your `messages/context.json`.
+:eyes: In order to use messages defined by a dependency, you must specify that they should be used in your `messages/context.json`.
 
 ## Side effects 
 
