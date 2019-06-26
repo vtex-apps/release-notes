@@ -21,7 +21,7 @@ The following key changes were not necessarily done in the last week, but in the
 - [B2B support](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/B2B-support.md) - Authenticate users in closed sales channels using the Search API. 
 - [Product Review apps](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/product-review-apps.md) - Create your own Product Review apps with our abstract interfaces. 
 
-#### Notable improvements
+#### Improvements
 
 - [SKU Selector component](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/sku-selector-component.md) - More than two SKU specifications can now be selected.
 - [Canoninal routes consistency](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/canonical-routes-consistency.md) - A new API was developed for canonical routes mapping. 
