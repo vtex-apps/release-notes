@@ -1,3 +1,5 @@
+# VTEX IO Highlights - Week 25/2019
+
 Welcome to the first VTEX IO weekly release notes!
 
 Since that is our first one, we have a large backlog of changes to communicate. 🚀 
