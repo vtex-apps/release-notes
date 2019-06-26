@@ -5,6 +5,8 @@ Welcome to the first VTEX IO weekly release notes!
 Since that is our first one, we have a large backlog of changes to communicate. 🚀 
 The following key changes were not necessarily done in the last week, but in the last couple of months.
 
+> 🔔 Keep up with VTEX IO announcements! Just click on <strong>Releases only</strong> in the <strong>Watch</strong> box on the right upper corner of this page.
+
 #### Breaking changes
 
 -  [Custom HTML tags are now blocked from running on Google Tag Manager app](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/custom-html-tags-are-now-blocked-from-running-on-google-tag-manager-app.md) - Check how you should integrate your store with a third party service using a pixel app. 
@@ -25,5 +27,3 @@ The following key changes were not necessarily done in the last week, but in the
 - [Canoninal routes consistency](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/canonical-routes-consistency.md) - A new API was developed for canonical routes mapping. 
 - [Typescript version consistent locally](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/typescript-versions-consistent-locally.md) - Local `package.json` is now overwritten with current Builder-hub's typescript version
 - [Shelf component](https://github.com/vtex-apps/release-notes/blob/master/2019-week-25/shelf-component.md) - Products from the same subcategory and the same specification can be shown up. 
-
-🔔 Keep up with VTEX IO announcements! Just click on <strong>Releases only</strong> in the <strong>Watch</strong> box on the right upper corner of this page.
