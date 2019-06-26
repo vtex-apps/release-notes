@@ -24,7 +24,7 @@ __All__ SKU specifications are now fully visible when using VTEX's SKU Selector 
 
 This improvement is available since store-components@3.44.0. Therefore, if your store uses the major 3.x of store-components, this is already available for you.
 
-:eyes: The prop `“hideImpossibleCombinations` was created with default value `true`. If set to `false`, the option that when combined with others leads to no SKU will be rendered with opacity 20% and it will be unclickable. When set to `true`, that option won't be shown up.
+:eyes: The prop `“hideImpossibleCombinations"` was created with default value `true`. If set to `false`, the option that when combined with others leads to no SKU will be rendered with opacity 20% and it will be unclickable. When set to `true`, that option won't be shown up.
 
 ## Side effects
 
