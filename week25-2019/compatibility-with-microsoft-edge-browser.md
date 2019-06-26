@@ -4,7 +4,7 @@ The Store Framework v2 is now compatible with the Microsoft Edge Browser from Wi
 
 ## What has changed
 
-Previously, a store built using the Store Framework v2 wouldn't run properly on the Microsoft Edge browser.
+Previously, a store built on Store Framework v2 wouldn't run properly on the Microsoft Edge browser.
 
 ## Key Advantage
 
