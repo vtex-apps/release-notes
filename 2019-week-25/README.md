@@ -5,7 +5,7 @@ Welcome to the first VTEX IO weekly release notes!
 Since that is our first one, we have a large backlog of changes to communicate. 🚀 
 The following key changes were not necessarily done in the last week, but in the last couple of months.
 
-> 🔔 Keep up with VTEX IO announcements! Just click on <strong>Releases only</strong> in the <strong>Watch</strong> box on the right upper corner of this page.
+> 🔔 Keep up with VTEX IO release notes! Just click on <strong>Releases only</strong> in the <strong>Watch</strong> box on the right upper corner of this page.
 
 #### Breaking changes
 
