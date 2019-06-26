@@ -6,7 +6,7 @@ Seeking to ensure a greater support to multi-language stores, Web Framework will
 
 ## What has changed 
 
-Currently, components using react builder 3.x can use the provided `react-intl` library to internationalize messages (e.g. using (code)<FormattedMessage/>(/code)).
+Currently, components using react builder 3.x can use the provided `react-intl` library to internationalize messages (e.g. using `<FormattedMessage/>`).
 
 As the number of components in a store has grown, it became important that only strings that are actually being used in a given page are translated by Web Framework. 
 
