@@ -23,9 +23,13 @@ Each store has a different category tree and a different catalog structure. This
  Make sure that you have the [shelf component](https://github.com/vtex-apps/shelf) installed, at least on v1.19.0. Then, follow the steps below:
 
 __1.__ In the admin v2, access __CMS__ and click on the __Storefront__ section
+
 __2.__ Click on the __Shelf component__ that you'd like to customize
+
 __3.__ Select the __content scope__ that you want to change
+
 __4.__ Fill out the field __Category__ with the desired subcategory ID 
+
 
 ![image](https://user-images.githubusercontent.com/52087100/60180793-31384b80-97f7-11e9-951a-93cfd80db6ff.png)
 
