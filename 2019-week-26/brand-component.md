@@ -28,4 +28,4 @@ The new component provides more flexibility to build your Product Details pages,
 
 - `excludeBrands`: __array of strings__ - The brand names or brand IDs that are listed in the array will never be displayed by the Brand component. It is usually useful to hide default brand names/logos or test brand names/logos on the store front.
 
-:eyes: Remember that it is necessary to choose between “text” and “logo” in the ‘displaymode’ prop, meaning that if you want to add both the Brand name and the Brand logo to to your Product Details page, the component should be added twice, setting the ‘displaymode’ prop to “logo” and “text” each time.
+:eyes: Remember that it is necessary to choose between “text” and “logo” in the ‘displaymode’ prop, meaning that __if you want to add both the Brand name and the Brand logo to to your Product Details page, the Brand component should be added twice__, setting the ‘displaymode’ prop to “logo” and “text” each time.
