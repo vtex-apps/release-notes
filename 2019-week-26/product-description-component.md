@@ -14,7 +14,7 @@ This improvement delivers a more flexible solution that serves different layouts
 
 To set this improvement up in your store, follow the steps below:
 
-1. Make sure that your store has at least version 3.49.0 of the app store-components installed.
+1. Make sure that your store has at least version 3.49.0 of the app [Store Components](https://github.com/vtex-apps/store-components) installed.
 
 2. Set the prop `collapseContent` to `false` in the `product-description` block that should be set on your Product Details page, thereby ensuring that the full content of a product description will always be displayed, regardless of its size.
 
