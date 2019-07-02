@@ -1,6 +1,6 @@
 # Toolbelt dependency on Housekeeper 
 
-In order to decrease inconsistencies between apps updates, VTEX IO Toolbelt now uses the __Housekeeper API__.  
+In order to decrease inconsistencies between apps updates, [VTEX IO Toolbelt](https://github.com/vtex/toolbelt) now uses the __Housekeeper API__.  
 
 :information_source: Housekeeper is the system responsible for automatically updating account apps.
 
