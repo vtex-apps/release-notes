@@ -16,7 +16,7 @@ Presently, when nothing is retrieved from the search results preview, the Search
 
 As the Search Bar component was previously behaving, users would feel frustrated for not being able to see a proper preview of items in the search bar after typing a simple term and being subjected to a long loading time.
 
-The Search Bar also felt buggy, since the empty results message said no match was found even though results were uncovered when an advanced search was performed
+The Search Bar also felt buggy, since the empty results message showed no match was found even though results were uncovered when an advanced search was performed
 
 ## What you need to do
 
