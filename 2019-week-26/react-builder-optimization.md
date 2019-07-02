@@ -8,7 +8,6 @@ Previously, a lot of unnecessary code was being sent to the browser due to the w
 
 Previously:
 
-
 Presently:
  
 As shown above, the React builder optimization has led to __a 53% reduction in resources!__
