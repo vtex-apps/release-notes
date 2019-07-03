@@ -12,7 +12,10 @@ Previously, our CLI (VTEX IO Toolbelt) did not take advantage of the Housekeeper
 
 The Housekeeper API solves both issues: it is now used by VTEX IO Toolbelt to decide which updates are to be made to a given workspace considering the necessary changes to an account edition. 
 
-When launching the `vtex update` command, tables separated by the app installation type (if it is an infra app, an user-installed app, an edition-installed app, etc.) are displayed containing the pending updates. 
+When launching the `vtex update` command, tables separated by the app installation type (if it is an infra app, an user-installed app, an edition-installed app, etc.) are displayed containing the pending updates. For example:
+
+![toolbelt-using-housekeeper-api](https://user-images.githubusercontent.com/52087100/60601333-56453500-9d88-11e9-87c0-b1de41cb7711.png)
+
 
 ## Main advantages
 
