@@ -8,7 +8,11 @@ Previously, a lot of unnecessary code was being sent to the browser due to the w
 
 Previously:
 
+![react-builder-optimization-before](https://user-images.githubusercontent.com/52087100/60601542-ae7c3700-9d88-11e9-954b-d8777e049e94.png)
+
 Presently:
+
+![react-builder-optimization-after](https://user-images.githubusercontent.com/52087100/60601533-aa501980-9d88-11e9-87d8-f6a43e85b155.png)
  
 As shown above, the React builder optimization has led to __a 53% reduction in resources!__
 
