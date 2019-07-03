@@ -1,6 +1,6 @@
 # Search Bar component
 
-The Search Bar component behavior has improved the search results preview performance with more accurate product results and a more explanatory display message when no results are found.
+The Search Bar component behavior has improved the search __results preview performance__ with more accurate product results and a more explanatory display message when no results are found.
 
 ## What has changed 
 
@@ -8,7 +8,7 @@ Previously, the search results preview was not as accurate. For example: when se
 
 The search results now show __all__ products that contain the searched term in their names, without exception.
 
-In addition, the message displayed when no results are found also has been improved. When searching for a term that was not found in any product name, the displayed message saying that no match was found was misleading the user since a more complete search (not just a preview by product name) would yield results.
+In addition, the message displayed when no results are found also has been improved. When searching for a term that was not found in any product name, the displayed message saying that no match was found was misleading the user since a more complete search (not just a preview by product name) would give results.
 
 Presently, when nothing is retrieved from the search results preview, the Search Bar component displays the following message: _Search for: {the term you’ve searched for}_, letting the user know that even though no product was shown in the preview, it is still possible to find a positive result for the searched term.
 
