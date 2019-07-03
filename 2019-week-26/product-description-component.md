@@ -6,6 +6,9 @@ With the prop `collapseContent`, our [Product Description](https://github.com/vt
 
 Before this prop was created, the product description was always cropped when it was too long. It was not possible to set a default that would display the whole product description.
 
+![product-description-showmore-button](https://user-images.githubusercontent.com/52087100/60601061-cdc69480-9d87-11e9-84cd-490696f625db.png)
+
+
 ## Main advantages
 
 This improvement delivers a more flexible solution that serves different layouts needs. The retailer is now able to decide whether the product description should be collapsed when too long (as it was previously) or displayed in full, thereby ensuring the user has a better shopping experience.  
