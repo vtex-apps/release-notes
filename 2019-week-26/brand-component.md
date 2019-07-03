@@ -8,17 +8,19 @@ Before the release of this component, it was only possible to retrieve the produ
 
 With Brand component, it is now possible to display not only the product’s brand name independently, but also the product’s brand logo, which was not available before.
 
+![brand-component](https://user-images.githubusercontent.com/52087100/60600980-a374d700-9d87-11e9-9f57-e10cbe371577.png)
+
 ## Key advantage
 
 The new component provides more flexibility to build your Product Details pages, by showing the product brand name and/or the brand logo in any position on the page with its own css customization.
 
 ## What you need to do
 
-1. Make sure your store has at least the 3.47.0 version of the app [Store Components](https://github.com/vtex-apps/store-components) installed.
+__1.__ Make sure your store has at least the 3.47.0 version of the app [Store Components](https://github.com/vtex-apps/store-components) installed.
 
-2. Add the component [Product Brand](https://github.com/vtex-apps/store-components/tree/master/react/components/ProductBrand) to your [Product Details](https://github.com/vtex-apps/product-details) page block.
+__2.__ Add the component [Product Brand](https://github.com/vtex-apps/store-components/tree/master/react/components/ProductBrand) to your [Product Details](https://github.com/vtex-apps/product-details) page block.
 
-3. Configure your Product Details Page block with the following props:
+__3.__ Configure your Product Details Page block with the following props:
 
 - `displayMode`: __string__ - you should choose between “logo” or “text”. This will define whether the product brand will be displayed by name or logo.
 
