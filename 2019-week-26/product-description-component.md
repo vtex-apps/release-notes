@@ -16,6 +16,6 @@ To set this improvement up in your store, follow the steps below:
 
 1. Make sure that your store has at least version 3.49.0 of the app [Store Components](https://github.com/vtex-apps/store-components) installed.
 
-2. Set the prop `collapseContent` to `false` in the `product-description` block that should be set on your Product Details page, thereby ensuring that the full content of a product description will always be displayed, regardless of its size.
+2. Set the prop `collapseContent` to `false` in the `product-description` block that should be set on your [Product Details](https://github.com/vtex-apps/product-details) page, thereby ensuring that the full content of a product description will always be displayed, regardless of its size.
 
 :eyes: If the prop is set to `true`,  a "_Show More_" button will be displayed whenever the product description is too long and collapsed. 
