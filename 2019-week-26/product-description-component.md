@@ -18,4 +18,4 @@ To set this improvement up in your store, follow the steps below:
 
 2. Set the prop `collapseContent` to `false` in the `product-description` block that should be set on your Product Details page, thereby ensuring that the full content of a product description will always be displayed, regardless of its size.
 
-:eyes: If set the prop is set to `true`,  a “Show More” button will be displayed whenever the product description is too long and collapsed. 
+:eyes: If the prop is set to `true`,  a "_Show More_" button will be displayed whenever the product description is too long and collapsed. 
