@@ -10,7 +10,7 @@ With the warning disclaimer present when in a master workspace, Storefront users
 
 Previously, no disclaimer was shown to users when editing their store in master. This lack of notice could lead to an increase in the number of errors and retries in the store editing process, since a lot of users may run tests without being aware that any modifications have an immediate effect for the store’s end users.
 
-:warning: Testing new configurations in master immediately affects your store’s operation. We recommend using a development workspace to run tests for any desired change. Only after running all the tests and making sure that everything works correctly should you promote your workspace to master.
+:warning: __Testing new configurations in master immediately affects your store’s operation.__ We recommend using a development workspace to run tests for any desired change. Only after running all the tests and making sure that everything works correctly should you promote your workspace to master.
 
 ## Main advantage
 
