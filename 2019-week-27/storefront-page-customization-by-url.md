@@ -16,4 +16,4 @@ This new feature improves the user’s browsing experience, allowing users to ac
 
 ## What you need to do
 
-To have access to this feature, make sure your store’s admin has Pages app version 3.15.0 is installed.
+To have access to this feature, make sure your store’s admin has Pages app version __3.15.0__ is installed.
