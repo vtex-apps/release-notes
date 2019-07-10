@@ -2,6 +2,8 @@
 
 You can directly navigate to a specific URL when customization store pages through the Storefront section, located within the new CMS module version.
 
+<img width="1414" alt="customization-by-url" src="https://user-images.githubusercontent.com/52087100/60998943-5e751580-a330-11e9-91cb-8d7001f59756.png">
+
 :information_source: This feature became available on June 18th, 2019.
 
 ## What has changed
