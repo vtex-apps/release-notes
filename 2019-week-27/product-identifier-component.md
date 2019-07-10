@@ -23,7 +23,7 @@ Prior to this release, the products/SKU IDs and references weren’t available a
 
 By displaying an official ID or Reference, the user can easily refer to the product or SKU through any of the store’s available communication channel, improving their buying experience.
 
-In addition, this component is useful for providing extra flexibility in the store layout since it can be placed anywhere when combined with the Product Page flex layout.
+In addition, this component is useful for providing extra flexibility in the store layout since it can be placed anywhere when combined with the Product page flex layout.
 
 
 ## What you need to do
