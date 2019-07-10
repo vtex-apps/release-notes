@@ -1,6 +1,6 @@
 # Search Bar component behavior
 
-With its new prop `attemptPageTypeSearch` set as `true`, the Search Bar component now allows category name, brand and collection searches to be performed by users.
+With its new prop `attemptPageTypeSearch` set as `true`, the [Search Bar component](https://github.com/vtex-apps/store-components/blob/master/react/components/SearchBar/README.md) now allows category name, brand and collection searches to be performed by users.
 
 
 ## What has changed
