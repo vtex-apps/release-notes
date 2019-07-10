@@ -4,7 +4,7 @@ It is possible to now display a product identifier on your Product Details page.
 
 <img width="211" alt="product-identifier-component" src="https://user-images.githubusercontent.com/52087100/60997935-62a03380-a32e-11e9-9c3b-754fdc01ec7d.png">
 
-The [new Product identifier](https://github.com/vtex-apps/product-identifier) component can be configured to display the following product identifier options:
+The new [Product identifier component](https://github.com/vtex-apps/product-identifier) can be configured to display the following product identifier options:
 
 - Product Reference
 
