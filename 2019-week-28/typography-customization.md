@@ -22,4 +22,5 @@ Editing typography through the admin interface improves retailers experience and
 
 ## What you need to do
 
-To start enjoying this feature, ensure that your store in running version __3.x__ of the Admin app. Higher versions will receive support soon.
+To start enjoying this feature, ensure that your store's admin has Pages app version 3.x installed. Higher versions will receive support soon.
+
