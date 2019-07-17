@@ -4,7 +4,7 @@ Welcome to the VTEX IO weekly release notes!
 
 Here’s a sneak peek at the key changes made in the last week:
 
->:bell:  Keep up with VTEX IO release notes! Just click on  **Releases only**  in the  **Watch**  box in the right upper corner of this page.
+>:bell: Keep up with VTEX IO release notes! Just click on  **Releases only**  in the  **Watch**  box in the right upper corner of this page.
 
 ### New features  :rocket:
 
