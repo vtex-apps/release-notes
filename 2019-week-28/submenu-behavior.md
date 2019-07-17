@@ -4,7 +4,7 @@ The Menu component’s expanding behavior was improved for mobile.
 
 ## What has changed
 
-Previously, when a submenu was triggered, the Menu component did not exhibit a user-friendly behavior. Its frame size would not expand, displaying a scroll-bar anytime a user needed to click on something in the submenu.
+Previously, when a submenu was triggered, the Menu component did not exhibit a user-friendly behavior. Its frame size would not expand, displaying a scroll-bar anytime a user needed to click on something in a submenu.
 
 ![before-submenu-behavior](https://user-images.githubusercontent.com/52087100/61395314-810cae80-a89b-11e9-9537-566344e69e24.gif)
 
