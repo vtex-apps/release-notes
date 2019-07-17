@@ -10,6 +10,8 @@ It was previously not possible to perform an A/B testing natively using VTEX IO 
 
 At present, VTEX IO A/B testing is available to everyone looking to use the tool, allowing your store to balance traffic between workspaces and their respective conversion rates. 
 
+![](https://lh6.googleusercontent.com/4gm1pizf7cmx0qgU-qxTpoASaHdKKToyq945Xf2lQpWPStOEzsr1W25uaBPo8SQRuIb8TC3uB3_lGP6yaWtegbatYvwbBNZra55GARf3v8e-mhKM1SzvloRIPriv4VenNTHNAl8U)
+
 ## Main advantages
 
 Our native A/B testing solution were designed for e-commerce solutions and allow VTEX IO clients to expand the potential of the results and minimize their losses on possible drops of conversion rates. 
