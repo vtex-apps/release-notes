@@ -18,4 +18,4 @@ With this release, the menu usability is improved, providing users with a better
 
 ## What you need to do
 
-Make sure you have at least version __2.17.1__ of the [Menu](https://github.com/vtex-apps/menu) component installed in your store.
+Make sure you have at least version __2.17.1__ of the [Menu component](https://github.com/vtex-apps/menu) installed in your store.
