@@ -42,7 +42,7 @@ By adopting the new hooks React functionality, React will spend less time render
 
 ## What do you need to do
 
-This improvement is available to any __store@2.x__ user since any such store automatically uses render-runtime@8.x. in which this improvement was implemented.
+This improvement is available to any user that has [Store](https://github.com/vtex-apps/store) app version 2.x installed,   since any such store automatically uses render-runtime version 8.x (in which this improvement was implemented). 
 
 ## Side effects
 
