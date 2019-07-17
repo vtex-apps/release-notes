@@ -38,11 +38,11 @@ This improvement can lead to improvements in responsiveness of up to 30%!
 
 ##  Main advantages
 
-By adopting the new Hooks React functionality, React will spend less time rendering components onto the interface, thereby ensuring a faster and better end user response time in both stores and admin.
+By adopting the new hooks React functionality, React will spend less time rendering components onto the interface, thereby ensuring a faster and better end user response time in both stores and admin.
 
 ## What do you need to do
 
-This improvement is available to any store@2.x user since any such store automatically uses render-runtime@8.x. in which this improvement was implemented.
+This improvement is available to any __store@2.x__ user since any such store automatically uses render-runtime@8.x. in which this improvement was implemented.
 
 ## Side effects
 
