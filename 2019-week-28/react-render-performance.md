@@ -6,9 +6,9 @@ The number of rendered components by React can be reduced using hooks, which all
 
 ## What has changed
 
-Previously, all components necessary for rendering each page were added to the React tree among a ContextConsumer, increasing rendering time, since `render-runtime` did not use the React hooks feature. 
+Previously, all components necessary for rendering each page were added to the React tree among a `ContextConsumer`, increasing rendering time.
 
-At present, by using the hooks React feature in VTEX IO, you can reuse a ContextConsumer component data by directly using the `context` object in the component itself, without adding it to the React tree. This ensures a faster loading time for the end user.
+At present, by using the hooks React feature in VTEX IO `render-runtime`, you can reuse a `ContextConsumer` component data by directly using the `context` object in the component itself, without adding it to the React tree. This ensures a faster loading time for the end user.
 
 ### Practical effects
 
