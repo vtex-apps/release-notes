@@ -18,7 +18,7 @@ Inside this section in __Font Family__, you can add fonts of your choosing that 
 
 ## Main advantages
 
-Editing typography through the admin interface improves retailers experience and ability to customize their stores, decreasing their dependence on direct code changes.
+Editing typography through the admin interface improves retailers experience and ability to customize their stores.
 
 ## What you need to do
 
