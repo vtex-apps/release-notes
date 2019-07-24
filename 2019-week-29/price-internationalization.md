@@ -26,7 +26,7 @@ Looking at the example stated above, we could have the following real life situa
 
 ## Main advantages
 
-The new feature not only give retailers freedom of choice on the decimal places displayed by the store’s prices as it courages store internationalization by correctly adapting the currency code according the end-user’s location. This avoids that the user is faced with misleading product price information and ensures greater store reliability.
+The new feature not only give retailers __freedom of choice__ on the decimal places displayed by the store’s prices as it courages __store internationalization__ by correctly adapting the currency code according the end-user’s location. This avoids that the user is faced with misleading product price information and ensures greater store reliability.
 
 ## What you need to do
 
