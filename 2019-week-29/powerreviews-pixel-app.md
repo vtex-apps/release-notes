@@ -28,7 +28,7 @@ __2.__ Open the __Apps__ section in your store admin by accessing the following 
 
 `https://{AccountName}.myvtex.com/admin/apps/`
 
-__3.__ Click on the __PowerReviews__ box and fill in the __App Key__, __Merchant ID__, __Merchant Group ID__ and __API Unique ID__ fields. Those values are given by the PowerReviews platform when granting the integration.
+__3.__ Click on the __PowerReviews__ box and fill in the __App Key__, __Merchant ID__, __Merchant Group ID__ and __API Unique ID__ fields. The first three values are given by the PowerReviews platform when granting the integration. The __API Unique ID__ must be filled out using the product information that will link the product review available on the platform to the PowerReviews solution. You can choose between __Link Text__, __product ID__ or __Product reference ID__.
 
 ## Side effects
 
