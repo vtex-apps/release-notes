@@ -1,4 +1,4 @@
-# `Blocks.json` structure
+# Store Theme blocks structure
 
 The original Store Theme `blocks.json` file now can be __split into different folders and files__, in addition to also __accepting written comments__ in it.
 
