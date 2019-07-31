@@ -1,0 +1,14 @@
+{
+  "vendor": "vtex",
+  "name": "io-release-notes",
+  "version": "0.0.0",
+  "title": "VTEX IO Release Notes",
+  "description": "VTEX IO weekly release notes",
+  "builders": {
+    "docs": "0.x"
+  },
+  "categories": [],
+  "registries": ["smartcheckout"],
+  "settingsSchema": {},
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
