@@ -22,14 +22,18 @@ For this product we would send the information:
 
 ```
 {
+...
 	category: “caps”,
+...
 }
 ```  
 Now we send the full category tree:
 
 ```
 {
+...
 	category: “apparel---accessories/hats/caps”,
+...
 }
 ```
 
