@@ -14,7 +14,7 @@ git: "https://github.com/vtex-apps/release-notes"
 ​
 This functionality is used to create menus with text and custom icons besides each menu item. Example:
 
-<img width=200 alt="shop-by-category" src="https://images.ctfassets.net/alneenqid6w5/Mo1BRNnVtmWfw0Hq4Kzwn/82acbdadb27e1e2b6b8d84f820c8d1f9/image.png">
+<img width=200 alt="shop-by-category" src="https://images.ctfassets.net/alneenqid6w5/6gWK5iM9VPlQ9fqpyyijtd/925bf668276c714c65a794d9791fb44e/categories-shop-en.png">
 
 ## How it works
 
