@@ -1,6 +1,13 @@
+---
+title: Store Theme blocks structure
+description: "The original Store Theme `blocks.json` file now can be split into different folders and files, in addition to also accepting written comments in it."
+date: "24/07/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Store Theme blocks structure
 
-The original Store Theme `blocks.json` file now can be __split into different folders and files__, in addition to also __accepting written comments__ in it.
+The original Store Theme `blocks.json` file now can be **split into different folders and files**, in addition to also **accepting written comments** in it.
 
 ## What has changed
 
@@ -20,7 +27,7 @@ The new feature improves theme code organization, improving its management and d
 
 ## What you need to do
 
-Make sure that you store is running [Store Theme](https://github.com/vtex-apps/store-theme) app version __3.6.1__ or higher.
+Make sure that you store is running [Store Theme](https://github.com/vtex-apps/store-theme) app version **3.6.1** or higher.
 
 ## Side effects
 

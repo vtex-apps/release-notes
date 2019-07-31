@@ -1,10 +1,17 @@
+---
+title: Minicart component
+description: "The minicart component can now display the total cart item quantity and value."
+date: "24/07/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Minicart component
 
-Thanks to two new properties, the Minicart component now can display the __total cart item quantity and value__.
+Thanks to two new properties, the Minicart component now can display the **total cart item quantity and value**.
 
 ## What has changed
 
-Previously, the Minicart component could only show the __quantity for different items__ added to the cart. This means that if two identical shirt and one pair of pants were added to a cart, the Minicart would mislead the user by displaying only __2__ items. Also, viewing the total cart value was not possible. 
+Previously, the Minicart component could only show the **quantity for different items** added to the cart. This means that if two identical shirt and one pair of pants were added to a cart, the Minicart would mislead the user by displaying only **2** items. Also, viewing the total cart value was not possible.
 
 With the new `showTotalItemsQty` and `showPrice` properties, the Minicart can now follow a distinct behavior which will show the total quantity of items present in your cart as well as their total value. Before this feature, none of these two behaviors was available for the component.
 
@@ -19,8 +26,8 @@ With the new `showTotalItemsQty` and `showPrice` properties, the Minicart can no
 
 ## Main advantages
 
-With this release, the Minicart behavior is improved, providing users with a better browsing experience since they can now easily have total cart item quantity and value at hand. 
+With this release, the Minicart behavior is improved, providing users with a better browsing experience since they can now easily have total cart item quantity and value at hand.
 
 ## What you need to do
 
-Make sure the store is running version __2.22.0__  or higher of the [Minicart](https://github.com/vtex-apps/minicart) app.
+Make sure the store is running version **2.22.0** or higher of the [Minicart](https://github.com/vtex-apps/minicart) app.

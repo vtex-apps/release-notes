@@ -1,6 +1,13 @@
+---
+title: Server timing
+description: "Aiming to improve the oversight of performance issues, this new VTEX IO release offers a server timing feature running throughout the request cycle."
+date: "24/07/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Server Timing
 
-Aiming to improve the __oversight of performance issues__, this new VTEX IO release offers a server timing feature running throughout the request cycle.
+Aiming to improve the **oversight of performance issues**, this new VTEX IO release offers a server timing feature running throughout the request cycle.
 
 ## What has changed
 
@@ -14,7 +21,7 @@ The Server Timing header in each request follows the following format:
 
 `<hop>.<service>#<target>`
 
--  `<hop>` is the quantity of commands already executed in the IO infrastructure up to the respective request.
+- `<hop>` is the quantity of commands already executed in the IO infrastructure up to the respective request.
 
 - `<service>` is the app the firstly received a request and that performs a query, meaning that it sends another request to another app to get the necessary data.
 
@@ -32,27 +39,27 @@ Here, we can notice that `<service>` is the `gql-srv` app that firstly receives 
 
 `1.Apps#test`
 
-where `<hops>` is now equal to __1__ because of the quantity of commands that were already executed on the IO infra (`gql-srv` > `Apps`) up to the given moment.
+where `<hops>` is now equal to **1** because of the quantity of commands that were already executed on the IO infra (`gql-srv` > `Apps`) up to the given moment.
 
 ## Key advantage
 
-The feature aims to give greater __response timing visibility__, helping to detect bugs that previously could be hidden in certain apps.
+The feature aims to give greater **response timing visibility**, helping to detect bugs that previously could be hidden in certain apps.
 
 By making performance issues easier to surveil, the store’s behavior control and monitoring become undemanding and more agile.
 
 ## What you need to do
 
-Any user browsing a VTEX IO version __2.x__ page can access the Server Timing information in the browser by following the steps below:
+Any user browsing a VTEX IO version **2.x** page can access the Server Timing information in the browser by following the steps below:
 
-__1.__ Inspect the page
+**1.** Inspect the page
 
-__2.__ Access the Network tab
+**2.** Access the Network tab
 
-__3.__ Click on the first name from the data list that will appear
+**3.** Click on the first name from the data list that will appear
 
-__4.__ Access Timing tab to check the data collected by the Server Timing feature
+**4.** Access Timing tab to check the data collected by the Server Timing feature
 
-:warning: In cached pages, Server Timing may not show responsiveness data for certain apps since the information required by the request can already be reached through the cache, without the need to call the app. 
+:warning: In cached pages, Server Timing may not show responsiveness data for certain apps since the information required by the request can already be reached through the cache, without the need to call the app.
 
 ## Side effects
 
