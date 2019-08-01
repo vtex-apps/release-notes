@@ -1,6 +1,6 @@
 ---
 title: Image component now has href prop
-description: "Our image component now support the prop link."
+description: "Our image component now supports the prop link."
 date: "31/07/2019"
 git: "https://github.com/vtex-apps/release-notes"
 ---
@@ -8,24 +8,24 @@ git: "https://github.com/vtex-apps/release-notes"
 
 # Image component now has href prop
 
-Our image component - https://github.com/vtex-apps/store-components/blob/master/react/components/Image/README.md now support the prop link. Now it is possible to make the image clickable, and set the url to which the user will be redirected both by the storefront and by the blocks files.
+Our image component - https://github.com/vtex-apps/store-components/blob/master/react/components/Image/README.md now supports the prop link. It is now possible to make the image clickable, and to set the url to where the user will be redirected both on storefront and in the block files.
 
 ## What has changed
 
-Our image component wasn't clickable before, it was not possible to add a link on it.
+Our image component wasn't clickable before, it was not possible to link it.
 
 ## Main advantages
 
-Now it is possible to set a custom url by image directly through the store front or by the blocks.
+It is now possible to set a custom image url directly through store front or blocks.
 
 ## What you need to do
 
-1 - Make sure you have the app store-components installed in your store -https://github.com/vtex-apps/store-components/
+1 - Make sure your store had the app store-components installed -https://github.com/vtex-apps/store-components/
 
 2 - Add the component Image to your store
 https://github.com/vtex-apps/store-components/blob/master/react/components/Image/README.md 
 
-3 - Add the prop “link” to it on the blocks.json example:
+3 - Add the prop “link” to it in blocks.json; example:
 
 ```
 “props”: {

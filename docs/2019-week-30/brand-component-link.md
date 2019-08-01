@@ -1,6 +1,6 @@
 ---
 title: href on brand component
-description: "Now our brand component supports url that takes the user to the brand's page on the store."
+description: "Our brand component now supports a url that takes the user to the store's brand page."
 date: "31/07/2019"
 git: "https://github.com/vtex-apps/release-notes"
 ---
@@ -8,23 +8,23 @@ git: "https://github.com/vtex-apps/release-notes"
 
 # href on brand component
 
-Now our brand component supports url that takes the user to the brand's page on the store. The brand component may be placed at PDP, and it shows the brand name or icon, and now, it can also hold the link to the store's brand page.
+Our brand component now supports a url that takes the user to the store's brand page. The brand component may be placed on the PDP, showing the brand name or icon and can now also hold the link to the store's brand page.
 
 ## What has changed
 
-It wasn't possible to make the product brand logo redirect to the brand page in the store, but that is possible now with the logoWithLink prop in the ProductBrand. Before, the image/text was never clickable.
+It wasn't possible to make the product brand logo redirect to the store's brand page, but that is now possible with the `logoWithLink` prop in the Product Brand. Previously, the image/text was never clickable.
 
 ## Main advantages
 
-The component can become more interactive. Now the user can land the brand page more easily.
+The component can become more interactive.  The user can now land on the brand page more easily.
 
 ## What you need to do
 
-1 - Make sure you have the app `store-components` installed in your store: https://github.com/vtex-apps/store-components/
+1 - Make sure the app `store-components` installed in your store: https://github.com/vtex-apps/store-components/
 
-2 - Add the component `product-brand` to your store's product details page: https://github.com/vtex-apps/store-components/blob/master/react/components/ProductBrand/README.md
+2 - Add the `product-brand` component to your store's product details page: https://github.com/vtex-apps/store-components/blob/master/react/components/ProductBrand/README.md
 
-3 - Add the prop `logoWithLink` to it on the blocks.json, and set it as `true`.
+3 - Add the prop `logoWithLink` to it through blocks.json, and set it as `true`.
 
 Example:
 
