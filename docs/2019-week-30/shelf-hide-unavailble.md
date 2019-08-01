@@ -1,29 +1,29 @@
 ---
-title: Simple shelf now can hide unavailable products
-description: "Adding a the new prop hideUnavailableItem to a shelf will prevent that products out of stock show up on it."
+title: Simple shelf can now hide unavailable products
+description: "Adding the new prop hideUnavailableItem to a shelf will prevent out-of-stock products from appearing on it."
 date: "31/07/2019"
 git: "https://github.com/vtex-apps/release-notes"
 ---
 
 
-# Simple shelf now can hide unavailable products
+# Simple shelf can now hide unavailable products
 ​
 ​
 ## What has changed
-​Now it is possible to choose whether the shelf component will show unavailable items or not by setting a prop.
-It is used to ensure that the shelf will only show products in stock - available to be purchased.
+​It is now possible to choose whether the shelf component will show unavailable items or not by setting a prop.
+It is used to ensure that the shelf will only show products that are in stock - available to be purchased.
 
 <img width=450 alt="shop-by-category" src="https://images.ctfassets.net/alneenqid6w5/4W7LhuQMPL0oLTKd90a8Vv/832caf785d1a2ce94cd0ca322a3a56e1/shelf-unavailable.png_h_250">
 
-This prop doesn't work for “Related products shelf”, only for simple product shelf.
+This prop doesn't work for “Related products shelf”, but only for the simple product shelf.
 
 
 
 ## What you need to do
 
-​1 - Make sure you have the app [vtex.shelf](https://github.com/vtex-apps/shelf) installed in your store 
+​1 - Make sure your store had the [vtex.shelf](https://github.com/vtex-apps/shelf) app installed 
 
-2 - Add the component shelf to your store with the prop “hideUnavailableItems” set to true as the example below:
+2 - Add the component shelf to your store with the prop “hideUnavailableItems” set to true as in the example below:
 
 ```
   "shelf": {
@@ -32,7 +32,7 @@ This prop doesn't work for “Related products shelf”, only for simple product
     }
   }
 ```
-Or go to the store front, click on the shelf component and activate the option “Hide unavailable item”
+Or go to the store front, click on the shelf component and enable the option “Hide unavailable item”
 
 
 

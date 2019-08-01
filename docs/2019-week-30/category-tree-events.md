@@ -1,24 +1,24 @@
 ---
-title: Full category tree on GTM events
-description: "Now, every event of Google Enhanced Ecommerce used by our Tag Manager solution sends the whole category tree of the product."
+title: Full category tree for GTM events
+description: "Every Google Enhanced Ecommerce event used by our Tag Manager solution now sends the whole product category tree."
 date: "31/07/2019"
 git: "https://github.com/vtex-apps/release-notes"
 ---
 
 
-# Full category tree on GTM events
+# Full category tree for GTM events
 
-Now, every event of Google Enhanced Ecommerce used by our Tag Manager solution sends the whole category tree of the product. You can use that new information on your Google Analytics.
+Every Google Enhanced Ecommerce event used by our Tag Manager solution now sends the whole product category tree. You can use this new information in your Google Analytics.
 
 ## What has changed
 
-On the category field of every event we now send the full category tree, instead of the simple category.
+In the every event's category field, we now send the full category tree, instead of the simple category.
 
 ### How it works
 
 Example: [https://storetheme.vtex.com/apparel---accessories/hats/caps](https://storetheme.vtex.com/apparel---accessories/hats/caps)
 
-For this product we would send the information:
+For this product, we would send the information:
 
 ```
 {
@@ -27,7 +27,7 @@ For this product we would send the information:
 ...
 }
 ```  
-Now we send the full category tree:
+We now send the full category tree:
 
 ```
 {
@@ -37,11 +37,11 @@ Now we send the full category tree:
 }
 ```
 
-It reflects immediately on the Google Analytics of the store.
+It immediately reflects upon the store's Google Analytics.
 
 ## Main advantages
 
-Now the user can make better analysis on categories navigation, since the full tree is available.
+The user can now undertake a better analysis of categories navigation, since the full tree is available.
 
 ## What you need to do
 
@@ -49,4 +49,4 @@ All the events related to the products already have the category tree info.
 
 ## Side effects
 
-You might notice that the category structure that is shown in your google analytics has changed.
+You might notice that the category structure shown in your Google Analytics has changed.

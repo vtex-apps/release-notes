@@ -1,30 +1,30 @@
 ---
-title: New ordering options on search result and shelf components
-description: "Our search results and shelf components may be sorted by new criteria and their default ordering now is Relevance"
+title: A new way to order search results and shelf components
+description: "Our search results and shelf components may be sorted according to new criteria and their default order is by Relevance now"
 date: "31/07/2019"
 git: "https://github.com/vtex-apps/release-notes"
 ---
 
 
-# New ordering options on search result and shelf components
+# New search result and shelf components order options
 ​
 ​
 ## What has changed
 ​Our search results and shelf products may now be sorted by:
 
-- Name ascending
-- Name descending
+- Name, ascending
+- Name, descending
 - Release Date
 - Discount
 - Relevance
 
-Also, The default value of these two components has changed from "Sales" to “Relevance”.
+Also, the default value of these two components has changed from "Sales" to “Relevance”.
 
-The shelf component and the search results can have their default order changed (by the store owner) by all these new criteria through the store-front and directly by the blocks.
+The shelf components and search results can have their default order changed (by the store owner) to any of these new criteria through the store-front and directly through blocks.
 
 <img width="200" alt="shop-by-category" src="https://images.ctfassets.net/alneenqid6w5/46JqXbxOVeUa9nqEec63uA/b9067e9de60ca189531363d713c42db4/sort-by-relevance.png">
 
-Before this improvement, it was only possible to sort the products on these components by 
+Before this improvement, product shelf components could only be sorted according to 
 - Sales
 - Price: high to low
 - Price: low to high
@@ -32,48 +32,47 @@ Before this improvement, it was only possible to sort the products on these comp
 ​
 ## What you need to do
 
-- On the shelf component:
+- Regarding the shelf component:
 
-Add the prop `orderBy` to the block on your store with the following options:
+Add the  `orderBy` prop to your store's block with the following options:
 
-- `OrderByTopSaleDESC` - makes shelf be sorted by Sales
-- `OrderByReleaseDateDESC` - makes shelf be sorted by Release date
-- `OrderByBestDiscountDESC` - makes shelf be sorted by Discount
-- `OrderByPriceDESC` - makes shelf be sorted by Price (high to low)
-- `OrderByPriceASC`- makes shelf be sorted by Price (low to high)
-- `OrderByNameASC` - makes shelf be sorted by Name (alphabetic order)
-- `OrderByNameDESC` - makes shelf be sorted by Name (non-alphabetic order)
-- `‘’` - defaul value makes shelf be sorted by “relevance”
+- `OrderByTopSaleDESC` - shelf is sorted by Sales
+- `OrderByReleaseDateDESC` - shelf is sorted by Release date
+- `OrderByBestDiscountDESC` - shelf is sorted by Discount
+- `OrderByPriceDESC` - shelf is sorted by Price (high to low)
+- `OrderByPriceASC`- shelf is sorted by Price (low to high)
+- `OrderByNameASC` - shelf is sorted by Name (alphabetic order)
+- `OrderByNameDESC` - shelf is sorted by Name (non-alphabetic order)
+- `‘’` - default value; shelf is sorted by “relevance”
 
 Or
 
-On the Store front, you may choose this options as well to change the default value
+On the Store's front, you may choose these options or/and change the default value
 
 
 - On the search-results component:
 
-Add the prop `orderByField` to the block on your store with the following options:
+Add the `orderByField` prop your store's block with the following options:
 
 
-- `OrderByTopSaleDESC` - makes search-results be sorted by Sales
-- `OrderByReleaseDateDESC` - makes search-results be sorted by Release date
-- `OrderByBestDiscountDESC` - makes search-results be sorted by Discount
-- `OrderByPriceDESC` - makes search-results be sorted by Price (high to low)
-- `OrderByPriceASC`- makes search-results be sorted by Price (low to high)
-- `OrderByNameASC` - makes search-results be sorted by Name (alphabetic order)
-- `OrderByNameDESC` - makes search-results be sorted by Name (non-alphabetic order)
-- `‘’` - defaul value makes search-results be sorted by “relevance”
+- `OrderByTopSaleDESC` -  search results are sorted by Sales
+- `OrderByReleaseDateDESC` - search results are sorted by Release date
+- `OrderByBestDiscountDESC` - search results are sorted by Discount
+- `OrderByPriceDESC` - search results are sorted by Price (high to low)
+- `OrderByPriceASC`- search results are sorted by Price (low to high)
+- `OrderByNameASC` - search results are sorted by by Name (alphabetic order)
+- `OrderByNameDESC` - search results are sorted by Name (non-alphabetic order)
+- `‘’` - default value makes search-results be sorted by “relevance”
 
 Or
 
-On the Store front, you may choose this options as well to change the default value
+On the Store's front, you may choose these options or/and change the default value
 
 ## Side effects
 
-The previous default ordering value was “Sales”. If you already had a shelf or a search result block in your store ordered by the default value, it will change its behaviour and show up sorted by “Relevance” instead of “Sales”.
+The previous default ordering value was “Sales”. If you already had a shelf or a search result block in your store which was ordered by the default value, it will change its behavior and show up as sorted by “Relevance” instead of “Sales”.
 
 
 PRs for reference: 
 https://github.com/vtex-apps/search-result/pull/205 
 https://github.com/vtex-apps/shelf/pull/160
-
