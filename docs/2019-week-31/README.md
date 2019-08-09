@@ -10,8 +10,7 @@ Here's a sneak peek at key changes made in the last week:
 
 - [Color name on Sku Selector](color-name-sku-selector.md) - Show the name of the selected SKU color
 - [Change image onHover](change-image-on-hover.md) - Show a secondary product image by hovering it
-
--[Storefront language selector](storefront-language-selector.md) - Storefront support for multilanguage
+- [Storefront language selector](storefront-language-selector.md) - Storefront support for multilanguage
 
 ### Improvements  :heavy_plus_sign:
 
