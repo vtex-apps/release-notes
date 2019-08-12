@@ -8,7 +8,7 @@ Set the minimum amount of items that can be displayied on a shelf component rega
 
 
 It was only possible to set the maximum amount of items shown in a shelf by using the prop `itemsPerPage`.  This configuration would limit the amount of items shown even in the largest of the screens.  However, in small screens, it would always show one product per row - it was not possible to set a minimum amount of items to be shown.
-By setting the new prop minItemsPerPage you can also control the amount of items to be shown even in the smallest screen size.
+By setting the new prop `minItemsPerPage` you can also control the amount of items to be shown even in the smallest screen size.
 
 
 
