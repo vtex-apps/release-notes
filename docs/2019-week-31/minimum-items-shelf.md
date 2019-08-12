@@ -16,7 +16,7 @@ By setting the new prop `minItemsPerPage` you can also control the amount of ite
 ## Key advantage
 Using these two props together you can control how many items are shown in the smallest screen size  and in the biggest screen size, with the component adjusting itself when in intermediate sizes. 
 
-For example, if you want to always display 2 items on mobile, you just need to pass minItemsPerPage: 2. and a maximum of 5 items on a big screen, you could also pass the already existing prop "itemsPerPage:5"
+For example, if you want to always display 2 items on mobile, you just need to pass `minItemsPerPage: 2`. and a maximum of 5 items on a big screen, you could also pass the already existing prop `itemsPerPage: 5`
 
 
 ## What you need to do
