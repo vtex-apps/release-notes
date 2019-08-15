@@ -6,7 +6,7 @@ Display the name of the SKU color above its image on the SKU Selector.
 
 When the user had to select a product’s color from the Product Details page, he had to rely only on the product’s image to imagine how it looked. It is now possible to display the name of the SKU color in addition to the variation’s name, in order to help the user to choose from among the available options.
 
-<img width=160 src=“https://user-images.githubusercontent.com/12139385/62787485-309fff80-ba9b-11e9-85c5-e08528688f8f.png“>
+<img width=160 alt=“shop-by-category” src=“https://user-images.githubusercontent.com/12139385/62787485-309fff80-ba9b-11e9-85c5-e08528688f8f.png“>
 
 ## Key advantage
 
