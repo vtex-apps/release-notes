@@ -10,7 +10,7 @@ With this change, a new language selector has been added to Storefront’s top b
 
 ## Key advantage
 
-With this feature, we are able to support languages having different locales, e.g: `pt-BR`, `pt-PT`, `en-US`, `en-GB`.
+Storefront is now able to support languages having different locales, e.g: `pt-BR`, `pt-PT`, `en-US`, `en-GB`.
 
 ## What you need to do
 
