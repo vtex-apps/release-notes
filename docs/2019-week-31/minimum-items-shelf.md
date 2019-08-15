@@ -22,6 +22,8 @@ __2.__ Configure your shelf block with the `minItemsPerPage` prop. Its value mus
 
 :eyes: The `minItemsPerPageprop` is part of the `productList` set of props. An example on how to set it in a valid block can be seen below:
 
+```
+
 "shelf": {
   "props": {
     "orderBy": "OrderByTopSaleDESC",
@@ -53,3 +55,5 @@ __2.__ Configure your shelf block with the `minItemsPerPage` prop. Its value mus
     }
   }
 }
+
+```
