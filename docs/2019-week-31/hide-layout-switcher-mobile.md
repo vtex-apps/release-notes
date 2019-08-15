@@ -35,7 +35,7 @@ __2.__ Configure the Search Result with the following options inside the `mobile
 
 Notice that the default behavior for your store will be the one defined by `mode1`. If you want the user to be able to switch between two modes, you must specify the `mode2` prop. If only `mode1` is provided, the layout switcher will not be shown, and search results will always be rendered following the `mode1` value. 
 
-:warning: __The value `normal` sets the Single mode and the `small` sets the Grid mode.
+:warning: __The value__ `normal` __sets the Single mode and the__ `small` __sets the Grid mode.__
 
 Below, you can find an example of a simple shelf with the Grid mode set to default and Single mode as secondary option:
 
