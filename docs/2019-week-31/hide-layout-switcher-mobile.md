@@ -1,64 +1,44 @@
+# Search Result layout switcher on mobile mode
 
-# Control Layout Switcher on Mobile mode
+By setting the prop `mobileLayout` in the Search Result component, it is now possible to choose which layout mode you want your Search Result to be displayed in.
 
+## How it works
 
-Control the mobile layout's default mode on your search results and the display of the layout's controller. Current mobile layout options are grid mode and single mode
+The Search Result component can be displayed in two different layout options:
 
-## What has changed 
-
-By setting the prop `mobileLayout`in your [search-result component](https://github.com/vtex-apps/search-result), it is possible to choose which is the mode in which to show your search-results on mobile mode. 
-
-
-Grid mode:
+- __Grid mode__
 
 <img width=180 alt="shop-by-category" src="https://user-images.githubusercontent.com/12139385/62788279-f3d50800-ba9c-11e9-8176-7583235fd709.png">
 
-
-
-
-Single mode:
+- __Single mode__
 
 <img width=180 alt="shop-by-category" src="https://user-images.githubusercontent.com/12139385/62789631-ba51cc00-ba9f-11e9-842f-d6b2e22fbaf3.png">
 
+The `mobileLayout` prop allows you to set four different scenarios in your store:
 
+- Grid mode as the default layout and only option for users.
+- Single mode as the default layout and only option for users.
+- Grid mode as the default layout and Single Mode as the secondary option for users.
+- Single mode as the default layout and Grid Mode as the secondary option for users.
 
-With this prop you are able to set four different scenarios:
-
-
-* Grid mode as default and only option
-* Single mode as default and only option
-* Grid mode as default, and single mode as secondary option
-* Single mode as default, and grid mode as secondary option
-
-
-The secondary option can be activated/deactivated by the store's user through the layout switcher component placed in the upper-right corner of the search results page. When setting a scenario with only one layout option, the layout switcher doesn't show up on the user's screen.
-
+:eyes: The secondary option can be activated/deactivated by the store’s user through the layout switcher component placed in the upper-right corner of the Search Results page. When setting a scenario with only one layout option, the layout switcher doesn’t show up on the user’s screen.
 
 ## What you need to do
 
+__1.__ Set the [Search Result](https://github.com/vtex-apps/search-result) component within the `store.search` block.
 
-__1.__ Set the [Search Result](https://github.com/vtex-apps/search-result) to your `store.search` block.
+__2.__ Configure the Search Result with the following options inside the `mobileLayout` prop:
 
+- `mode1`: prop that defines the default Search Result layout. Its value can be set as `normal` or `small`. :information_source: Default value is `normal`.
 
-__3.__ Configure your search result block with the following options inside the prop `mobileLayout`:
+- `mode2`: prop that defines the secondary layout option for users. Its value can be set as `normal` or `small`. :information_source: Default value is `small`.
 
+Notice that the default behavior for your store will be the one defined by `mode1`. If you want the user to be able to switch between two modes, you must specify the `mode2` prop. If only `mode1` is provided, the layout switcher will not be shown, and search results will always be rendered following the `mode1` value. 
 
-- `mode1`: __enum__ - . Layout mode of the switcher (values: 'normal' or 'small') . Default value is `normal`.
-- `mode2`: __enum__ - . Layout mode of the switcher (values: 'normal' or 'small') . Default value is `small`.
+:warning: __The value `normal` sets the Single mode and the `small` sets the Grid mode.
 
+Below, you can find an example of a simple shelf with the Grid mode set to default and Single mode as secondary option:
 
-The value `normal` sets the **single** mode.
-The value `small` sets the **grid** mode.
-
-
-Notice that the default behavior for your store will be the one defined by the mode1. If you want the user to be able to switch between two modes, you must specify the mode2 prop. 
-If only the mode1 is provided, the layout switcher will not be shown and search results will always be rendered according to mode1.
-
-
-
-
-An example of a simple shelf with the scenary "Grid mode as default, and single mode as secondary option" set can be shown below:
-    
 ```
 "search-result": {
     "blocks": [
@@ -74,5 +54,5 @@ An example of a simple shelf with the scenary "Grid mode as default, and single 
         "mode1": "small",
         "mode2": "normal"
       }
-```
-
+      
+      ```
