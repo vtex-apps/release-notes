@@ -32,4 +32,4 @@ The new CSS handles also enable Drawer customization as desired, allowing for a 
 
 ## What you need to do
 
-To customize the [Drawer](https://github.com/vtex-apps/drawer), ensure that your store is already running version __0.2.0__ or higher.
+To customize the [**Drawer**](https://github.com/vtex-apps/drawer), ensure that your store is already running version __0.2.0__ or higher.
