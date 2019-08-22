@@ -6,7 +6,7 @@ Check our latest releases to promote an **optimal VTEX IO infra performance**, e
 
 ## • render-server latency decrease
 
-The average `render-server` latency, the service responsible for delivering pages to the browser, was reduced threefold (from around 700ms to 240ms). The impact of this decrease in page delivery time can be felt by end-users mainly on store front pages.
+The average `render-server` latency, the service responsible for delivering pages to the browser, was reduced threefold (from around 700ms to 240ms). The impact of this decrease in page delivery time can be felt by end-users mainly on store home pages.
 
 **Previously:**
 
