@@ -4,7 +4,7 @@ Below, check our latest releases to promote an **optimal VTEX IO infra performan
 
 :eyes: No action for the releases below is warranted on your side. The performance improvement is already available to all VTEX IO users!
 
-## • `render-server` latency decrease
+## • render-server latency decrease
 
 The average `render-server` latency, the service responsible for delivering pages to the browser, was reduced threefold (from around 700ms to 240ms). The impact of this decrease in page delivery time can be felt by end-users mainly on store front pages.
 
@@ -39,7 +39,7 @@ The internal logs architecture was improved, reducing internal infrastructure re
 ---
 
 
-## • `render-ssr` latency decrease
+## • render-ssr latency decrease
 
 The average `render-ssr` latency, the VTEX IO service responsible for generating the HTML for page rendering, was decreased from 1300ms to 800ms, approximately.
 
