@@ -22,4 +22,4 @@ The new prop allows the retailer to be able to choose the best way to position t
 
 ## What you need to do
 
-To be able to customize your store’s thumbnail position, have version __3.61.0__ or higher of [Store Components](https://github.com/vtex-apps/store-components) installed.
+To be able to customize your store’s thumbnail position, have version __3.61.0__ or higher of [**Store Components**](https://github.com/vtex-apps/store-components) installed.
