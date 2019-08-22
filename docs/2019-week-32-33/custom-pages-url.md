@@ -16,4 +16,4 @@ With this new prop, the user’s store experience is improved since browsing a c
 
 ## What you need to do
 
-It’s available starting with [Search Result](https://github.com/vtex-apps/search-result) app version **3.23.0** . Make sure that your store is already running this version or higher.
+It’s available starting with [**Search Result**](https://github.com/vtex-apps/search-result) app version **3.23.0** . Make sure that your store is already running this version or higher.
