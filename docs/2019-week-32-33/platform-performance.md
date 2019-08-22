@@ -4,7 +4,7 @@ Below, check our latest releases to promote an **optimal VTEX IO infra performan
 
 :eyes: No action for the releases below is warranted on your side. The performance improvement is already available to all VTEX IO users!
 
-## `render-server` latency decrease
+## • `render-server` latency decrease
 
 The average `render-server` latency, the service responsible for delivering pages to the browser, was reduced threefold (from around 700ms to 240ms). The impact of this decrease in page delivery time can be felt by end-users mainly on store front pages.
 
@@ -18,7 +18,7 @@ The average `render-server` latency, the service responsible for delivering page
 
 --- 
 
-## Cache increase in Segments requests
+## • Cache increase in Segments requests
 
 Due to an increase in the Segments system requests cacheability, latency for apps that use the Catalog, such as Search and Product Page, was decreased.
 
@@ -29,7 +29,7 @@ Due to an increase in the Segments system requests cacheability, latency for app
 
 ---
 
-## Logs architecture improvement
+## • Logs architecture improvement
 
 The internal logs architecture was improved, reducing internal infrastructure requests load by about 20k reqs/min.
 
@@ -39,7 +39,7 @@ The internal logs architecture was improved, reducing internal infrastructure re
 ---
 
 
-## `render-ssr` latency decrease
+## • `render-ssr` latency decrease
 
 The average `render-ssr` latency, the VTEX IO service responsible for generating the HTML for page rendering, was decreased from 1300ms to 800ms, approximately.
 
@@ -49,7 +49,7 @@ The average `render-ssr` latency, the VTEX IO service responsible for generating
 
 ---
 
-## Optimized number of requests for Messages
+## • Optimized number of requests for Messages
 
 The number of requests for Message, the system responsible for translating VTEX IO pages, was optimized, leading to decrease in requests from 1.25M/day to 250K/day.
 
@@ -58,6 +58,6 @@ The number of requests for Message, the system responsible for translating VTEX 
 
 ---
 
-## Low browser javascript request rate
+## • Low browser javascript request rate
 
 With this improvement, the number of javascript requests needed by the browser for loading an IO page in production was decreased. The decrease directly impacts the loading time of VTEX IO pages in production, reducing page rendering time.
