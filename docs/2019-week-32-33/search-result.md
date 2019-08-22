@@ -16,4 +16,4 @@ To support dynamic content, the new prop simultaneously shows the user data on t
 
 ## What you need to do
 
-The new prop is available starting with the [Search Result](https://github.com/vtex-apps/search-result) app version **3.28.0**. Make sure your store is already running this version or higher.
+The new prop is available starting with the [**Search Result**](https://github.com/vtex-apps/search-result) app version **3.28.0**. Make sure your store is already running this version or higher.
