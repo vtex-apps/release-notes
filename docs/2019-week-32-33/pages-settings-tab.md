@@ -16,4 +16,4 @@ The Pages Settings tab was merely a shortcut to a store’s basic configurations
 
 ## What you need to do
 
-For your admin to reflect this deprecation, ensure that your store is running [Pages Admin](https://github.com/vtex-apps/admin-pages) version __4.7.0__ or higher.
+For your admin to reflect this deprecation, ensure that your store is running [**Pages Admin**](https://github.com/vtex-apps/admin-pages) version __4.7.0__ or higher.
