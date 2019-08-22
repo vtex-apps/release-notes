@@ -1,6 +1,6 @@
 # Platform performance
 
-Check our latest releases to promote an **optimal VTEX IO infra performance**, ensuring a better and more stable platform experience:
+Check our latest releases to promote an **optimal VTEX IO infra performance**, ensuring a better, faster and more stable platform experience:
 
 :eyes: No action for the releases below is warranted on your side. The performance improvement is already available to all VTEX IO users!
 
@@ -60,4 +60,4 @@ The number of requests for Message, the system responsible for translating VTEX 
 
 ## • Low browser javascript request rate
 
-With this improvement, the number of javascript requests needed by the browser for loading an IO page in production was decreased. The decrease directly impacts the loading time of VTEX IO pages in production, reducing page rendering time.
+With this improvement, the number of javascript requests needed by the browser for loading an IO page in production was decreased. The decrease directly impacts the loading time of VTEX IO pages in production, reducing page rendering time and improving end user browsing experience.
