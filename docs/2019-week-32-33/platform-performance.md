@@ -1,6 +1,6 @@
-# Platform Performance
+# Platform performance
 
-Below, check our latest releases to promote an **optimal VTEX IO infra performance**, ensuring a better and more stable platform experience:
+Check our latest releases to promote an **optimal VTEX IO infra performance**, ensuring a better and more stable platform experience:
 
 :eyes: No action for the releases below is warranted on your side. The performance improvement is already available to all VTEX IO users!
 
