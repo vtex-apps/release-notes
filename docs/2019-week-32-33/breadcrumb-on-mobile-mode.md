@@ -14,4 +14,4 @@ On mobile mode, users could normally face difficulties in locating themselves on
 
 ## What you need to do
 
-To guarantee that the component is available on mobile mode as well, ensure that your store runs [Breadcrumb](https://github.com/vtex-apps/breadcrumb) version __1.6.0__ or higher.
+To guarantee that the component is available on mobile mode as well, ensure that your store runs [**Breadcrumb**](https://github.com/vtex-apps/breadcrumb) version __1.6.0__ or higher.
