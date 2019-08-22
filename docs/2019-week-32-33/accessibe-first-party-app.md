@@ -16,4 +16,4 @@ In order to natively integrate your store with the accessiBe solution, simply fo
 
 1. Open the **VTEX App Store** and install the accessiBe app on your store.
 
-2. Access [accessiBe’s website](https://accessibe.com/), login with your account and then add your VTEX store URL to  my websites  in the  Manage Websites  tab.
+2. Access [**accessiBe’s website**](https://accessibe.com/), login with your account and then add your VTEX store URL to  my websites  in the  Manage Websites  tab.
