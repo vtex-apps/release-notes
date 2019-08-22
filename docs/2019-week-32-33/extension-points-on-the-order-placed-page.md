@@ -10,4 +10,4 @@ The extension points allow the page’s layout to become flexible. This means th
 
 In order to be able to customize the Order Placed page using extension points, ensure that your store is already running [**Order Placed**](https://github.com/vtex-apps/order-placed) version **1.4.0** or higher.
 
-:eyes: Check our [example app](https://github.com/vtex-apps/order-placed/tree/master/order-placed-extension-example) to understand how Order Placed page can use the new extension points.
+:eyes: Check our [**example app**](https://github.com/vtex-apps/order-placed/tree/master/order-placed-extension-example) to understand how Order Placed page can use the new extension points.
