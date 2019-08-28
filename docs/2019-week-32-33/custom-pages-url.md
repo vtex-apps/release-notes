@@ -1,3 +1,10 @@
+---
+title: Custom pages URL 
+description: "The new Filter Navigator's 'preventRouteChange' prop enables custom pages paths to not undergo any more changes when filtered by a user."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Custom pages URL
 
 The new Filter Navigator's `preventRouteChange` prop enables custom pages paths to not undergo any more changes when filtered by a user.

@@ -1,3 +1,10 @@
+---
+title: Internal URLs link in banners 
+description: "With the new 'Internal URL' field, CMS’s Storefront section now allows you to easily and swiftly link internal URLs to a banner by simply copy-pasting the desired address."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Internal URLs link in banners
 
 With the new `Internal URL` field, CMS’s Storefront section now allows you to easily and swiftly link internal URLs to a banner by simply copy-pasting the desired address.

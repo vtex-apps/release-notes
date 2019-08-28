@@ -1,3 +1,10 @@
+---
+title: Drawer component 
+description: "Your store Drawer’s behavior and appearance can be customized for mobile users thanks to the component’s 3 new props and CSS handles."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Drawer component
 
 Your store Drawer’s behavior and appearance can be customized for mobile users thanks to the component’s **3 new props and CSS handles**.

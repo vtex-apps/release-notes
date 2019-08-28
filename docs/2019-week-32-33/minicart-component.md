@@ -1,3 +1,10 @@
+---
+title: Minicart component 
+description: "The new Minicart component prop 'linkButtonFinishShopping' redirects the user to any page the retailer wants when clicking the Finish Shopping Button."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Minicart component
 
 The new Minicart component prop `linkButtonFinishShopping` redirects the user to any page the retailer wants when clicking the Finish Shopping Button.

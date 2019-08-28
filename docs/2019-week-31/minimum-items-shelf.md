@@ -1,3 +1,10 @@
+---
+title: Minimum items on Shelf 
+description: "The minimum number of items that can be displayed on a Shelf component can now be set regardless of the display mode (mobile, tablet or desktop)."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Minimum items on Shelf
 
 The minimum number of items that can be displayed on a Shelf component can now be set regardless of the display mode (mobile, tablet or desktop).

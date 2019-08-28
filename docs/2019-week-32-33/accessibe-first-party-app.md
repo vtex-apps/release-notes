@@ -1,3 +1,10 @@
+---
+title: accessiBe first party app 
+description: "Natively integrate using the accessiBe first party app and get access to the accessiBe solution and all its functionalities."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # accessiBe first party app
 
 Natively integrate using the accessiBe first party app and get access to the **accessiBe solution** and all its functionalities.

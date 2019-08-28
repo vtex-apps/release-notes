@@ -1,3 +1,10 @@
+---
+title: Breadcrumb on mobile mode 
+description: "The Breadcrumb component’s new 'showOnMobile' prop makes it available for mobile."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Breadcrumb on mobile mode
 
 The Breadcrumb component’s new `showOnMobile` prop makes it available for mobile.

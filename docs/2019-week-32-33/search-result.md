@@ -1,3 +1,10 @@
+---
+title: Search Result 
+description: "The search results page can now inform the user about the number of items displayed on the browser page, along with the total number of results found."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 ## Search Result
 
 The search results page can now inform the user about the number of items displayed on the browser page, along with the total number of results found, all thanks to the new `showProductsCount` prop.

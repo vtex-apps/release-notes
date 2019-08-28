@@ -1,3 +1,10 @@
+---
+title: Search Result layout on mobile mode 
+description: "It is now possible to choose which layout mode you want your Search Result to be displayed in."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Search Result layout on mobile mode
 
 By setting the prop `mobileLayout` in the Search Result component, it is now possible to choose which layout mode you want your Search Result to be displayed in.

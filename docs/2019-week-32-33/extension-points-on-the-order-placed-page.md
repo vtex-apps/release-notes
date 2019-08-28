@@ -1,3 +1,10 @@
+---
+title: Extension points on the Order Placed page 
+description: "The Order Placed page can now accept new components to its upper part thanks to the use of extension points."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Extension points on the Order Placed page
 
 The Order Placed page can now accept new components to its upper part thanks to the use of extension points.

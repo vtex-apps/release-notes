@@ -1,3 +1,10 @@
+---
+title: Storefront Language selector 
+description: "A language selector has been added to the admin’s Storefront."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Storefront Language selector
 
 A language selector has been added to the admin’s Storefront. The selector takes a user’s location into account.
