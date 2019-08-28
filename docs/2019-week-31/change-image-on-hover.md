@@ -1,3 +1,10 @@
+---
+title: Change image on Hover 
+description: "The Product Summary component now supports a native hover effect to replace the main product's image with a secondary one."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Change image on Hover
 
 The [Product Summary](https://github.com/vtex-apps/product-summary) component, available in the Shelf and Search Results components, now supports a native hover effect to replace the main product's image with a secondary one.

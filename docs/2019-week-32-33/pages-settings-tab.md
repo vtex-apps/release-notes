@@ -1,3 +1,10 @@
+---
+title: Pages Settings Tab 
+description: "The Pages Settings tab, which served as a shortcut to a basic settings page in VTEX stores, was deprecated."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Pages Settings Tab
 
 The Pages Settings tab, which served as a shortcut to a basic settings page in VTEX stores, was deprecated.

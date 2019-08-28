@@ -1,3 +1,10 @@
+---
+title: Color name on SKU Selector 
+description: "Display the name of the SKU color above its image on the SKU Selector."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Color name on SKU Selector
 
 Display the name of the SKU color above its image on the SKU Selector.

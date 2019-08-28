@@ -1,3 +1,10 @@
+---
+title: Title of contextless routes 
+description: "The field title for routes without a context (such as product, brand, category, etc) weren’t editable previously. This release enables its editing."
+date: "09/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Title of contextless routes
 
 The field title for routes without a context (such as product, brand, category, etc) weren’t editable previously. This release enables its editing.

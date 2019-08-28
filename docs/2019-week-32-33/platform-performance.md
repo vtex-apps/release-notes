@@ -1,3 +1,10 @@
+---
+title: Platform performance 
+description: "Overall performance improvements."
+date: "22/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
+---
+
 # Platform performance
 
 Check our latest releases to promote an **optimal VTEX IO infra performance**, ensuring a better, faster and more stable platform experience:
