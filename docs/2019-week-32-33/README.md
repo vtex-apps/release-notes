@@ -10,23 +10,23 @@ Without further ado, here’s a sneak peek at key changes made in the last coupl
 
 ### New features  :rocket:
 
-- [Internal URLs link in banners](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/internal-urls-link-in-banners.md)  - Easily link internal URLs to a banner with the help of CMS’s new Storefront field.
-- [accessiBe first party app](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/accessibe-first-party-app.md) - Get your hands on a first-party integration with the accessiBe solution.
-- [Extension points on Order Placed page](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/extension-points-on-the-order-placed-page.md) - Customize a store’s Order Placed page using extension points.
+- [Internal URLs link in banners](internal-urls-link-in-banners.md)  - Easily link internal URLs to a banner with the help of CMS’s new Storefront field.
+- [accessiBe first party app](accessibe-first-party-app.md) - Get your hands on a first-party integration with the accessiBe solution.
+- [Extension points on Order Placed page](extension-points-on-the-order-placed-page.md) - Customize a store’s Order Placed page using extension points.
 
 ### Deprecations :x:
 
-- [Pages Settings tab](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/pages-settings-tab.md) - The Pages Settings tab no is longer available in the CMS section.
+- [Pages Settings tab](pages-settings-tab.md) - The Pages Settings tab no is longer available in the CMS section.
 
 ### Improvements  :heavy_plus_sign:
 
-- [Performance da plataforma](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/platform-performance.md) - Understand what the VTEX IO performance improvement key points were.
-- [Drawer component](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/drawer-component.md) - Customize your store Drawer’s behavior and appearance using the component’s 3 new props and CSS handles.
-- [Breadcrumb on mobile mode](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/breadcrumb-on-mobile-mode.md) - Make the Breadcrumb component available for mobile users.
-- [Image thumbnails](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/image-thumbnails.md) - Choose whether a product’s thumbnail images will be displayed vertically or horizontally.
-- [Custom pages URL changes](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/custom-pages-url.md) - New browser filter prop which allows custom pages to keep the URLs unchanged even when filters are applied.
-- [Search Result](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/search-result.md) - Display how many items the user is seeing and how many items are left on the search results page.
-- [Minicart component](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-32-33/minicart-component.md) - The new Minicart component prop enables redirecting users to any page the retailer chooses when clicking the “Finish Shopping” button.
+- [Performance da plataforma](platform-performance.md) - Understand what the VTEX IO performance improvement key points were.
+- [Drawer component](drawer-component.md) - Customize your store Drawer’s behavior and appearance using the component’s 3 new props and CSS handles.
+- [Breadcrumb on mobile mode](breadcrumb-on-mobile-mode.md) - Make the Breadcrumb component available for mobile users.
+- [Image thumbnails](image-thumbnails.md) - Choose whether a product’s thumbnail images will be displayed vertically or horizontally.
+- [Custom pages URL changes](custom-pages-url.md) - New browser filter prop which allows custom pages to keep the URLs unchanged even when filters are applied.
+- [Search Result](search-result.md) - Display how many items the user is seeing and how many items are left on the search results page.
+- [Minicart component](minicart-component.md) - The new Minicart component prop enables redirecting users to any page the retailer chooses when clicking the “Finish Shopping” button.
 
 ### Notable bug fixes  :bug:
 
