@@ -1,3 +1,10 @@
+---
+title: Toolbelt apps installation inspection
+description: “waiting for proper translation”
+date: “29/08/2019"
+git: “https://github.com/vtex-apps/release-notes”
+---
+
 # Toolbelt apps installation inspection
 
 VTEX IO Toolbelt now inspects if route conflicts can occur in your workspace as a result of installing a new app.
