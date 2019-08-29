@@ -6,6 +6,7 @@ git: “https://github.com/vtex-apps/release-notes”
 ---
 
 
+
 # `ProductSummaryBrand` component
 
 The new `ProductSummaryBrand` component make it possible to include brand data in the Shelf, as well as in other store components that use the Product Summary context. 
