@@ -1,3 +1,11 @@
+---
+title: Platform performance
+description: “waiting for proper translation”
+date: “29/08/2019"
+git: “https://github.com/vtex-apps/release-notes”
+---
+
+
 # Platform performance
 
 Check out our latest releases on promoting an  **optimal VTEX IO infra performance**, ensuring a better, faster and more stable platform experience:
