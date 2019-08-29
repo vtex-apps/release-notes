@@ -22,3 +22,5 @@ In addition to stifling route conflicts in any workspace, an automated inspectio
 ## What you need to do
 
 Make sure your **VTEX IO Toolbelt** is updated to version **2.67.0** or higher.
+
+You can run `vtex -v` in your Toolbelt in order to check its version and `npm i -g vtex` or `yarn global add vtex` in order to update it. 
