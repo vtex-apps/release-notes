@@ -1,5 +1,5 @@
 ---
-title: `ProductSummaryBrand` component
+title: ProductSummaryBrand component
 description: “waiting for proper translation”
 date: “29/08/2019"
 git: “https://github.com/vtex-apps/release-notes”
