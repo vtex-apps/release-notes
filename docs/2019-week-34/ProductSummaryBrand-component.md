@@ -1,6 +1,6 @@
 ---
 title: ProductSummaryBrand component
-description: “waiting for proper translation”
+description: “Render brand data with your own customizations in your Shelf component.”
 date: “29/08/2019"
 git: “https://github.com/vtex-apps/release-notes”
 ---
