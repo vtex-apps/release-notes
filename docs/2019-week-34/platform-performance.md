@@ -1,6 +1,6 @@
 ---
 title: Platform performance
-description: “waiting for proper translation”
+description: “Understand last week's VTEX IO performance improvement key points.”
 date: “29/08/2019"
 git: “https://github.com/vtex-apps/release-notes”
 ---
@@ -22,8 +22,8 @@ Now, this query is only performed when some content related to an ID is actually
 
 ---
 
-## Decrease in Javascript bundle size
+## Decrease in JavaScript bundle size
 
-All comments on code and javascript assets source maps were removed from production workspaces. This release reduces the size of the assets used by these workspace to bytes, thereby improving their performance as well.
+All comments on code and JavaScript assets source maps were removed from production workspaces. This release reduces the size of the assets used by these workspace to bytes, thereby improving their performance as well.
 
 :information_source: Source maps are JSON files that map a workspace's minified code, creating source code references for the number of lines, variable names and functions, and etc., which means for the original non-minified code. In short, these are mapping formats commonly used to help with debugging an app.
