@@ -1,6 +1,6 @@
 ---
 title: Shelf in mobile mode
-description: “waiting for proper translation”
+description: “Partially display products in Shelf component without breaking the page layout.”
 date: “29/08/2019"
 git: “https://github.com/vtex-apps/release-notes”
 ---
