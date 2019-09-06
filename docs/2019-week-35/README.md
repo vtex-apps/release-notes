@@ -2,7 +2,7 @@
 
 Welcome to the VTEX IO weekly release notes!
 
-We're extremely happy to have achieved 10 straight weeks of VTEX IO Release Notes 🎉 We're hope that you're excited as well! 
+We're extremely happy to have achieved 10 straight weeks of VTEX IO Release Notes 🎉 We hope that you're excited as well! 
 
 Unfortunately, this week's Release Notes size does not do justice to our impish glee with this achievement. This one comes in a mini format since our team is laser focused on improving the platform's performance. 
 
