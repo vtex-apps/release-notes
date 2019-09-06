@@ -12,7 +12,7 @@ Check out what were the key changes for the last week:
 
 ### New features  :rocket: 
 
-- [Google Search Box script](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md) - Effortlessly display a store's internal search bar and watch how page access soars. 
+- [Google Search Box script](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md) - Effortlessly display a store's internal search box during Google searches and watch how page access soars. 
 
 ### Improvements :heavy_plus_sign:
 
