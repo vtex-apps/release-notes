@@ -2,7 +2,7 @@
 title: VTEX IO Docs
 description: “You didn't misread! The dim light at the end of the tunnel just got brighter! The new VTEX IO documentation website is up and ready for you to access.”
 date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md”
+git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/vtex-io-docs.md”
 ---
 
 # VTEX IO Docs
