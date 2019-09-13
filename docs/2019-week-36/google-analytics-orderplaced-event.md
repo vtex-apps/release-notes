@@ -2,7 +2,7 @@
 title: Google Analytics `orderPlaced` event
 description: “Make your Google Analytics metrics more reliable with the `orderPlaced` event trigger improvement.”
 date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md”
+git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/google-analytics-orderplaced-event.md”
 ---
 
 # Google Analytics `orderPlaced` event 
