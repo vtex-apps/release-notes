@@ -7,21 +7,21 @@ git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36
 
 # Events context
 
-An app's events context now has access to the `node-vtex-api` library's instantiated Clients.  
+An app's events context now has access to the `node-vtex-api` library's Clients.  
 
-:information_source: **Events are a way VTEX IO apps communicate**. Differently from HTTP paths, events allow apps to send out requests without having specific targeting, meaning that requests can be sent without the need to have only one destination. For an event request to reach another app, it's enough for the latter to activate the reading of that request in its code. Events are a way to easily communicate when faced with apps that send the same request to multiple recipients. 
+:information_source: **Events are a way VTEX IO apps communicate** such as HTTP requests. While HTTP requests are a one-to-one mechanism, events are one-to-many. Apps that want to consume that information can subscribe to those events.
 
-:information_source:² **Client is the sum of necessary actions needed to execute a request in a service**. Let's suppose a request is sent from app A to app B, requesting catalog information. To execute this request, app B logically needs to know where and how to look for the information required to be able to pass it onto A. It is not necessary for the developer to know all the functions required for this request to be successfully returned from the Catalog. This kind of *recipe* for performing such a request is done through a Client, instantiated in the request itself to facilitate the coding process. Each VTEX IO service Client is stored in different libraries, such as `node-vtex-api`.
+:information_source:² **Client assists one service in communicating with another**. Behind the scences, the Client knows how to make HTTP requests, without the need for the developer to know all the implementation details. 
 
 ## What has changed
 
-Previously, all Clients stored in the `node-vtex-api` library were instantiated only in the context of the HTTP paths. This means that requests transmitted by events did not have this functionality. Instead of having all the Clients in the library available, it was necessary to instantiate the specific Client of the service call upon by the event request.
+Previously, all Clients provided by the `node-vtex-api` library were instantiated only in the context of the HTTP middlewares, but not event handlers. Instead of having all the Clients in the library available, it was necessary to instantiate the specific Client of the service call upon by the event request.
 
 With this improvement, all `node-vtex-api` Clients will already instantiated in event contexts.
 
 ## Main Advantages
 
-For the developer building an app in VTEX IO, **Client instantiation eliminates the differences between HTTP path requests and events**, allowing new functionalities to be acquired by the latter, such as logging errors.
+For the developer building an app in VTEX IO, **Client instantiation eliminates the differences between HTTP path requests and events**, allowing new functionalities to be acquired by the latter, such as logging errors and timing metrics.
 
 ## What you need to do 
 
