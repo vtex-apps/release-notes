@@ -2,12 +2,12 @@
 title: Events context
 description: “Create a web app with more ease with help from Events' expanding functionalities.”
 date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md”
+git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md”
 ---
 
 # Events context
 
-An app's events context now has access to the `node-vtex-api` library's instantiated clients.  
+An app's events context now has access to the `node-vtex-api` library's instantiated Clients.  
 
 :information_source: **Events are a way VTEX IO apps communicate**. Differently from HTTP paths, events allow apps to send out requests without having specific targeting, meaning that requests can be sent without the need to have only one destination. For an event request to reach another app, it's enough for the latter to activate the reading of that request in its code. Events are a way to easily communicate when faced with apps that send the same request to multiple recipients. 
 
