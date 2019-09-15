@@ -48,7 +48,7 @@ Similar to the recipes, the VTEX IO components can also be found in VTEX IO Docs
 
 ### Latest Releases
 
-Our GitHub **Release Notes** now also in VTEX IO Docs! Although the link to all the releases still points to GitHub, it's only a matter of time until our releases get an site interface of their own :emoji: 
+Our GitHub **Release Notes** now also in VTEX IO Docs! Although the link to all the releases still points to GitHub, it's only a matter of time until our releases get an site interface of their own :tada: 
 
 ## Coming soon
 
