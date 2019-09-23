@@ -1,8 +1,8 @@
 ---
 title: Flexible Search Results Page
 description: "Search Results Pages customization just became more powerful with `flex-layout`."
-date: “09/20/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md”
+date: “09/23/2019"
+git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/flexible-search-results-page.md”
 ---
 
 # Flexible Search Results Page
