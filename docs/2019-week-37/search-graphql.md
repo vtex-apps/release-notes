@@ -2,7 +2,7 @@
 title: Search GraphQL 
 description: “The `store-graphql` morphed into `search-graphql`, which took over responsibility for your store's GraphQL search related queries.”
 date: “09/23/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md”
+git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/search-graphql.md”
 ---
 
 # Search GraphQL 
