@@ -17,11 +17,11 @@ Previously, **navigation** requests were performed on the VTEX IO platform throu
 
 :information_source: Uncovering a context means finding out which content corresponds to the route sent in the browser request.
 
+:information_source: A **navigation** request is a request sent by the browser to the VTEX IO platform based on user navigation on the site. When users click on a category, for example. A **server page** request is a request sent through the browser during the user's first store access. 
+
 Now, any browser request find their way to the `render-server` or `rewriter` first, as was already the case with **server page** requests.
 
 ![Arquitetura request](https://user-images.githubusercontent.com/52087100/65434261-e9749080-ddf4-11e9-8e78-3fc00e34d1da.png)
-
-:information_source: A **navigation** request is a request sent by the browser to the VTEX IO platform based on user navigation on the site. When users click on a category, for example. A **server page** request is a request sent through the browser during the user's first store access.  
 
 With this release, the platform underwent some important improvements, such as:
 
