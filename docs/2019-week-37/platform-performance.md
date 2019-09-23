@@ -15,7 +15,7 @@ Check out our latest release on how to promote an  **optimal VTEX IO infra perfo
 
 Previously, **navigation** requests were performed on the VTEX IO platform through `pages-graphql`. This means that the app would have received the browser request and was responsible for uncovering the route's context, in addition to structuring the requested page and delivering it onto the browser for rendering.
 
-:eyes: Uncovering a context means finding out which content corresponds to the route sent in the browser request.
+:information_source: Uncovering a context means finding out which content corresponds to the route sent in the browser request.
 
 Now, any browser request find their way to the `render-server` or `rewriter` first, as was already the case with **server page** requests.
 
