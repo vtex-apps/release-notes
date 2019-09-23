@@ -1,6 +1,6 @@
 ---
 title: SEO strategies
-description: "If there is anything as sought after as a stable platform, it's SEO improvement. Therefore, check out our latest SEO releases for your VTEX IO store for week 37 of 2019.”
+description: "If there is anything as sought after as a stable platform, it's SEO improvement. Therefore, check out our latest SEO releases for your VTEX IO store.”
 date: “09/23/2019"
 git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/seo-strategies.md”
 ---
