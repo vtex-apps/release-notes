@@ -29,7 +29,7 @@ Our native app ensures that retailers integrate their VTEX IO store with the Baz
 
 In order to natively integrate your store with the Bazaarvoice solution, simply follow the steps below:
 
-1. In the desired account's admin **Apps**, **install the Bazaarvoice app**.
+1. In the desired account's admin **Apps**, install the **Bazaarvoice app**.
 
 2. Make sure the [**product review blocks**](https://github.com/vtex-apps/product-review-interfaces/tree/master/example) are available in your store's theme so the app can run properly.
 
