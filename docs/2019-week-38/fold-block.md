@@ -1,7 +1,7 @@
 ---
 title: Fold block
-description: "Can you decide which store's block will be loaded and rendered after the user scroll down? Yes, you can: simply use the Fold block!”
-date: “09/26/2019"
+description: "Can you decide which store's block will be loaded and rendered after the user scroll down? Yes, you can: simply use the Fold block!"
+date: "09/26/2019"
 git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/fold-block.md”
 ---
 
