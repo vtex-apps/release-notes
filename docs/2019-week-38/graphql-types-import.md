@@ -1,8 +1,9 @@
 ---
 title: GraphQL types imports
 description: "Save your precious time while developing! From now on, easily import GraphQL types from one app to another.”
+
 date: “09/26/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-38/product-customizer-component.md”
+git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/graphql-types-import.md”
 ---
 
 # GraphQL types imports
