@@ -1,7 +1,7 @@
 ---
 title: Product Customizer component
-description: "Display product attachments in your product page using the Product Customizer component.”
-date: “09/26/2019"
+description: "Display product attachments in your product page using the Product Customizer component."
+date: "09/26/2019"
 git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-38/product-customizer-component.md”
 ---
 
