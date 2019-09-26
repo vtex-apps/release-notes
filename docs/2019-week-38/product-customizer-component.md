@@ -23,4 +23,4 @@ There are few things more frustrating than enriching a store's product with atta
 
 ## What you need to do
 
-Better understand how your store's new block and its functionalities work by accessing out [documentation]().
+Better understand how your store's new block and its functionalities work by accessing its [documentation]().
