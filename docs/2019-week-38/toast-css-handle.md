@@ -1,5 +1,5 @@
 ---
-title: Toast CSS Handle   
+title: New CSS Handle for Toast component  
 description: "Customize the Toast component with a different style from the rest of the store thanks to its new CSS handle."
 date: "09/26/2019"
 git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/toast-component-redirect.md”
