@@ -19,7 +19,7 @@ This meant that the component could not have its own customized style. Its custo
 
 ## Main advantages
 
-The new CSS class enables Toast customizations whenever desired, allowing the component to become **more flexible** according to the **store's style** identity. 
+The new CSS handle enables Toast customizations through CSS classes whenever desired, allowing the component to become **more flexible** according to your desired style. 
 
 ## What you need to do
 
