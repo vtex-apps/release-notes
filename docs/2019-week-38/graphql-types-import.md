@@ -25,7 +25,9 @@ Suppose you want to use app's `A` GraphQL and React types in app `B`. After addi
 import {GraphQLType}, {ComponentType} from {appA}  
 ```
 
+<div class="alert alert-warning">
 :warning: Remember to replace the values above in {} with values compatible with your scenario.
+</div>
 
 ## Main advantages 
 
