@@ -11,18 +11,18 @@ GraphQL types can now be easily imported from one app to another, as was already
 
 ## What has changed 
 
-Before this improvement, there was no way to automatically import needed GraphQL types from an app to another. The developer had to highlight each GraphQL type needed for an app's (which dependeded on another app types) proper functioning. 
+Before this improvement, there was no way to automatically import needed GraphQL types from an app to another. The developer had to highlight in the typescript code each GraphQL type needed for an app's (which dependeded on another app types) proper functioning. 
 
-The good new is that now, based on schema files in app's  `graphql` folder,  **GraphQL types can easily be imported through your terminal**. 
+The good new is that now, based on schema files in app's  `graphql` folder,  **GraphQL types can easily be imported to your typescript code.**. 
 
 ### How it works
 
 In your terminal, simply run the  `vtex setup`  or  `vtex link --setup`  command in order to add all the dependencies types your app needs in its node and react `package.json`.
 
-Suppose you want to use app's `A` GraphQL and React types in app `B`. After adding app `A` as an dependency of app `B` and running  `vtex setup` or `vtex link --setup`, you'll be able to import `A`  types to `B` by simply using the following command in your terminal:
+Suppose you want to use app's `A` GraphQL and React types in app `B`. After adding app `A` as an dependency of app `B` and running  `vtex setup` or `vtex link --setup`, you'll be able to import A types to B by simply using typescript imports:
 
 ```
-import {GraphQLType}, {ComponentType} from {appA}  
+import {GraphQLType}, {ComponentType} from {{Vendor}.{AppName}} 
 ```
 
 <div class="alert alert-warning">
@@ -37,4 +37,4 @@ This feature removes the need to incessantly define an app's every GraphQL type 
 
 This feature is available to stores running Toolbelt version **2.74.0** or higher and **Builder-hub** version **0.171.0** or higher.
 
-:information_source: You can run `vtex -v` in your Toolbelt in order to check its version and `npm i -g vtex` or `yarn global add vtex` in order to update it.
+:information_source: You can run `vtex -v` in your Toolbelt in order to check its version and `npm i -g vtex` or `yarn global add vtex` in order to update it. The Builder-hub update should occur automatically.
