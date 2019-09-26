@@ -7,11 +7,11 @@ git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38
 
 # Toast component redirect
 
-Thanks to the `BuyButton` and `ProductSummaryBuyButton` components new prop, retailers are now able to choose any URL to direct users to using the Toast component. 
+Thanks to the `BuyButton` and `ProductSummaryBuyButton` new prop, retailers are now able to choose any URL to direct users to using the Toast component. 
 
 ## What has changed
 
-Previously, the Toast component (triggered when users click on the store's `BuyButton` or `ProductSummaryBuyButton`) led users to the checkout, without any other redirect possibilities.
+Previously, the Toast component (triggered when users click on the store's `BuyButton` or `ProductSummaryBuyButton` component) led users to the checkout, without any other redirect possibilities.
 
 With `BuyButton`'s and `ProductSummaryBuyButton`'s new prop, `customToastURL`, the Toast component can now redirect users to any desired URL.
 
