@@ -23,4 +23,4 @@ For example: suppose that a store wants to run a free shipping campaign for orde
 
 ## What you need to do 
 
-Lucky you! It's easy: just make sure your store has the [Sandbox component](https://vtex.io/docs/components/all/vtex.sandbox/) installed on at least version **0.3.0**.
+Lucky you! It's easy: just make sure your store has the [Sandbox component](https://vtex.io/docs/components/all/vtex.sandbox/) installed at least on version **0.3.0**.
