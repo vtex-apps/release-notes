@@ -25,4 +25,4 @@ The new prop grants **greater control over user browsing**.
 
 ## What you need to do
 
-Have version **2.35.0** or higher of the [`product-summary`](https://vtex.io/docs/components/product/vtex.product-summary) running in your store.
+Have version **2.35.0** or higher of the [`product-summary`](https://vtex.io/docs/components/product/vtex.product-summary) running in your store, as well as the version **3.70.0** or higher of the `vtex.store-componentsrunning`. 
