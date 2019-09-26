@@ -23,4 +23,4 @@ The new CSS handle enables Toast customizations through CSS classes whenever des
 
 ## What you need to do
 
-Join in the celebrations: NOTHING needs to be done, the CSS handle is already **available. You can start your Toast customizations right now!
+Join in the celebrations: NOTHING needs to be done, the CSS handle is already **available**. You can start your Toast customizations right now!
