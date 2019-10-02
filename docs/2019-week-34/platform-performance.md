@@ -1,8 +1,8 @@
 ---
 title: Platform performance
-description: “Understand last week's VTEX IO performance improvement key points.”
-date: “29/08/2019"
-git: “https://github.com/vtex-apps/release-notes”
+description: "Understand last week's VTEX IO performance improvement key points."
+date: "29/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
 ---
 
 
