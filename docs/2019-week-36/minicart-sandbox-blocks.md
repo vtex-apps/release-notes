@@ -1,8 +1,8 @@
 ---
 title: Minicart Sandbox blocks
-description: “You're now able to customize your Minicart footer using Sandbox blocks.”
-date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/minicart-sandbox-blocks.md”
+description: "You're now able to customize your Minicart footer using Sandbox blocks."
+date: "09/13/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/minicart-sandbox-blocks.md"
 ---
 
 # Minicart Sandbox blocks 
