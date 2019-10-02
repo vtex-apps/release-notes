@@ -1,8 +1,8 @@
 ---
 title: Platform performance
-description: “Understand what were the VTEX IO performance improvement key points in week35/2019.”
-date: “06/09/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-35/platform-performance.md”
+description: "Understand what were the VTEX IO performance improvement key points in week35/2019."
+date: "06/09/2019"
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-35/platform-performance.md"
 ---
 
 # Platform performance
