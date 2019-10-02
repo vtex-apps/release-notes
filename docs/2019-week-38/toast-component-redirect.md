@@ -2,7 +2,7 @@
 title: Toast component redirect
 description: "Greater control over user browsing is always magical. Use the `BuyButton` and `ProductSummaryBuyButton` new prop and redirect your user to any URL with a simple click on the Toast component."
 date: "09/26/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/toast-component-redirect.md”
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/toast-component-redirect.md"
 ---
 
 # Toast component redirect
