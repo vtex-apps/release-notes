@@ -1,8 +1,8 @@
 ---
 title: Platform performance
-description: “Create a web app with more ease with help from Events' expanding functionalities.”
-date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/platform-performance.md”
+description: "Create a web app with more ease with help from Events' expanding functionalities."
+date: "09/13/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/platform-performance.md"
 ---
 
 # Platform performance
