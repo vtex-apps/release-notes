@@ -2,7 +2,7 @@
 title: Sandbox with OrderForm
 description: "The user's cart data can now be used in Sandbox components in a fast and simple way."
 date: "09/26/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-38/sandbox-with-orderform.md”
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-38/sandbox-with-orderform.md"
 ---
 
 # Sandbox with OrderForm
