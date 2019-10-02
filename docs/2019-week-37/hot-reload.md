@@ -1,8 +1,8 @@
 ---
 title: Hot Reload
-description: “The time when you had to hit the refresh button to be able to see your code changes is long gone thanks to our Hot Reload.”
-date: “09/20/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/hot-reload.md”
+description: "The time when you had to hit the refresh button to be able to see your code changes is long gone thanks to our Hot Reload."
+date: "09/20/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/hot-reload.md"
 ---
 
 ## Hot Reload 
