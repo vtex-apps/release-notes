@@ -1,8 +1,8 @@
 ---
 title: Google Analytics `productView` event
-description: “Get more insight into your store's user behavior by tracking their navigation between SKUs.”
-date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/google-analytics-productview-event.md”
+description: "Get more insight into your store's user behavior by tracking their navigation between SKUs."
+date: "09/13/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-36/google-analytics-productview-event.md"
 ---
 
 # Google Analytics `productView` event
