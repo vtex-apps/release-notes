@@ -1,8 +1,8 @@
 ---
 title: Bazaarvoice first party app
-description: “Get your hands on a first-party integration with the Bazaarvoice solution.”
-date: “09/20/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/bazaarvoice-first-party-app.md”
+description: "Get your hands on a first-party integration with the Bazaarvoice solution."
+date: "09/20/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/bazaarvoice-first-party-app.md"
 ---
 
 # Bazaarvoice first party app
