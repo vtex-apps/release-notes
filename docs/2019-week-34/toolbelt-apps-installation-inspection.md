@@ -1,8 +1,8 @@
 ---
 title: Toolbelt apps installation inspection
-description: “Automatically check whether route conflicts can occur in your workspace as a result of installing an app.”
-date: “29/08/2019"
-git: “https://github.com/vtex-apps/release-notes”
+description: "Automatically check whether route conflicts can occur in your workspace as a result of installing an app."
+date: "29/08/2019"
+git: "https://github.com/vtex-apps/release-notes"
 ---
 
 # Toolbelt apps installation inspection
