@@ -1,8 +1,8 @@
 ---
 title: Google Search Box script
-description: “Effortlessly display a store’s internal search box and watch how page access soars.”
-date: “06/09/2019"
-git: “https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md”
+description: "Effortlessly display a store’s internal search box and watch how page access soars."
+date: "06/09/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-35/google-search-box-script.md"
 ---
 
 # Google Search Box script
