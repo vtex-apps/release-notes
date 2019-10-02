@@ -1,8 +1,8 @@
 ---
 title: Events context
-description: “Create a web app with more ease with help from Events' expanding functionalities.”
-date: “09/13/2019"
-git: “https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md”
+description: "Create a web app with more ease with help from Events' expanding functionalities."
+date: "09/13/2019"
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-36/events-context.md"
 ---
 
 # Events context
