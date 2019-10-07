@@ -19,7 +19,7 @@ Don't get left behind with the latest on these and other key changes. Get a snea
 ### Improvements :heavy_plus_sign:
 
 - [Platform performance](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/platform-performance.md) - Understand what were the VTEX IO performance improvement key points for week 37 of 2019. 
-- [SEO strategies](https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-37/seo-strategies.md) - If there is anything as sought after as a stable platform, it's SEO improvement. Therefore, check out our latest SEO releases for your VTEX IO store.
+- [SEO strategies](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/seo-strategies.md) - If there is anything as sought after as a stable platform, it's SEO improvement. Therefore, check out our latest SEO releases for your VTEX IO store.
 - [Search GraphQL](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/search-graphql.md) - The `store-graphql` morphed into `search-graphql`, which took over responsibility for your store's GraphQL search related queries.
  
 ### Notable bug fixes  :bug:
