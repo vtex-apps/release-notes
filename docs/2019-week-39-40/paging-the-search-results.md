@@ -1,11 +1,11 @@
 ---
-title: Paging the Search Results page 
+title: Paging the Search Results
 description: "Gain more agility with a URL for each of the loaded search results page!"
 date: "10/11/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/paging-the-search-results-page.md"
 ---
 
-#  Paging the Search Results page 
+#  Paging the Search Result
 
 The Search Results page URL now reflects the exact page loaded by the user. 
 
