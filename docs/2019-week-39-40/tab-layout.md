@@ -10,7 +10,7 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-4
 Tab Layout is a layout structure that allows the construction of custom layouts within each tab present in your store. 
 
 ![tab-layout](https://user-images.githubusercontent.com/52087100/66661201-fc70c880-ec1c-11e9-8387-3fea98f59e3c.png)
-_Example of store with tabs displaying different content. With Tab Layout, you can easily define a layout for each of these tabs_. 
+_Example of an brazilian VTEX store with tabs displaying different content. With Tab Layout, you can easily define a layout for each of these tabs_. 
 
 ## Main advantages
 
