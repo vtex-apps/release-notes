@@ -2,7 +2,7 @@
 title: Pickup Availability
 description: "No more forcing users to log in with their email address. With the User Identifier Extension, you can choose user identifiers at will."
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-39-40/user-identifier-extension.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/pickup-availability.md"
 ---
 
 # Pickup Availability
