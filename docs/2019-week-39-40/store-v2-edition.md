@@ -1,6 +1,6 @@
 ---
 title: Store v2 Edition 
-description: "No more headaches with manually installing store v2 compatible components thanks to Store v2 Edition."
+description: "No more headaches with manually installing store v2 compatible apps thanks to Store v2 Edition."
 date: "10/11/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/store-v2-edition.md"
 ---
