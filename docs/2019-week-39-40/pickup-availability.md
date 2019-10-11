@@ -15,7 +15,7 @@ In the Product Page, the new Pickup Availability component shows the availabilit
 
 ## Main advantages 
 
-The new component is a fundamental tool for strengthening **Omnichannel** in your business, allowing users to overcome barriers between brick-and-mortar and online stores. 
+The new component is a fundamental tool for strengthening **Omnichannel** experience in your business, allowing users to overcome barriers between brick-and-mortar and online stores. 
 
 ## What you need to do
 
