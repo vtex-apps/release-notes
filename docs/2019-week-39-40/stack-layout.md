@@ -2,7 +2,7 @@
 title: Stack Layout
 description: "Components overlapping other components. If this seems like something difficult, that's because you're unfamiliar with Stack Layout."
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/platform-performance.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/stack-layout.md"
 ---
 
 # Stack Layout
