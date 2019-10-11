@@ -27,4 +27,4 @@ By simplifying the entire transaction process between v1 and v2, **Store v2 Edit
 
 :warning: **Store v2 Edition can only be installed by someone at VTEX**, by running the command `vtex edition set vtex.edition-store-v2@0.x`. 
 
-You can reach out to our support team to understand if this new feature fits to your store's scenario and request its installation.
+Therefore, you can reach out to our support team to understand if this new feature fits to your store's scenario and request its installation.
