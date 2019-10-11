@@ -2,7 +2,7 @@
 title: Tab Layout
 description: "What's better than one layout release? Two of them. The Tab layout allow the construction of different layouts for your store's tabs."
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/platform-performance.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/tab-layout.md"
 ---
 
 # Tab Layout
