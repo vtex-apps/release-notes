@@ -2,7 +2,7 @@
 title: Store v2 Edition 
 description: "No more headaches with complex compatibility issues between `store` v1 and v2 thanks to Store v2 Edition."
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/platform-performance.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/store-v2-edition.md"
 ---
 
 # Store v2 Edition
