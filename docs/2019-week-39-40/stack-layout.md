@@ -28,4 +28,4 @@ Differently from other layout components, which only considers the component's w
 
 Make sure your store has the `stack-layout` [installed](https://vtex.io/docs/recipes/store/installing-an-app). 
 
-Also, do not forget to check out the app [documentation](https://vtex.io/docs/app/vtex.stack-layout) for more details on its implementation.
+:eyes: Do not forget to check out the app [documentation](https://vtex.io/docs/app/vtex.stack-layout) for more details on its implementation.
