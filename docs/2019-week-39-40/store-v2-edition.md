@@ -1,6 +1,6 @@
 ---
 title: Store v2 Edition 
-description: "No more headaches with complex compatibility issues between `store` v1 and v2 thanks to Store v2 Edition."
+description: "No more headaches with manually installing store v2 compatible components thanks to Store v2 Edition."
 date: "10/11/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/store-v2-edition.md"
 ---
@@ -13,13 +13,13 @@ Having the new VTEX IO Store v2 Edition installed, stores are now able to run ve
 
 ## What has changed
 
-Previously, any store that wanted to run on `store` v2 (whether a new one or an already live store still running on v1) needed to manually install each component compatible with the latest version.
+Previously, any store that wanted to run on `store` v2 (whether a new one or an already live store still running on v1) needed to manually install each app compatible with the latest version.
 
-With this new feature, **all necessary components compatible with** `store` **v2 are compiled in an Edition**. This means that when you install the Store v2 Edition in your store, it will be ready to run on `store` v2 using all its components with compatibility error-free. 
+With this new feature, **all necessary apps compatible with** `store` **v2 are compiled in an Edition**. This means that when you install the Store v2 Edition in your store, it will be ready to run on `store` v2 using all its apps with compatibility error-free. 
 
 ## Main advantages
 
-Store v2 Edition simplifies the entire **going live process** for new stores, as well as the **transaction process** for stores from `store`v1 to v2, solving compatibility issues quickly and easily. 
+Store v2 Edition simplifies the entire **going live process** for new stores, as well as the **transaction process** for stores from `store` v1 to v2, solving compatibility issues quickly and easily. 
 
 ## What you need to do 
 
