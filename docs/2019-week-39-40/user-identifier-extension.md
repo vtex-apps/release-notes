@@ -13,7 +13,7 @@ The Login component just gained a new improvement: the User Identifier Extension
 
 Traditionally, the VTEX IO store's login form only accepted two inputs: e-mail (as user identifier) and password. 
 
-**The** `User Identifier Extension` **now allows other user identifiers, apart from the e-mail, to also be used on the login form through an extension app**. This extension app's function is to interpret the user identifier chosen on the login form and send the system the email that's linked to that login. 
+**The** `User Identifier Extension` **now allows other user identifiers, apart from the e-mail, to also be used on the login form through an extension app**. This extension app's function is to interpret the user identifier chosen on the login form and send the system the email that's linked to that user. 
 
 <div class="alert alert-warning">
 :warning: The login improvement doesn't handle the extension app's development. This is up to you, according to your store's desired user identifier. The `User Identifier Extension` merely supports the extension app. 
