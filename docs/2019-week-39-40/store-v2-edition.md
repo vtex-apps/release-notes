@@ -7,21 +7,19 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-4
 
 # Store v2 Edition
 
-Having the new VTEX IO Store v2 Edition installed, stores are now able to run version `2.x.x.` of the app [`store`](https://github.com/vtex-apps/store) with compatibility error-free.
+Having the new VTEX IO Store v2 Edition installed, stores are now able to run version `2.x.x.` of the app [`store`](https://github.com/vtex-apps/store).
 
 :information_source: Edition is a feature whose aim is to fit a user’s specific requirements with VTEX IO apps usage, through various VTEX IO editions such as VTEX IO Enterprise.
 
 ## What has changed
 
-Many stores face compatibility problems with the `store` app, responsible for defining their basic component structure. This happens because of lot of these stores are still running the `store` app on version `1.x.x.`, while new platform components are only compatible with version `2.x.x`.
+Previously, any store that wanted to run on `store` v2 (whether a new one or an already live store still running on v1) needed to manually install each component compatible with the latest version.
 
-Due to this version divergence, stores are at risk of forcing an update to `store` v2 and thereby breaking their components still depending on v1 to function properly. Bearing this in mind, each specific component had to be manually updated to the desired version.
-
-Now, stores with the new Edition app installed can automatically start running `store` v2, without having to worry about compatibility. **The Store v2 Edition will handle updates for all components compatible with the old version, in addition to showing installation options for v2 relevant components**.
+With this new feature, all necessary components compatible with `store` v2 are compiled in an Edition. This means that when you install the Store v2 Edition in your store, it will be ready to run all on `store` v2 using all its components with compatibility error-free. 
 
 ## Main advantages
 
-By simplifying the entire transaction process between v1 and v2, **Store v2 Edition solves compatibility issues in a easy and quick way**, allowing retailers to enjoy compatibility error-free components in their stores.
+Store v2 Edition **simplifies the entire going live process** for new stores, as well as the **transaction process** for stores from v1 to v2, solving compatibility issues quickly and easily. 
 
 ## What you need to do 
 
