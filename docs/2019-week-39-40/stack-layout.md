@@ -21,7 +21,7 @@ Now, each child declared in the `stack-layout` block will automatically receive 
 
 ## Main advantages
 
-Differently from other layout components, which only considers the component's width and length for its position, Stack Layout simplifies the layout construction process in **3D** for elements that overlap.
+Differently from other layout components, which only considers the component's width and length for its position, Stack Layout **simplifies the layout construction** process in **3D** for elements that overlap.
 
 ## What you need to do
 
