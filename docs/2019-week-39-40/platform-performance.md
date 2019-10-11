@@ -2,7 +2,7 @@
 title: Platform performance
 description: "Understand what the VTEX IO performance improvement key points were for week 39 and 40 of 2019."
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-38/fold-block.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/platform-performance.md"
 ---
 
 # Platform performance
