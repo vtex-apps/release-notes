@@ -2,7 +2,7 @@
 title: Product Specification Badges
 description: "Specifications can define whether a user will or will not buy a certain SKU. Don't waster time and display them in badges with this new component!"
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-39-40/user-identifier-extension.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/product-specification-badges.md"
 ---
 
 # Product Specification Badges
