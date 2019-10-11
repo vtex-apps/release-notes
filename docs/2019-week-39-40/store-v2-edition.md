@@ -19,7 +19,7 @@ With this new feature, all necessary components compatible with `store` v2 are c
 
 ## Main advantages
 
-Store v2 Edition **simplifies the entire going live process** for new stores, as well as the **transaction process** for stores from v1 to v2, solving compatibility issues quickly and easily. 
+Store v2 Edition **simplifies the entire going live process** for new stores, as well as the **transaction process** for stores from `store`v1 to v2, solving compatibility issues quickly and easily. 
 
 ## What you need to do 
 
