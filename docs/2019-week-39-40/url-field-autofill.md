@@ -2,7 +2,7 @@
 title: URL field autofill 
 description: "When creating a new page in the admin's Page section, the URL field will automatically propose a path according to the page's chosen title. Isn't it just magical?"
 date: "10/11/2019"
-git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-39-40/user-identifier-extension.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/url-field-autofill.md"
 ---
 
 # URL field autofill 
