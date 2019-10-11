@@ -27,4 +27,4 @@ With the `User Identifier Extension`, the login component gained more **flexibil
 
 This Login component improvement is available from version **2.16.0**. 
 
-Also, do not forget to check out the Login component [documentation](https://vtex.io/docs/app/vtex.login) to understand the new feature functionalities and limitations, in addition to seeing an example of an extension app for this scenario.
+:eyes: Do not forget to check out the Login component [documentation](https://vtex.io/docs/app/vtex.login) to understand the new feature functionalities and limitations, in addition to seeing an example of an extension app for this scenario.
