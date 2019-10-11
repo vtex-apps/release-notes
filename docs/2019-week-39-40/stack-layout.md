@@ -7,9 +7,10 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-4
 
 # Stack Layout
 
-The Stack Layout component allows display blocks to stack on top of others in a easy way. 
+The Stack Layout component allows display blocks to stack on top of others in a easy way.
 
 ![stack-layout](https://user-images.githubusercontent.com/52087100/66655794-1c02f380-ec13-11e9-9120-c1390d8d0df2.png)
+_Example of blocks using the Stack Layout_. 
 
 ## What has changed
 
