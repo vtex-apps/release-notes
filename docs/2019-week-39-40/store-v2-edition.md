@@ -15,11 +15,11 @@ Having the new VTEX IO Store v2 Edition installed, stores are now able to run ve
 
 Previously, any store that wanted to run on `store` v2 (whether a new one or an already live store still running on v1) needed to manually install each component compatible with the latest version.
 
-With this new feature, all necessary components compatible with `store` v2 are compiled in an Edition. This means that when you install the Store v2 Edition in your store, it will be ready to run all on `store` v2 using all its components with compatibility error-free. 
+With this new feature, **all necessary components compatible with** `store` **v2 are compiled in an Edition**. This means that when you install the Store v2 Edition in your store, it will be ready to run on `store` v2 using all its components with compatibility error-free. 
 
 ## Main advantages
 
-Store v2 Edition **simplifies the entire going live process** for new stores, as well as the **transaction process** for stores from `store`v1 to v2, solving compatibility issues quickly and easily. 
+Store v2 Edition simplifies the entire **going live process** for new stores, as well as the **transaction process** for stores from `store`v1 to v2, solving compatibility issues quickly and easily. 
 
 ## What you need to do 
 
