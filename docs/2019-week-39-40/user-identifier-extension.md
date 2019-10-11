@@ -7,7 +7,7 @@ git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-39-4
 
 # User Identifier Extension
 
-The Login component just gained a new improvement: the User Identifier Extension. Through it, users can now login using other user identifiers in your store, without these necessarily being their e-mails. 
+The Login component just gained a new improvement: the User Identifier Extension. Through it, users can now log in using other user identifiers in your store, without these necessarily being their e-mails. 
 
 ## What has changed
 
