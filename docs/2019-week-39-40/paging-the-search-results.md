@@ -9,7 +9,7 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-4
 
 The Search Results page URL now reflects the exact page loaded by the user. 
 
-![boticatio-search-results](https://user-images.githubusercontent.com/52087100/66670125-5f6b5b00-ec2f-11e9-832a-765854c516de.gif)
+![search-result-pagination-als](https://user-images.githubusercontent.com/52087100/66756478-7ea4fb00-ee70-11e9-8ba3-305f8e3bac83.gif)
 
 ## What has changed
 
