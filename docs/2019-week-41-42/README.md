@@ -1,6 +1,5 @@
 
-# VTEX IO Release Notes 
-## Week 41&42/2019
+# VTEX IO Release Notes - Week 41&42/2019
 
 Hey team! One more VTEX IO Release Notes coming your way. 
 
