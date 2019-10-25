@@ -27,6 +27,6 @@ Let's suppose that you want to migrate a component that's defined in app `A` to 
 
 ## What you need to do 
 
-You can already start using this new way to create CSS Handles at will! 
+You can already start using this new way to create CSS Handles at will!
 
 For more insight on this feature's usability, access its related [documentation](https://vtex.io/docs/app/vtex.css-handles).
