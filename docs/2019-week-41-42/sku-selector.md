@@ -2,7 +2,7 @@
 title: SKU Selector
 description: "New SKU Selector props will allow you to define image height and width without needing to resort to CSS customization. Enhanced performance and practicality in a single improvement, a dream come true!"
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/platform-performance.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/sku-selector.md"
 ---
 
 # SKU Selector
