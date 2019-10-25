@@ -2,7 +2,7 @@
 title: CSS Handles 
 description: "If you just knew just how much effort our team is putting into making CSS Handles a reality for all store components, you would go to sleep dreaming about CSS Classes. Check out our latest Handles releases! "
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/url-field-autofill.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/css-handles.md"
 ---
 
 # CSS Handles 
