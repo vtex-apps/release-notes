@@ -2,7 +2,7 @@
 title: Infinite scroll on flexible Search Result page
 description: "No one wants a bad UX, right? Therefore, this deprecation is already deployed and you'll now understand why."
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/url-field-autofill.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/infinite-scroll-on-flexible-search-result-page.md"
 ---
 
 # Infinite scroll on flexible Search Result page
