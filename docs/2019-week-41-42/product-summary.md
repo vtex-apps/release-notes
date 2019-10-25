@@ -2,7 +2,7 @@
 title: Product Summary
 description: "Did you enjoy the SKU Selector release? So check out our Product Summary release as well: more props para define image sizes!"
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/sku-selector.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/product-summary.md"
 ---
 
 # Product Summary
