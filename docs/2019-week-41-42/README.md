@@ -20,7 +20,7 @@ Therefore, take a deep breath, relax and banish your fears, because we have a ne
 
 - [Platform performance](https://vtex.io/docs/releases/2019-week-41-42/platform-performance) - Understand what were the VTEX IO performance improvement key points for week 41 and 42 of 2019.
 - [CSS Handles](https://vtex.io/docs/releases/2019-week-41-42/css-handles) - If you just knew just how much effort our team is putting into making CSS Handles a reality for all store components, you would go to sleep dreaming about CSS Classes. Check out our latest CSS Handles releases! 
-- [SKU Selector](https://vtex.io/docs/releases/2019-week-41-42/sku-selector) -  New SKU Selector props that will allow you to define image height and width.
+- [SKU Selector](https://vtex.io/docs/releases/2019-week-41-42/sku-selector) -  New SKU Selector props that will allow you to define image height and width without needing to resort to CSS customization. Enhanced performance and practicality in a single improvement: a dream come true.
 - [Product Summary](https://vtex.io/docs/releases/2019-week-41-42/product-summary) - Did you enjoy the SKU Selector release? So check out our Product Summary release as well: more props to define image sizes!  
 
 ### Notable bug fixes  :bug:
