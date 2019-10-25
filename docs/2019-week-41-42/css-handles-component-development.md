@@ -2,7 +2,7 @@
 title: CSS Handles component development
 description: "Devs, celebrate with me: this release is about a more advantageous, easy and brand new way to create CSS Handles for store components."
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/product-summary.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/css-handles-component-development.md"
 ---
 
 # CSS Handles component development
