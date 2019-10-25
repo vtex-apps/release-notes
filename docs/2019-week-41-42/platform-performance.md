@@ -2,7 +2,7 @@
 title: Platform performance
 description: "Understand what were the VTEX IO performance improvement key points for week 40 and 41 of 2019."
 date: "10/25/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/paging-the-search-results.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/platform-performance.md"
 ---
 
 # Platform performance
