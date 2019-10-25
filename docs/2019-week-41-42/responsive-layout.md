@@ -1,6 +1,6 @@
 ---
-title: Infinite scroll on flexible Search Result page
-description: "No one wants a bad UX, right? Therefore, this deprecation is already deployed and you'll now understand why."
+title: Responsive Layout
+description: "Should we start calling ourselves the gods of layout components? The Responsive Layout allows different layouts per breakpoint! It is so awesome and versatile that you'll think it's really godlike."
 date: "10/25/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/responsive-layout.md"
 ---
