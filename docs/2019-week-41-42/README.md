@@ -3,7 +3,7 @@
 
 Hey team! One more VTEX IO Release Notes coming your way. 
 
-In tune with the Halloween spirit, quick disclosure: more so than ghosts and zombies, my worst feat is not knowing what is going on with VTEX IO 😨 I'm betting you dread the same thing! 
+In tune with the Halloween spirit, quick disclosure: more so than ghosts and zombies, my worst fear is not knowing what is going on with VTEX IO 😨 I'm betting you dread the same thing! 
 
 Therefore, take a deep breath, relax and banish your fears, because we have a new Release Notes and it's full of delicious treats: 
 
