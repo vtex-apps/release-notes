@@ -1,55 +1,62 @@
 # CSS Selectors deprecation
 
-Starting December 10, 2019, some CSS customization scenarios implemented using the store elements' HTML hierarchy will be blocked.
+Starting December 10, 2019, CSS customization will be done **exclusively via class selectors (e.g. `.foo`)**. Selectors based on HTML structure (e.g. `div > div > span[foo="bar"]`) will be blocked for new stores.
 
 ## What has changed
 
 Previously, many VTEX IO store components didn't have their own **CSS Handles**. 
 
 <div class="alert alert-info">
-Through the store theme's root code, Handles allow you to identify and then customize a specific store component using CSS classes. 
+Handles allow you to select and customize a specific store component using CSS classes. 
 </div>
 
-Without Handles, a component's CSS customization was necessarily done through store page HTML hierarchy using CSS Selectors, meaning element selectors for CSS customization according to the page's HTML hierarchy. 
+Without Handles, a component's CSS customization was necessarily done based on the HTML structure.
 
 ![css-selector-usage](https://user-images.githubusercontent.com/52087100/67809498-8de29600-fa77-11e9-8a9e-ca309458f060.png)
 
 ![css-selector-usage-code](https://user-images.githubusercontent.com/52087100/67809526-9d61df00-fa77-11e9-923d-9ed796c77dde.png)
 
-**Since most components now have their own CSS handles, some store customization scenarios using CSS Selectors will be discontinued.** 
+**Since most components now have their own CSS Handles, the usage of some CSS selectors will be discontinued.** 
 
-Below, find the full CSS Selectors list that will continue to be allowed for your store's customization:
+Below, find the full CSS Selectors list that will **continue to be allowed** for your store's customization:
 
-- `:hover`   
-- Link selectors, such as `:visited`, `:active` and `:focus`.   
-- All pseudo-elements, such as  `::before`, `::after` and `::placeholder`. 
-- `:nth-child(even)` and `:nth-child(odd)` 
-- `:first-child` and `:last-child`
-- Descendant combination element through space, such as `.{Element1} .{Element2}` 
-- `[data-*]` 
-- `:global(vtex-{AppName}-{AppVersion}-{ComponentName})`
+- Class selectors (e.g. `.foo`)
+- Pseudo-selectors `:hover`, `:visited`, `:active`, `:focus`, `:local`, `:first-child`, and `:last-child`;
+- All pseudo-elements, such as  `::before`, `::after` and `::placeholder`;
+- `:nth-child(even)` and `:nth-child(odd)`;
+- `:first-child` and `:last-child`;
+- Space combinator (e.g. `.foo .bar`);
+- `[data-...]` 
+- For selection of elements that come from different apps, `:global(vtex-{AppName}-{AppVersion}-{ComponentName})`.
+
+We are deprecating all selectors and combinators not mentioned on the list above, such as:
+- Type/tag selectors (e.g. `div`, `span`);
+- Combinators such as `>`, `+`, `~`;
+- `:nth-child` with numbers;
+- Attribute selectors excepting `[data-...]` (e.g. `[class~="mb8 b--red"]`;
+- `:global` selector for classes that are not CSS Handles from other apps (i.e., that do not begin with, for example, `vtex-...`);
 
 <div class="alert alert-info">
-This CSS Selector whitelist can be flexible because this deprecation aims to encourage CSS customization best practices without risking breakdowns in store layout. If the deprecation of CSS Selectors not on this list causes any unintended harm to your store, let us know immediately through <a href="https://github.com/vtex-apps/store-discussion">Store Discussion</a>.
+This CSS Selector whitelist is flexible because this deprecation aims to encourage robust CSS customization without risking breakdowns in store layout. If the deprecation of CSS Selectors not on this list causes any unintended harm to your store, let us know immediately through <a href="https://github.com/vtex-apps/store-discussion/issues">Store Discussion</a>.
 </div>
 
 ##  Why this action is being taken
 
-CSS customization performed using CSS Selectors, meaning based on the hierarchical position of a HTML element is detrimental to a **store's stability**.
+CSS customization that depends on the structure of the HTML can be fragile and detrimental to the **store's stability**.
 
-This is because any change to the HTML, such as adding a new native component on the homepage, can break the hierarchy shown in the theme's code, thereby breaking the retailer's desired customization. 
+This is because any change to the HTML, such as changing an attribute, changing the order of elements, or wrapping an element into a new tag, can prevent a CSS selector from targeting the correct elements, thereby breaking the retailer's desired customization.
 
-This deprecation aims to encourage the use of CSS Handles to make CSS customization default and avoid potential breakdowns in store layouts. 
+CSS Handles, on the other hand, are guaranteed to be kept working throughout the major version, thus making the customization much more robust. This deprecation aims to encourage its usage the default, avoiding potential breakdowns in store layouts. 
 
 ## Side effects
 
 ### Published Apps 
 
-If your store's theme was previously published, meaning that your store is **already live**, you don't need to worry about your theme's CSS customization for now, since **Toolbelt will still take all the CSS Selectors (including the one not listed above) into account when [linking](https://vtex.io/docs/recipes/store/linking-an-app)**.  
+If your store's theme was previously published, meaning that your store is **already live**, you will **still be able to link and publish new versions of your theme, even when using CSS selectors not whitelisted above**.  
 
-This avoids that mature stores which have already been customized without CSS Handles do not suddenly get broken layouts because of this deprecation. 
+This is to prevent mature stores which have already been customized without CSS Handles from suddenly not being able to update their themes due to this deprecation. 
 
-However, bear in mind that the store will continue to be susceptible to the above-mentioned problems arising from CSS Handles-less customization.
+However, bear in mind that the store **will continue to be susceptible to the above-mentioned problems arising from customization based on the HTML structure**, and it is **strongly recommended** for the CSS to be updated to use only CSS Handles.
 
 ### Apps that are not yet published
 
@@ -59,6 +66,6 @@ Although each project scenario can be evaluated individually, it is expected tha
 
 ## What you need to do
 
-Regardless of whether your app is published or not, **it's essential to review every CSS customization for store elements** to ensure that CSS Selectors are replaced by the new CSS Handles.
+Regardless of whether your app is published or not, **it's essential to review every CSS customization for store elements** to ensure that all deprecated selectors are replaced by CSS Handles.
 
 For more on this topic, access our recipe [Using CSS Handles for store customization](https://vtex.io/docs/recipes/layout/using-css-handles-for-store-customization)
