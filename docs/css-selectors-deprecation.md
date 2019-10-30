@@ -1,6 +1,6 @@
 # CSS Selectors deprecation
 
-Starting December 10, 2019, CSS customization will be done exclusively via CSS Handles (e.g. `.foo`). Selectors based on HTML structure (e.g. `div > div > span[foo="bar"]`) will be blocked for new stores.
+Starting December 10, 2019, **CSS customization will be done exclusively via CSS Handles** (e.g. `.foo`). Selectors based on HTML structure (e.g. `div > div > span[foo="bar"]`) will be blocked for new stores.
 
 ## What has changed
 
