@@ -42,7 +42,7 @@ CSS customization that depends on the structure of the HTML can be fragile and d
 
 This is because any change to the HTML, such as changing an attribute, changing the order of an element or wrapping an element into a new tag, can prevent a CSS selector from targeting the correct elements, thereby breaking the retailer's desired customization.
 
-CSS Handles, on the other hand, are guaranteed to be kept working throughout the major version, thus making the customization much more robust. This deprecation aims to encourage CSS Handles default use, avoiding potential breakdowns in store layouts. 
+CSS Handles, on the other hand, are guaranteed to be kept working throughout the major version, thus making the **customization much more robust**. This deprecation aims to encourage CSS Handles default use, avoiding potential breakdowns in store layouts. 
 
 ## Side effects
 
