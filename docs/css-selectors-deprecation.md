@@ -24,7 +24,6 @@ Below, find the full CSS Selectors list that will **continue to be allowed** for
 - Pseudo-selectors `:hover`, `:visited`, `:active`, `:focus`, `:local`, `:first-child`, and `:last-child`;
 - All pseudo-elements, such as  `::before`, `::after` and `::placeholder`;
 - `:nth-child(even)` and `:nth-child(odd)`;
-- `:first-child` and `:last-child`;
 - Space combinator (e.g. `.foo .bar`);
 - `[data-...]` 
 - For selection of elements that come from different apps, `:global(vtex-{AppName}-{AppVersion}-{ComponentName})`.
