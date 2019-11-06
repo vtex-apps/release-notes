@@ -33,7 +33,7 @@ We are deprecating all selectors and combinators not mentioned on the list above
 - `:global` selector for classes that are not CSS Handles from other apps (i.e., that do not begin with, for example, `vtex-...`);
 
 <div class="alert alert-info">
-This CSS Selector whitelist is flexible because this deprecation aims to encourage robust CSS customization without risking breakdowns in store layout. If the deprecation of CSS Selectors not on this list causes any unintended harm to your store, let us know immediately through <a href="https://github.com/vtex-apps/store-discussion/issues">Store Discussion</a>.
+  This CSS Selector whitelist is flexible because this deprecation aims to encourage robust CSS customization without risking breakdowns in store layout. If the deprecation of CSS Selectors not on this list causes any unintended harm to your store, let us know immediately through <a href="https://github.com/vtex-apps/store-discussion/issues">Store Discussion</a>.
 </div>
 
 ##  Why this action is being taken
