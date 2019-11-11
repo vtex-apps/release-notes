@@ -15,7 +15,7 @@ Prior to this improvement, retailers could not control when the component's cont
 
 With this new prop, **retailers can now specifically manage when a block's content is collapsible**: always, never, only on mobile or only on desktop. 
 
-![prop-collapsable](https://user-images.githubusercontent.com/52087100/68601929-1e5fa400-0484-11ea-82f9-6785be599dde.gif)
+![prop-collapsible](https://user-images.githubusercontent.com/52087100/68622651-6812b380-04b1-11ea-832e-4b16b18dfe04.gif)
 
 ## Main advantages
 
