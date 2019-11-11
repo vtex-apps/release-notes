@@ -2,7 +2,7 @@
 title: Product Summary
 description: "These past two weeks were not special just for the SKU Selector: the Product Summary didn't just gain a blockClass prop, but also a CSS Handle. Now that's rad right?"
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/io-documentation/edit/master/docs/en/Recipes/layout/building-a-carousel-through-lists-and-slider-layout.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/product-summary.md"
 ---
 
 # Product Summary
