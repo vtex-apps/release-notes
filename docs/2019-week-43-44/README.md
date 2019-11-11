@@ -38,7 +38,5 @@ Are you still with us? I hope so, because there is more to come:
 ### Notable bug fixes  :bug:
 
 - [Search Results page buttons]() - The `Fetch previous`  and `Show more` buttons were vanishing after being clicked on when the previous search results page was either the first or last page with search results. Witchcraft you say? Whatever the case, we've fixed it. In these scenarios, page loading is now rendered before new results are displayed.
-
 - [Structured data de unavailable products]() - Unavailable products didn't have their price filled into the page's structured data and were therefore being displayed as free in Google searches. Talk about communication failure :cold_sweat: No unavailable product page structured data will be sent to Google anymore, avoiding erroneous descriptions in the search results and customer confusion. 
-
 - [Two tabs product specification](https://github.com/vtex-apps/store-components/pull/610) - The Product Specification component was facing problems when configured to have two tabs. When expanding the first tab's content (by clicking on a `show more` button) and switching between tabs, users were confronted with a `Show less` button, as if they had already opted to expand that second tab as well. This scenario was corrected and the tabs now act independently :muscle:
