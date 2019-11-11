@@ -2,7 +2,7 @@
 title: Image component
 description: "Similar to the Menu, uploading Image component content can also be done using the Site Editor. Am I hearing fireworks?"
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/io-documentation/edit/master/docs/en/Recipes/layout/building-a-carousel-through-lists-and-slider-layout.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/image-component.md"
 ---
 
 # Image component
