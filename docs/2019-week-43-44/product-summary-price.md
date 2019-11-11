@@ -9,7 +9,7 @@ git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-43-4
 
 The Product Summary Price component gained a **new prop**, `showDiscountValue`, which allows a product's absolute savings to be displayed to users. 
 
-![product-summary-price](https://user-images.githubusercontent.com/52087100/68607074-95019f00-048e-11ea-9ab4-8573b93494b9.png)
+![absolute-saving-release](https://user-images.githubusercontent.com/52087100/68611939-13177300-049a-11ea-8601-8191fca590fb.png)
 
 ## What has changed
 
