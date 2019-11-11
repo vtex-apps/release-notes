@@ -1,8 +1,8 @@
 ---
-title: Product Summary Price 
-description: "Who doesn't like to know how much they saved when buying a product? The Product Summary Price, knowing that the answer to that question if a resounding "everyone", now displays a product's absolute saving to users."
+title: Product Summary Price
+description: "Learn how simple can be to build and custom a Product Details Page with our flexible components."
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/io-documentation/edit/master/docs/en/Recipes/layout/building-a-carousel-through-lists-and-slider-layout.md"
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-43-44/product-summary-price.md"
 ---
 
 # Product Summary Price 
