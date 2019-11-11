@@ -2,18 +2,18 @@
 title: SKU Selector
 description: "The SKU Selector is fully loaded this week: it can not only display exclusive images, but also be wholly displayed on the Shelf and even in the Search Results page. Check out the details here!"
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-43-44/product-summary-price.md"
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-43-44/sku-selector.md"
 ---
 
 # SKU Selector
 
 O SKU Selector component obteve dois importantes improvements nas ultimas semanas:
 
-- It can be now displayed on Product Summary components such as the Shelf.
+- It can be now **displayed on Product Summary components** such as the Shelf.
 
 ![product-summary-sku-selector](https://user-images.githubusercontent.com/52087100/68625690-87f9a580-04b8-11ea-835d-009ac768805f.gif)
 
-- Your images can be changed natively, without the need to replicate a miniature of the image set in the catalog. 
+- Your **images can be changed natively**, without the need to replicate a miniature of the image set in the catalog. 
 
 Foto
 
@@ -33,6 +33,6 @@ In addition, the use of exclusive images in the SKU selector **enriches** the co
 
 ## What you need to do 
 
-If you want the SKU selector to be displayed on Shelves and Search Result Pages, you can access the Product Summary SKU Selector [documentation](https://vtex.io/docs/app/vtex.product-summary/product-summary-sku-selector). 
+If you want the SKU selector to be displayed on Shelves and Search Result Pages, you can access the Product Summary SKU Selector [**documentation**](https://vtex.io/docs/app/vtex.product-summary/product-summary-sku-selector). 
 
-For more on the SKU selector images, access the recipe [Configuring custom images for the SKU Seletor](https://vtex.io/docs/recipes/layout/configuring-custom-images-for-the-sku-selector).
+For more on the SKU selector images, access the recipe [**Configuring custom images for the SKU Seletor**](https://vtex.io/docs/recipes/layout/configuring-custom-images-for-the-sku-selector).
