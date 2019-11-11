@@ -2,7 +2,7 @@
 title: Platform performance
 description: "Platform performance improvements are something we always like and want. So give this release a good read to understand what weeks 43 and 44 of 2019 bring in terms of VTEX IO improvement key points."
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/io-documentation/edit/master/docs/en/Recipes/layout/building-a-carousel-through-lists-and-slider-layout.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/platform-performance.md"
 ---
 
 # Platform performance
