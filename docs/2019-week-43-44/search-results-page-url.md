@@ -2,7 +2,7 @@
 title: Search Results Page URL
 description: "The `preventRouteChange` prop expanded and what was valid only for custom pages is now valid for custom-less Search Results pages. Apply any filters without worrying about changes to the page's path."
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/product-summary.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/search-results-page-url.md"
 ---
 
 # Search Results Page URL 
