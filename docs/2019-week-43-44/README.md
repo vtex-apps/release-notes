@@ -1,10 +1,10 @@
 # VTEX IO Highlights - Week 43&44/2019
 
-Hey team! Another week is dawning! Monday is always the day that sets the pace for the week, month and even life, right? The day we always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
+Hey team! Another week is dawning! **Monday** is always the day that sets the pace for the week, month and even life, right? The day we always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
 
-Funny how we never seem to the energy to do these things on a Friday (we tend to have other priorities :smirk:).
+Funny how we never seem to the energy to do these things on a **Friday** (we tend to have other priorities :smirk:).
 
-Therefore, from now on our beloved Release Notes is designating Monday as its official day. You'll understand why in just a second. It's just that if there is anything you'll need an abundant supply of in order to catch up with the latest IO updates, it's the energy to read through everything.  
+Therefore, from now on **our beloved Release Notes is designating Monday as its official day**. You'll understand why in just a second. It's just that if there is anything you'll need an abundant supply of in order to catch up with the latest IO updates, it's the energy to read through everything.  
 
 See for yourself:
 
@@ -13,7 +13,6 @@ See for yourself:
 ### New features  :rocket: 
 
 - [Hotjar first party app](https://vtex.io/docs/releases/2019-week-43-44/hotjar-first-party-app) - Forget custom HTML tags and rejoice from the services the Hotjar solution provides. A native integration of the solution with IO stores is now a reality thanks to this new 1st party app. 
-
 - [Carousel](https://vtex.io/docs/releases/2019-week-43-44/carousel) - The Carousel component block as we know it makes way for a new Carousel configuration that uses Slider Layout. The more component flexibility, the more customization options available to you!
 
 ### Deprecation :x:
@@ -22,26 +21,18 @@ See for yourself:
 
 ### Improvements :heavy_plus_sign:
 
-- -[Platform performance](https://vtex.io/docs/releases/2019-week-43-44/platform-performance) - Platform performance improvements are something we always like and want. So give this release a good read to understand what weeks 43 and 44 of 2019 bring in terms of VTEX IO improvement key points. 
-
+- [Platform performance](https://vtex.io/docs/releases/2019-week-43-44/platform-performance) - Platform performance improvements are something we always like and want. So give this release a good read to understand what weeks 43 and 44 of 2019 bring in terms of VTEX IO improvement key points. 
 - [Store PWA](https://vtex.io/docs/releases/2019-week-43-44/store-pwa) - Once on the Order Placed page, users want to follow their order’s status. A notice prompting the installation of your store’s PWA seems rather strategic at this point, wouldn’t you say? If you agree, then you'll definitely like this improvement. 
-
 - [Menu](https://vtex.io/docs/releases/2019-week-43-44/menu) - If there's something that retailers like, it's code independence. And if there's something we like, it's to see happy retailers! A new configuration of the Menu block allows its content to be edited with Site Editor. 
-
 - [Image](https://vtex.io/docs/releases/2019-week-43-44/image) - Similar to the Menu, uploading Image component content can also be done using the Site Editor. Am I hearing fireworks?
-
 - [SKU Selector](https://vtex.io/docs/releases/2019-week-43-44/sku-selector) -  The SKU Selector is fully loaded this week: it can not only display exclusive images, but also be wholly displayed on the Shelf and even in the Search Results page. Check out the details here! 
 
 Are you still with us? I hope so, because there is more to come: 
 
 - [Product Specification](https://vtex.io/docs/releases/2019-week-43-44/product-specifications) - You can choose when and on which device to make the Product Specification content collapsible. So much control over a component can seem like fake news, but it's all true thanks to the new component's prop! 
-
 - [Product Summary](https://vtex.io/docs/releases/2019-week-43-44/product-summary) - These past two weeks were not special just for the SKU Selector: the Product Summary didn't just gain a blockClass prop, but also a CSS Handle. 
-
 - [Product Summary Price](https://vtex.io/docs/releases/2019-week-43-44/product-summary-prime) - Who doesn't like to know how much they saved when buying a product? The Product Summary Price, knowing that the answer to that question is a resounding "everyone", now can display a product's absolute saving to users. 
-
 - [Search Results Page URL](https://vtex.io/docs/releases/2019-week-43-44/search-results-page-url) - The `preventRouteChange` prop expanded and what was valid only for custom pages is now valid for custom-less search result pages too. Apply any filters without worrying about changes to the page's path or structure. 
-
 - [Site Editor](https://vtex.io/docs/releases/2019-week-43-44/site-editor) - GIFs. Yep, that's right. GIFs. G I F S are now properly working in Site Editor. 
 
 ### Notable bug fixes  :bug:
