@@ -2,7 +2,7 @@
 title: Menu
 description: "A new configuration of the Menu block allows its content to be edited with Site Editor! If there's something that retailers like, it's code independence. And if there's something we like, it's to see happy retailers!"
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/product-summary.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/menu.md"
 ---
 
 # Menu 
