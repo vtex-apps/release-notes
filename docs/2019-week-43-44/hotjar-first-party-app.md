@@ -2,7 +2,7 @@
 title: Hotjar first party app
 description: "Forget custom HTML tags and rejoice from the services the Hotjar solution provides. A native integration of the solution with IO stores is now a reality thanks to this new 1st party app."
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/io-documentation/edit/master/docs/en/Recipes/layout/building-a-carousel-through-lists-and-slider-layout.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/hotjar-first-party-app.md"
 ---
 
 # Hotjar first party app
