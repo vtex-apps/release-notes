@@ -1,6 +1,6 @@
 ---
 title: Carousel 
-description: "The Carousel component block as we know it makes way for a new Carousel configuration that uses Slider Layout. Increased component flexibility, more customization options for you."
+description: "The Carousel component block as we know it makes way for a new Carousel configuration that uses Slider Layout. The more component flexibility, the more customization options available to you."
 date: "11/11/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/carousel.md"
 ---
