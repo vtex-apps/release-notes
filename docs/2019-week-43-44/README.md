@@ -1,10 +1,12 @@
 # VTEX IO Highlights - Week 43&44/2019
 
-Hey team! Another week is dawning! The start of the week is always the perfect opportunity to set the pace for the week, month and even life, right? We always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
+Hey team! Another week is dawning! 
+
+The start of the week is always the perfect opportunity to set the pace for the week, month and even life, right? We always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
 
 Funny how we never seem to the energy to do these things on a **Friday** (we tend to have other priorities :smirk:).
 
-Therefore, bask yourself in this fresh energy that only the start of the week can bestow upon us to make it through the Release Notes :rocket: You’ll understand why in just a second. It’s just that if there is anything you’ll need an abundant supply of in order to catch up with the latest IO updates, it’s energy to read through everything.
+Therefore, bask yourself in this **fresh energy** that only the start of the week can bestow upon us to make it through this week's Release Notes :muscle: You’ll understand why in just a second. It’s just that if there is anything you’ll need an abundant supply of in order to catch up with the latest IO updates, it’s energy to read through everything.
 
 See for yourself:
 
