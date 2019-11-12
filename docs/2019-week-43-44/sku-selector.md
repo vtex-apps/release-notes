@@ -15,7 +15,7 @@ O SKU Selector component obteve dois importantes improvements nas ultimas semana
 
 - Your **images can be changed natively**, without the need to replicate a miniature of the image set in the catalog. 
 
-!(sku-selector-image-custom)[https://user-images.githubusercontent.com/52087100/68700719-20992f80-0564-11ea-955a-d65c5a5808be.png]
+![sku-selector-image-custom](https://user-images.githubusercontent.com/52087100/68700719-20992f80-0564-11ea-955a-d65c5a5808be.png)
 
 ## What has changed 
 
