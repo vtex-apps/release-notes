@@ -4,7 +4,7 @@ description: "Once on the Order Placed page, users want to follow their order’
 date: "11/11/2019"
 tags: ["pwa", "store-pwa"]
 version: "0.x"
-git: "https://github.com/vtex-apps/io-documentation/blob/master/docs/en/Recipes/store/enabling-the-stores-pwa-notice.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-43-44/store-pwa.md"
 ---
 
 # Store PWA
