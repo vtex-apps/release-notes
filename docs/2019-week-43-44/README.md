@@ -1,4 +1,4 @@
-# VTEX IO Highlights - Week 43&44/2019
+# VTEX IO Release Notes - Week 43&44/2019
 
 Hey team! Another week is dawning! 
 
