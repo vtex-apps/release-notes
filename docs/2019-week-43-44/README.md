@@ -1,14 +1,12 @@
 # VTEX IO Highlights - Week 43&44/2019
 
-Hey team! Another week is dawning! **Monday** is always the day that sets the pace for the week, month and even life, right? The day we always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
+Hey team! Another week is dawning! The start of the week is always the perfect opportunity to set the pace for the week, month and even life, right? We always promise ourselves to start a new diet, or to better organize our tasks, come up with plans and so on... 
 
 Funny how we never seem to the energy to do these things on a **Friday** (we tend to have other priorities :smirk:).
 
-Therefore, from now on **our beloved Release Notes is designating Monday as its official day**. You'll understand why in just a second. It's just that if there is anything you'll need an abundant supply of in order to catch up with the latest IO updates, it's the energy to read through everything.  
+Therefore, bask yourself in this fresh energy that only the start of the week can bestow upon us to make it through the Release Notes :rocket: You’ll understand why in just a second. It’s just that if there is anything you’ll need an abundant supply of in order to catch up with the latest IO updates, it’s energy to read through everything.
 
 See for yourself:
-
->:bell: Keep up with VTEX IO release notes! Just click on  **Releases only**  in the  **Watch**  box in the upper-right corner of this page.
 
 ### New features  :rocket: 
 
@@ -37,6 +35,6 @@ Are you still with us? I hope so, because there is more to come:
 
 ### Notable bug fixes  :bug:
 
-- [Search Results page buttons]() - The `Fetch previous`  and `Show more` buttons were vanishing after being clicked on when the previous search results page was either the first or last page with search results. Witchcraft you say? Whatever the case, we've fixed it. In these scenarios, page loading is now rendered before new results are displayed.
-- [Structured data de unavailable products]() - Unavailable products didn't have their price filled into the page's structured data and were therefore being displayed as free in Google searches. Talk about communication failure :cold_sweat: No unavailable product page structured data will be sent to Google anymore, avoiding erroneous descriptions in the search results and customer confusion. 
-- [Two tabs product specification](https://github.com/vtex-apps/store-components/pull/610) - The Product Specification component was facing problems when configured to have two tabs. When expanding the first tab's content (by clicking on a `show more` button) and switching between tabs, users were confronted with a `Show less` button, as if they had already opted to expand that second tab as well. This scenario was corrected and the tabs now act independently :muscle:
+- [Search Results page buttons](https://github.com/vtex-apps/search-result/pull/264) - The `Fetch previous`  and `Show more` buttons were vanishing after being clicked on when the previous search results page was either the first or last page with search results. Witchcraft you say? Whatever the case, we've fixed it. In these scenarios, page loading is now rendered before new results are displayed.
+- [Structured data for unavailable products](https://github.com/vtex-apps/structured-data/pull/9) - Unavailable products didn't have their price filled into the page's structured data and were therefore being displayed as free in Google searches. Talk about communication failure :cold_sweat: No unavailable product page structured data will be sent to Google anymore, avoiding erroneous descriptions in the search results and customer confusion. 
+- [Two tabs Product Specifications](https://github.com/vtex-apps/store-components/pull/610) - The Product Specification component was facing problems when configured to have two tabs. When expanding the first tab's content (by clicking on a `show more` button) and switching between tabs, users were confronted with a `Show less` button, as if they had already opted to expand that second tab as well. This scenario was corrected and the tabs now act independently :muscle:
