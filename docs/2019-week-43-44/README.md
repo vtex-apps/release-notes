@@ -31,7 +31,7 @@ Are you still with us? I hope so, because there is more to come:
 
 - [Product Specification](https://vtex.io/docs/releases/2019-week-43-44/product-specifications) - You can choose when and on which device to make the Product Specification content collapsible. So much control over a component can seem like fake news, but it's all true thanks to the new component's prop! 
 - [Product Summary](https://vtex.io/docs/releases/2019-week-43-44/product-summary) - These past two weeks were not special just for the SKU Selector: the Product Summary didn't just gain a blockClass prop, but also a CSS Handle. 
-- [Product Summary Price](https://vtex.io/docs/releases/2019-week-43-44/product-summary-prime) - Who doesn't like to know how much they saved when buying a product? The Product Summary Price, knowing that the answer to that question is a resounding "everyone", now can display a product's absolute saving to users. 
+- [Product Summary Price](https://vtex.io/docs/releases/2019-week-43-44/product-summary-price) - Who doesn't like to know how much they saved when buying a product? The Product Summary Price, knowing that the answer to that question is a resounding "everyone", now can display a product's absolute saving to users. 
 - [Search Results Page URL](https://vtex.io/docs/releases/2019-week-43-44/search-results-page-url) - The `preventRouteChange` prop expanded and what was valid only for custom pages is now valid for custom-less search result pages too. Apply any filters without worrying about changes to the page's path or structure. 
 - [Site Editor](https://vtex.io/docs/releases/2019-week-43-44/site-editor) - GIFs. Yep, that's right. GIFs. G I F S are now properly working in Site Editor. 
 
