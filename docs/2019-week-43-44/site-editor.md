@@ -2,7 +2,7 @@
 title: Site Editor
 description: "GIFs. Yep, that's right. GIFs. G I F S are now properly working in Site Editor."
 date: "11/11/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-37/bazaarvoice-first-party-app.md"
+git: "https://github.com/vtex-apps/release-notes/edit/master/docs/2019-week-43-44/site-editor.md"
 ---
 
 # Site Editor
