@@ -15,4 +15,4 @@ Whenever a component, such as Product Specification, gains the flexibility to be
 
 ## What you need to do 
 
-Make sure you store is already running [Store Components](https://vtex.io/docs/app/vtex.store-components) version **3.85.0** or higher.
+Make sure you store is already running [**Store Components**](https://vtex.io/docs/app/vtex.store-components) version **3.85.0** or higher.
