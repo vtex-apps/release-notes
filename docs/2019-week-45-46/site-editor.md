@@ -1,6 +1,6 @@
 ---
 title: Site Editor
-description: "Platform performance improvements are something we always like and want. So give this release a good read to understand what weeks 43 and 44 of 2019 bring in terms of VTEX IO improvement key points."
+description: "They say 1 is few, 2 is good and 3 is a party. If a release for the Site Editor is already incredible, picture 3? Check out the new Topbar, complete with tooltips and new modal texts for the admin section."
 date: "11/25/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-46/site-editor.md"
 ---
