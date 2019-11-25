@@ -33,7 +33,7 @@ Notice that the Store and Design tabs are now only accessed through the admin's 
 
 ### Topbar Tooltips 
 
-In order to help users understand the new topbar buttons, tool tips were added during the hover.
+In order to help users understand the new topbar buttons, tooltips were added during the hover.
 
 ![site-editor-topbar-tooltip](https://user-images.githubusercontent.com/52087100/69551002-c09a8400-0f7a-11ea-8b9d-1b301946f7de.png)
 
