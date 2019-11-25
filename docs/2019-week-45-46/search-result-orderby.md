@@ -1,6 +1,6 @@
 ---
 title: Search Result OrderBy
-description: "The Breadcrumb was not the only one to have been gifted Handles this week. `savingPriceValue` and `savingPriceLabel` also had a lucky week and gained their own CSS Handles."
+description: "OrderBy’s new `hiddenOptions` prop does away with the component’s forced exhibitionism. Its options can now either be hidden or displayed according to the retailer’s chosen scenario."
 date: "11/25/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-46/search-result-orderby.md"
 ---
