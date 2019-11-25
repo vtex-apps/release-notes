@@ -27,6 +27,6 @@ This store customization practice, in addition to being vulnerable, will soon be
 
 ## What you need to do
 
-Make sure your store is running [Store Components](https://vtex.io/docs/app/vtex.store-components) on version **3.81.0** or higher. 
+Make sure your store is running [**Store Components**](https://vtex.io/docs/app/vtex.store-components) on version **3.81.0** or higher. 
 
 Don't forget to take a look at the recipe on [using CSS Handle for store customization](https://vtex.io/docs/recipes/style/using-css-handles-for-store-customization).
