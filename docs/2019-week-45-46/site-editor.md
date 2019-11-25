@@ -53,8 +53,8 @@ In trying to make users aware of the consequences their action brings, the above
 
 ## What you need to do 
 
-The **topbar's redesign** is available for your store starting with version **4.17.0** of the [Admin Pages](https://vtex.io/docs/app/vtex.admin-pages). 
+The **topbar's redesign** is available for your store starting with version **4.17.0** of the [**Admin Pages**](https://vtex.io/docs/app/vtex.admin-pages). 
 
 **Tooltips** can be displayed in your Site Editor starting with version **4.18.0** or higher of the same app above.
 
-However, if you want to really slick Site Editor which includes these incredible releases in addition to the **new modal texts**, the Admin Pages in your store should be at least version **4.18.1**.
+However, if you want to really slick Site Editor which includes these incredible releases in addition to the **new modal texts**, the [**Admin Pages**](https://vtex.io/docs/app/vtex.admin-pages) in your store should be at least version **4.18.1**.
