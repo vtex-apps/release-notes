@@ -25,17 +25,17 @@ The Site Editor's topbar was completely redesigned to improve user editing exper
 
 - Presently: 
 
-![site-editor-topbar-redesign-2](https://user-images.githubusercontent.com/52087100/69550748-52ee5800-0f7a-11ea-9e89-5f1a7b4177ab.png)
+![site-editor-top-bar](https://user-images.githubusercontent.com/52087100/69668082-f704fb80-106d-11ea-8290-3002998e5ad3.png)
 
 Notice that the Store and Design tabs are now only accessed through the admin's sidebar:
 
-![cms-styles-store-sections](https://user-images.githubusercontent.com/52087100/69550948-a6f93c80-0f7a-11ea-833d-0260db65449b.png)
+![cms-admin](https://user-images.githubusercontent.com/52087100/69668116-07b57180-106e-11ea-814a-da9f8fe1137f.png)
 
 ### Topbar Tooltips 
 
 In order to help users understand the new topbar buttons, tooltips were added during the hover.
 
-![site-editor-topbar-tooltip](https://user-images.githubusercontent.com/52087100/69551002-c09a8400-0f7a-11ea-8b9d-1b301946f7de.png)
+![top-bar-tooltips](https://user-images.githubusercontent.com/52087100/69668153-17cd5100-106e-11ea-8ab3-da48152ee78f.gif)
 
 ### Modal texts 
 
