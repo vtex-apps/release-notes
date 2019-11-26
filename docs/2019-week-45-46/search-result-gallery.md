@@ -15,7 +15,7 @@ Previously, the prop only allowed a single value, valid for all the store's layo
 
 From now on, you can establish values for **different devices** by using an object. The same Gallery can therefore display a different number of items per search results row, based on the user's device and the layout breakpoint that is being applied. 
 
-### Hot it works
+### How it works
 
 By using this object, you can specify the user device, as shown below:
 
