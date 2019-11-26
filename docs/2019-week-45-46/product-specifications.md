@@ -9,8 +9,7 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-4
 
 The [Product Specification](https://vtex.io/docs/components/product/vtex.store-components/product-specifications) `visibleSpecifications` and `hiddenSpecifications` props can now be edited through the admin's Site Editor. 
 
-![product-specifications-site-editor](https://user-images.githubusercontent.com/52087100/69661807-d46ce580-1061-11ea-8776-5bb8a9b3e4f3.png)
-
+![product-specification-site-editor](https://user-images.githubusercontent.com/52087100/69667290-785b8e80-106c-11ea-8283-0fe463628b62.png)
 
 ## Main advantages
 
