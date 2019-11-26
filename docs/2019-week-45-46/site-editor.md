@@ -25,7 +25,7 @@ The Site Editor's topbar was completely redesigned to improve user editing exper
 
 - Presently: 
 
-![site-editor-top-bar](https://user-images.githubusercontent.com/52087100/69668082-f704fb80-106d-11ea-8290-3002998e5ad3.png)
+![topbar-siteeditor](https://user-images.githubusercontent.com/52087100/69670780-6f21f000-1073-11ea-81ba-46c27d6b603f.png)
 
 Notice that the Store and Design tabs are now only accessed through the admin's sidebar:
 
