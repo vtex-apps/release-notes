@@ -1,4 +1,4 @@
-# VTEX IO Highlights - Week 45&46/2019
+# VTEX IO Release Notes - Week 45&46/2019
 
 Hey, team! Welcome to the **Black** VTEX IO Release Notes.
 
