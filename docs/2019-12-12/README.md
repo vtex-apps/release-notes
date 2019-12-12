@@ -37,6 +37,6 @@ error: App build failed with message: Error resolving block "store.product":
 I couldn't find a block "product-reviews". You need to declare it or depend on an app that declares it.
 ```
 
-## What you need to do
+## What you need to do 
 
 Starting from this release, it is **mandatory** to declare in the in `manifest.json` all apps that define the blocks used in your theme.
