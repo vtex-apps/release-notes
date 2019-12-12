@@ -1,3 +1,10 @@
+---
+title: Declaring blocks stemming from indirect dependencies
+description: A few releases require more urgency and demand more focus from our users, as we'll see today. Have a look good long look at the following breaking change regarding blocks stemming from indirect dependencies to avoid future headaches!
+date: "12/12/2019
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-12-12/declaring-blocks-stemming-from-indirect-dependencies.md"
+---
+
 # Declaring blocks stemming from indirect dependencies
 
 The Store Builder now requires **all blocks** that are used in the construction of a store theme to be defined by the **direct dependencies** of the app in which you are working, without exception. 
