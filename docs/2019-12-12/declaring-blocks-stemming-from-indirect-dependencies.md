@@ -41,7 +41,8 @@ If you're still using indirect dependency blocks, you won't be able to [link](ht
 
 ```
 error: App build failed with message: Error resolving block "store.product":
-I couldn't find a block "product-reviews". You need to declare it or depend on an app that declares it.
+I couldn't find a block "product-reviews". 
+You need to declare it or depend on an app that declares it.
 ```
 
 ## What you need to do 
