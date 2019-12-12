@@ -14,7 +14,7 @@ According to the old scenario, app `A` could use blocks that were defined by app
 
 Now, the Store Builder **only** looks at how a block is defined in the app's direct dependents list. This means that an app can only use blocks defined by apps that are declared as dependencies in its `manifest.json`. 
 
-Therefore, in our example above, app `C` can no longer export blocks to app `A`, because it can only use blocks that are defined by app `B`. 
+Therefore, in our example above, app `A` can no longer import blocks from app `C`, because it can only use blocks that are defined by app `B`. 
 
 ## Why is this action being taken
 
