@@ -13,6 +13,10 @@ You can call me Santa Claus 'cause once you've read everything you'll feel like 
 - [Challenge Trade Policy Condition](https://vtex.io/docs/releases/2019-week-48-49-50-51/challenge-trade-policy-condition) - This release was so necessary that you don't even have to be into B2B to rejoice with us: now, you can establish conditional rules to determine whether a user can or cannot access the content of a given trade policy. 
 - [Blocks on Site Editor](https://vtex.io/docs/releases/2019-week-48-49-50-51/blocks-on-site-editor) - We won't deny it... we love it when the Site Editor has a new release. This one's amazing: three more of your store's components can be edited using the Site Editor's admin: Search Bar placeholder, Minicart Icon Label and Product Description title.  
 
+### Deprecation :x: 
+
+- [Declaring blocks stemming from indirect dependencies](https://vtex.io/docs/releases/2019-12-12/declaring-blocks-stemming-from-indirect-dependencies) - This one was already released and announced, but it's worth letting the crew know: Store Builder now requires all blocks that are used in the construction of a store's theme to be defined by the app's direct dependencies, meaning that declaring blocks stemming from indirect dependencies is no longer allowed.
+ 
 ### Improvements :heavy_plus_sign:
 
 - [SKU Selector](https://vtex.io/docs/releases/2019-week-48-49-50-51/sku-selector) - Retailers always want power and control over their blocks. Not that I'm judging them, since they're more than right to want as much flexibility as possible for their stores. Therefore, meeting demand, new SKU Selector props (`initialSelection` and `displayMode`) are now here to get rid of block rigidity.
