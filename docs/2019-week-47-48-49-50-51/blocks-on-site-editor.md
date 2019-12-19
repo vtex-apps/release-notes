@@ -2,7 +2,7 @@
 title: Blocks on Site Editor
 description: "We won't deny it... we love it when the Site Editor has a new release. This one's amazing: three more of your store's elements can be edited using the Site Editor's admin: Search Bar placeholder, Minicart Icon Label and Product Description title!"
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/blocks-on-site-editor.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/blocks-on-site-editor.md"
 ---
 
 # Blocks on Site Editor
