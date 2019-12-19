@@ -15,7 +15,7 @@ The new Reviews and Ratings app provides a **VTEX native solution for product re
 
 Previously, there was no native product review and ratings solution. Stores depended exclusively on third-party solutions and first party apps developed for the integration. 
 
-Water under the bridge. VTEX's native solution to manage these requirements is called Reviews and Ratings and it's online!
+Water under the bridge! VTEX's native solution to manage these requirements is called Reviews and Ratings and it's online!
 
 ## Main advantages   
 
