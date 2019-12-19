@@ -8,10 +8,10 @@ You can call me Santa Claus 'cause once you've read everything you'll feel like 
 
 ### New features  :rocket: 
 
-- [Reviews and Ratings](https://vtex.io/docs/releases/2019-week-48-49-50-51/reviews-and-ratings) - Finally! A product review and rating solution to call our own!!! Say goodbye to the old third-party solution you were using and cast your eyes on this new release.
-- [Publish command](https://vtex.io/docs/releases/2019-week-48-49-50-51/publish-command) - If you take a deep breath, you can catch a whiff the A/B tests in the air. That’s because the `vtex publish` command has now changed its functionality and more steps have been added to the process of publishing an app on the platform. Everything to say goodbye to potential instabilities and to foster a culture of tests among our beloved devs.
-- [Challenge Trade Policy Condition](https://vtex.io/docs/releases/2019-week-48-49-50-51/challenge-trade-policy-condition) - This release was so necessary that you don't even have to be into B2B to rejoice with us: now, you can establish conditional rules to determine whether a user can or cannot access the content of a given trade policy. 
-- [Blocks on Site Editor](https://vtex.io/docs/releases/2019-week-48-49-50-51/blocks-on-site-editor) - We won't deny it... we love it when the Site Editor has a new release. This one's amazing: three more of your store's components can be edited using the Site Editor's admin: Search Bar placeholder, Minicart Icon Label and Product Description title.  
+- [Reviews and Ratings](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/reviews-and-ratings) - Finally! A product review and rating solution to call our own!!! Say goodbye to the old third-party solution you were using and cast your eyes on this new release.
+- [Publish command](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/publish-command) - If you take a deep breath, you can catch a whiff the A/B tests in the air. That’s because the `vtex publish` command has now changed its functionality and more steps have been added to the process of publishing an app on the platform. Everything to say goodbye to potential instabilities and to foster a culture of tests among our beloved devs.
+- [Challenge Trade Policy Condition](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/challenge-trade-policy-condition) - This release was so necessary that you don't even have to be into B2B to rejoice with us: now, you can establish conditional rules to determine whether a user can or cannot access the content of a given trade policy. 
+- [Blocks on Site Editor](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/blocks-on-site-editor) - We won't deny it... we love it when the Site Editor has a new release. This one's amazing: three more of your store's components can be edited using the Site Editor's admin: Search Bar placeholder, Minicart Icon Label and Product Description title.  
 
 ### Deprecation :x: 
 
@@ -19,8 +19,8 @@ You can call me Santa Claus 'cause once you've read everything you'll feel like 
  
 ### Improvements :heavy_plus_sign:
 
-- [SKU Selector](https://vtex.io/docs/releases/2019-week-48-49-50-51/sku-selector) - Retailers always want power and control over their blocks. Not that I'm judging them, since they're more than right to want as much flexibility as possible for their stores. Therefore, meeting demand, new SKU Selector props (`initialSelection` and `displayMode`) are now here to get rid of block rigidity.
-- [Minicart](https://vtex.io/docs/releases/2019-week-48-49-50-51/sku-selector) - If there is one thing that a store can always improve upon, it's user experience. The new Minicart `openOnHover` prop is here to make that point.  
+- [SKU Selector](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/sku-selector) - Retailers always want power and control over their blocks. Not that I'm judging them, since they're more than right to want as much flexibility as possible for their stores. Therefore, meeting demand, new SKU Selector props (`initialSelection` and `displayMode`) are now here to get rid of block rigidity.
+- [Minicart](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/sku-selector) - If there is one thing that a store can always improve upon, it's user experience. The new Minicart `openOnHover` prop is here to make that point.  
 - [CSS Handles](https://vtex.io/docs/releases/2019-week-48-49-50-51/css-handles) - We get a fuzzy feeling inside whenever a CSS Handles release is nearby! Have a look at our blocks that gained new Handles and are ready to be fully customized: Menu, Flexible Search Result and Product Price.
 
 ### Notable bug fixes  :bug:
