@@ -4,7 +4,7 @@ You better watch out, you better not cry, you better not pout and I'm telling yo
 
 Given the holiday's never ending glee (and the 117 Fahrenheit if you're in Brazil :sun_with_face:) that December bestows upon us all, the **Christmasy Release Notes** comes in an exclusive format this last month of the year, bringing the best and latest of the past few weeks.
 
-You can call me Santa Claus 'cause once you've read everything you'll feel like you've just found a Christmas tree loaded with **goodies** :christmas_tree: There are so many amazing releases bundled together that I bet you'll go through them as fast as **2019** went by... 
+You can call me Santa Claus 'cause once you've read everything you'll feel like you've just found a Christmas tree loaded with **goodies** :christmas_tree: There are so many amazing releases bundled together that I bet you'll go through them as fast as **2019** went by...
 
 ### New features  :rocket: 
 
