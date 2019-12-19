@@ -18,7 +18,7 @@ Now, `vtex publish` is just one of the **three steps** needed to effectively pub
 ![Publish-process](https://user-images.githubusercontent.com/52087100/71118909-c0775800-21b7-11ea-9e17-226badbc30c3.png)
 
 1. When running the `vtex publish` command in your terminal, a **candidate release version** is now generated. The candidate release is nothing more than a **test phase**, that is, the new version in probation mode. Because of this state, Housekeeper won't automatically install it on any account. To install it, you must order Toolbelt to [install](https://vtex.io/docs/recipes/store/installing-an-app) the exact version.
-2. After the installation, you'll need to manually **perform the** [**A/B test**](https://vtex.io/docs/recipes/store/running-native-ab-testing) on the new version, checking and confirming its stability.
+2. After the installation, it is recommended to manually **perform** [**A/B tests**](https://vtex.io/docs/recipes/store/running-native-ab-testing) on the new version, checking and confirming its stability.
 3. Once the necessary testing is completed, the third and last step is to **validate the candidate release** as a version that's ready to become stable on the infrastructure (having the `validated` status). This is achieved using the vtex validate command.
 
 ## Why is this action being taken
