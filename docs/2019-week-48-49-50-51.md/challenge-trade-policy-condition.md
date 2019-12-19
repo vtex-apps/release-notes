@@ -11,7 +11,7 @@ Stores can now **verify user access conditions** to a given trade policy thanks 
 
 ## What has changed 
 
-Previously, platform stores could specify business rules for a given sales channel through a trade policy, but not for users. This meant that it was not possible to directly control which users could access a particular trade policy and its content.
+Previously, stores could specify business rules for a given sales channel through a trade policy, but not for users. This meant that it was not possible to directly control which users could access a particular trade policy and its content.
 
 Now, trade policies can establish **condition rules**, meaning validation rules to check whether or not a user could in fact view their content. All made possible by the new Challenge Trade Policy Condition app. 
 
