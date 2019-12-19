@@ -2,7 +2,7 @@
 title: Challenge Trade Policy Condition
 description: "This release is so fascinating that you don't even have to be into B2B to rejoice with us: now, you can establish conditional rules to determine whether a user can or cannot access the content of a given trade policy. Awesome, isn't it?"
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/challenge-trade-policy-condition.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/challenge-trade-policy-condition.md"
 ---
 
 # Challenge Trade Policy Condition
