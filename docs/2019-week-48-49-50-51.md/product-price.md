@@ -1,8 +1,8 @@
 ---
 title: Product Price
-description: "Shall we celebrate search query's independence from the facets query? Even when the latter doesn't return any results, the former renders data fetched by the `productSearch` query, providing users with search results regardless."
+description: "The individuality of each block used in a store must be respected, mainly when we talk about customizations. With that in mind, the Product Price can finally showcase the `blockClass` prop! It means that every Product Price block will be able to receive a unique customization each time it appears in your store, no matter how often that happens."
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-46/search-query.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/product-price.md"
 ---
 
 # Product Price
