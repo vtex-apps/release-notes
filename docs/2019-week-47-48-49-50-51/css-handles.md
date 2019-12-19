@@ -2,7 +2,7 @@
 title: CSS Handles
 description: "We get a fuzzy feeling inside whenever a CSS Handles release is nearby! Have a look at the store's components that gained new Handles and are ready to be fully customized: Menu, Search Result and Product Price."
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/css-handles.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/css-handles.md"
 ---
 
 # CSS Handles
