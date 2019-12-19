@@ -1,6 +1,6 @@
 ---
 title: CSS Handles
-description: "We get a fuzzy feeling inside whenever a CSS Handles release is nearby! Have a look at our blocks that gained new Handles and are ready to be fully customized: Menu, Flexible Search Result and Product Price."
+description: "We get a fuzzy feeling inside whenever a CSS Handles release is nearby! Have a look at the store's section that gained new Handles and are ready to be fully customized: Menu, Search Result and Product Price."
 date: "12/19/2019"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-46/search-query.md"
 ---
@@ -19,7 +19,7 @@ Previously, all telemarketing layout components didn't have Handles. Therefore, 
 
 ![telemarketing](https://user-images.githubusercontent.com/52087100/71182442-dab34380-2254-11ea-8a86-e8ef4d3f09f1.png)
 
-In addition, several flexible search result and menu elements lacked customizations, not having their own CSS Handles.
+In addition, several search result and menu elements lacked customizations, not having their own CSS Handles.
 
 ## Main advantages 
 
