@@ -2,7 +2,7 @@
 title: Reviews and Ratings
 description: "Finally! A product review and rating solution to call our own!!! Say goodbye to the old third-party solution you were using and cast your eyes on this new release."
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/reviews-and-ratings.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/reviews-and-ratings.md"
 ---
 
 # Reviews and Ratings
