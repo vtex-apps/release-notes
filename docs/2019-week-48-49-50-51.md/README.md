@@ -15,7 +15,7 @@ You can call me Santa Claus 'cause once you've read everything you'll feel like 
 
 ### Deprecation :x: 
 
-- [Declaring blocks stemming from indirect dependencies](https://vtex.io/docs/releases/2019-12-12/declaring-blocks-stemming-from-indirect-dependencies) - This one was already released and announced, but it's worth letting the crew know: Store Builder now requires all blocks that are used in the construction of a store's theme to be defined by the app's direct dependencies, meaning that declaring blocks stemming from indirect dependencies is no longer allowed.
+- [Declaring blocks stemming from indirect dependencies](https://vtex.io/docs/releases/2019-12-12/declaring-blocks-stemming-from-indirect-dependencies) - This one was already released and announced, but it's worth letting the crew know once more: Store Builder now requires all blocks that are used in the construction of a store's theme to be defined by the app's direct dependencies, meaning that declaring blocks stemming from indirect dependencies is no longer allowed.
  
 ### Improvements :heavy_plus_sign:
 
