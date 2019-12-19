@@ -2,7 +2,7 @@
 title: Sku Selector
 description: "Retailers always want power and control over their blocks. Not that I'm judging them, since they're more than right to want as much flexibility as possible for their stores. Therefore, meeting demand, new SKU Selector props (`initialSelection` and `displayMode`) are now here to get rid of block rigidity."
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/sku-selector.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/sku-selector.md"
 ---
 
 # Sku Selector
