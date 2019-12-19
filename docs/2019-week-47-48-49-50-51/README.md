@@ -20,7 +20,7 @@ You can call me Santa Claus 'cause once you've read everything you'll feel like 
 ### Improvements :heavy_plus_sign:
 
 - [SKU Selector](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/sku-selector) - Retailers always want power and control over their blocks. Not that I'm judging them, since they're more than right to want as much flexibility as possible for their stores. Therefore, meeting demand, new SKU Selector props (`initialSelection` and `displayMode`) are now here to get rid of block rigidity.
-- [Minicart](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/sku-selector) - If there is one thing that a store can always improve upon, it's user experience. The new Minicart `openOnHover` prop is here to make that point.  
+- [Minicart](https://vtex.io/docs/releases/2019-week-47-48-49-50-51/minicart) - If there is one thing that a store can always improve upon, it's user experience. The new Minicart `openOnHover` prop is here to make that point.  
 - [CSS Handles](https://vtex.io/docs/releases/2019-week-48-49-50-51/css-handles) - We get a fuzzy feeling inside whenever a CSS Handles release is nearby! Have a look at our blocks that gained new Handles and are ready to be fully customized: Menu, Flexible Search Result and Product Price.
 
 ### Notable bug fixes  :bug:
