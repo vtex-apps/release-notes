@@ -2,7 +2,7 @@
 title: Blocks on Site Editor
 description: "We won't deny it... we love it when the Site Editor has a new release. This one's amazing: three more of your store's elements can be edited using the Site Editor's admin: Search Bar placeholder, Minicart Icon Label and Product Description title!"
 date: "12/19/2019"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-45-46/search-query.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-48-49-50-51.md/blocks-on-site-editor.md"
 ---
 
 # Blocks on Site Editor
@@ -11,11 +11,15 @@ The admin's Site Editor now allows you to edit three more Store Framework elemen
 
 - **Search Bar placeholder**
 
+![search-bar-site-editor](https://user-images.githubusercontent.com/52087100/71176566-e13bbe00-2248-11ea-8dd6-aa157b1ce887.png)
+
 - **Minicart Icon Label**
+
+![minicart-label-siteeditor-check](https://user-images.githubusercontent.com/52087100/71176658-18aa6a80-2249-11ea-8e48-795cc3f670b6.png)
 
 - **Product Description Title**
 
-GIF
+![product-description-title-siteeditor](https://user-images.githubusercontent.com/52087100/71176568-e26ceb00-2248-11ea-84e2-a63313d0538e.png)
 
 ## What has changed
 
