@@ -7,11 +7,11 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-4
 
 # Publish command
 
-:warning: Updated January 13, 2020: `vtex validate` command is deprecated. Use `vtex deploy` instead.
+<div class="alert alert-warning">:warning: Updated January 13, 2020: `vtex validate` command is deprecated. Use `vtex deploy` instead.</div>
 
 The `vtex publish` command, responsible for publishing new app versions, will change its platform behavior on 01/02/2020.
 
-:warning: This release is merely a notice about the impending change to the app publishing process, meaning that **this release is not yet live** and **will only be in effect as of January 2, 2020**. 
+<div class="alert alert-warning">:warning: This release is merely a notice about the impending change to the app publishing process, meaning that **this release is not yet live** and **will only be in effect as of January 2, 2020**. </div>
 
 ## What will change
 
