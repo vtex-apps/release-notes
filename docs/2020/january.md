@@ -1,6 +1,6 @@
 # VTEX IO Release Notes - January 2020
 
-Aaaaand we are back, ladies and gentlemen :clap:
+And we are back, ladies and gentlemen :clap:
 
 Long time no see... really missed you guys! I'm sure that you've missed us too, right? RIGHT :smirk:
 
