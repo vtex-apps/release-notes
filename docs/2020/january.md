@@ -32,7 +32,7 @@ Long time no see... really missed you guys! I'm sure that you've missed us too, 
 
 - **SKU Selector** - Previously, the `showValueNameForImageVariation` prop did not serve every scenario it is was meant to because it only indicated a variation's value if it was an image type. It was replaced with a prop, namely the `showValueForVariation`, that encompasses even more scenarios, that is, it now indicates variation's value of all types (image and others!). Do not forget to give the [documentation](https://vtex.io/docs/components/all/vtex.store-components/sku-selector) a quick sneak peak to understand the prop's behavior
 
-- **SKU Selector do Product Summary** - The possibility to add a slider in the [Product Summary SKU Selector](https://vtex.io/docs/components/all/vtex.product-summary/product-summary-sku-selector) to make user navigation easier has just become reality thanks to the new `displayMode` prop
+- **Product Summary SKU Selector** - The possibility to add a slider in the [Product Summary SKU Selector](https://vtex.io/docs/components/all/vtex.product-summary/product-summary-sku-selector) to make user navigation easier has just become reality thanks to the new `displayMode` prop
 
 ## Notable bug fixes  :bug:
 
