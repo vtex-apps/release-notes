@@ -17,7 +17,7 @@ Without Handles, a component's CSS customization was necessarily done based on t
 Below, find the full CSS Selectors list that will **continue to be allowed** for your store's customization:
 
 - Class selectors (e.g. `.foo`)
-- Pseudo-selectors `:hover`, `:visited`, `:active`, `:focus`, `:local`, `:not`, `:first-child` and `:last-child`
+- Pseudo-selectors `:hover`, `:visited`, `:active`, `:disabled`, `:focus`, `:local`, `:not`, `:first-child` and `:last-child`
 - All pseudo-elements, such as  `::before`, `::after` and `::placeholder`
 - `:nth-child(even)` and `:nth-child(odd)`
 - Space combinator (e.g. `.foo .bar`)
