@@ -1,3 +1,10 @@
+---
+title: VTEX IO Release Notes - January 2020
+description: "See what is new in VTEX IO January 2020"
+date: "10/02/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-jan/README.md"
+---
+
 # VTEX IO Release Notes - January 2020
 
 And we are back, ladies and gentlemen :clap:
@@ -8,7 +15,7 @@ Long time no see... really missed you guys! I'm sure that you've missed us too, 
 
 2020, here we are. And here we go:
 
-## Features :rocket: 
+## Features :rocket:
 
 - **Minicart v2** - A brand new Minicart is up and running, much more optimized and flexible that it's former version. For a look at the reasons why you'll want to migrate asap, check out the [documentation](https://vtex.io/docs/components/all/vtex.minicart/).
 
@@ -24,9 +31,9 @@ Long time no see... really missed you guys! I'm sure that you've missed us too, 
 
 - **Site Editor** - Our beloved admin's Site Editor now allows you to configure some of the many [Shelf](https://vtex.io/docs/components/all/vtex.shelf/) (`maxItems`, `arrows`, `showTitle`, `titleText`, `minItemsPerPage`, `itemsPerPage` and `paginationDotsVisibility`) and [Slider Layout](https://vtex.io/docs/components/all/vtex.slider-layout/) (`navigationStep`, `itemsPerPage` and `autoplay`) props.
 
--  **Search Results Filters** - The new `facetsBehavior` prop only allows you to display filters with actual search results in the [Search Result](https://vtex.io/docs/components/all/vtex.search-result/) page. No more misleadings. Yay!
+- **Search Results Filters** - The new `facetsBehavior` prop only allows you to display filters with actual search results in the [Search Result](https://vtex.io/docs/components/all/vtex.search-result/) page. No more misleadings. Yay!
 
-- **Product Summary image** -  Choose which product image will be shown in the [Product Summary Image](https://vtex.io/docs/components/all/vtex.product-summary/product-summary-image) block thanks to the new `mainImageLabel` prop.
+- **Product Summary image** - Choose which product image will be shown in the [Product Summary Image](https://vtex.io/docs/components/all/vtex.product-summary/product-summary-image) block thanks to the new `mainImageLabel` prop.
 
 - **CSS Handles** - More CSS Handles for several apps, among which: [Stack Layout](https://vtex.io/docs/components/all/vtex.stack-layout/), [Product Summary](), [Search Result](https://vtex.io/docs/components/all/vtex.search-result/), [Menu](https://vtex.io/docs/components/all/vtex.menu/), [Minicart](https://vtex.io/docs/components/all/vtex.minicart/), [Flex Layout](https://vtex.io/docs/components/all/vtex.flex-layout/)) and ALL [store icons](https://vtex.io/docs/components/all/vtex.store-icons/). We're seriously not kidding around when it comes to Handles... do not forget to check out each related documentation.
 
@@ -34,10 +41,10 @@ Long time no see... really missed you guys! I'm sure that you've missed us too, 
 
 - **Product Summary SKU Selector** - The possibility to add a slider in the [Product Summary SKU Selector](https://vtex.io/docs/components/all/vtex.product-summary/product-summary-sku-selector) to make user navigation easier has just become reality thanks to the new `displayMode` prop.
 
-## Notable bug fixes  :bug:
+## Notable bug fixes :bug:
 
 - **Search Results ordering** - It's always a good idea to improve the Search Results page. Now, sorting products by "Relevance" takes the [score field](https://help.vtex.com/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae) value set in the admin's Catalog into consideration.
 
-- **SKU Selector ordering** - We're really putting our house in order in 2020: the SKU Selector now respects the position given to [SKU specifications](https://help.vtex.com/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) values defined in the admin's catalog, displaying everything according to the retailer's order preference. 
+- **SKU Selector ordering** - We're really putting our house in order in 2020: the SKU Selector now respects the position given to [SKU specifications](https://help.vtex.com/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) values defined in the admin's catalog, displaying everything according to the retailer's order preference.
 
-- **Product Impression event** - Previously, Product Impression events faced a problem: whenever the Shelf was hovered over, the event triggered the store’s Google Analytics informing that all Shelf products had been seen by the user, even those that were hidden by the SKU Selector’s slider. This is now changed: only products that are in fact displayed are sent by the event. 
+- **Product Impression event** - Previously, Product Impression events faced a problem: whenever the Shelf was hovered over, the event triggered the store’s Google Analytics informing that all Shelf products had been seen by the user, even those that were hidden by the SKU Selector’s slider. This is now changed: only products that are in fact displayed are sent by the event.
