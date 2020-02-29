@@ -1,3 +1,10 @@
+---
+title: VTEX IO Highlights - Week 31/2019
+description: "See what is new in VTEX IO Week 31/2019"
+date: "15/08/2019"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-31/README.md"
+---
+
 # VTEX IO Highlights - Week 31/2019
 
 Welcome to the VTEX IO weekly release notes!
