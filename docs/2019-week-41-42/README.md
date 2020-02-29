@@ -1,7 +1,7 @@
 ---
 title: VTEX IO Release Notes - Week 41&42/2019
 description: "See what is new in VTEX IO Week 41&42/2019"
-date: "25/10/2019"
+date: "2019-10-25"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-41-42/README.md"
 ---
 
