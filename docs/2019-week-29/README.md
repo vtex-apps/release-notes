@@ -1,7 +1,7 @@
 ---
 title: VTEX IO Highlights - Week 29/2019
 description: "See what is new in VTEX IO Week 29/2019"
-date: "25/07/2019"
+date: "2019-07-25"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-29/README.md"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: VTEX IO Release Notes - December 2019
 description: "See what is new in VTEX IO December 2019"
-date: "19/12/2019"
+date: "2019-12-19"
 git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-47-48-49-50-51/README.md"
 ---
 
