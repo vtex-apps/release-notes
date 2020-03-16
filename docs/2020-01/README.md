@@ -2,7 +2,7 @@
 title: VTEX IO Release Notes - January 2020
 description: "See what is new in VTEX IO January 2020"
 date: "2020-02-10"
-git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-jan/README.md"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-01/README.md"
 ---
 
 # VTEX IO Release Notes - January 2020
