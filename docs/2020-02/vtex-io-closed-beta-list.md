@@ -7,7 +7,7 @@ git: "https://github.com/vtex-apps/release-notes/blob/fix-link-typos/docs/2020-0
 
 # VTEX IO Closed Beta list 
 
-As a closed beta, VTEX IO now has a **new workflow** to require platform development permissions.
+As a closed beta solution, VTEX IO has a **new workflow** for platform development permissions: it is now required to submit a [form](https://docs.google.com/forms/d/e/1FAIpQLSfhuhFxvezMhPEoFlN9yFEkUifGQlGP4HmJQgx6GP32WZchBw/viewform?usp=send_form) with your project details to our product team. 
 
 ## What has changed
 
