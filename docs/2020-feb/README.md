@@ -37,7 +37,7 @@ Still with us? It gets better...
 
 - **Toolbelt** - A notification is now triggered in your terminal when the `vtex link` command is not running anymore, meaning when your link has died. Can I get an amen? But remember: this new feature is only valid for MAC and Linux at the moment. 
 
-- **Alexa Certify Code** - Natively integrate with Amazon's [Alexa](https://vtex.io/docs/components/all/vtex.alexa-certify-code/) solution now! 
+- **Alexa Certify Code** - Natively integrate with Amazon's [Alexa solution](https://vtex.io/docs/components/all/vtex.alexa-certify-code/) now! 
 
 - **Braspag Cybersource Fingerprint** - Make way for there is yet another pixel bringing native integration. It is the  [Braspag's Cybersource anti-fraud](https://vtex.io/docs/components/all/vtex.cybersource-fingerprint/)!
 
