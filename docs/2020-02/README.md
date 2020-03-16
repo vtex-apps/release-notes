@@ -15,7 +15,7 @@ Brace yourselves... This month's VTEX IO Release Notes is here and you'll need t
 
 - **Exception for the CSS Selectors deprecation**: Previously, no blocks could be customized by CSS Selectors, remember? This breaking change and the reasons that led to it were announced in the [Release Notes for weeks 43 and 44 of 2019](https://vtex.io/docs/releases/2019-week-43-44/css-selectors-deprecation). Now, this scenario has undergone further changes. The blocks that are not flexible, i.e. that cannot be declared using Flex Layout, will be able to CSS Selectors as an exception. 
 
-- **Changes to the VTEX IO Closed Beta list workflow** -  VTEX IO now has a new workflow to require platform development permissions! [Find out more details](https://vtex.io/docs/releases/2020-feb/vtex-io-closed-beta-list) about the change and what you will need to do from now on.
+- **Changes to the VTEX IO Closed Beta list workflow** -  VTEX IO now has a new workflow to require platform development permissions! [Find out more details](https://vtex.io/docs/releases/2020-02/vtex-io-closed-beta-list) about the change and what you will need to do from now on.
 
 ## Features 🚀
 
@@ -49,7 +49,7 @@ Still with us? It gets better...
 
 - **Order Placed** - Previously, [Order Placed](https://vtex.io/docs/components/content-blocks/vtex.order-placed/readme) was a big monolithic block. It has been been broken down into smaller blocks, allowing you to customize the order placed page as you wish! Yay! 
 
-- **React app dependencies** - The wise Toolbelt will now automatically update an App React's dependencies located in the app's `package.json` file to keep them in line with Render's dependencies list. Find out more details on this improvement [here]((https://vtex.io/docs/releases/2020-feb/react-app-dependencies)!
+- **React app dependencies** - The wise Toolbelt will now automatically update an App React's dependencies located in the app's `package.json` file to keep them in line with Render's dependencies list. Find out more details on this improvement [here]((https://vtex.io/docs/releases/2020-02/react-app-dependencies)!
 
  - **SVG's size** - The `viewbox` prop for [Store Icons](https://vtex.io/docs/components/all/vtex.store-icons/) now accepts other values aside from 16x16px for the following block icons: `search-bar`, `login` and `minicart`.  
 
