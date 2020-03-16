@@ -13,7 +13,7 @@ Brace yourselves... This month's VTEX IO Release Notes is here and you'll need t
 
 ## Special announcements :speaker:
 
-- **Exception for the CSS Selectors deprecation**: Previously, no blocks could be customized by CSS Selectors, remember? This breaking change and the reasons that led to it were announced in the [Release Notes for weeks 43 and 44 of 2019](https://vtex.io/docs/releases/2019-week-43-44/css-selectors-deprecation). Now, this scenario has undergone further changes. The blocks that are not flexible, i.e. that cannot be declared using Flex Layout, will be able to CSS Selectors as an exception. 
+- **Exception for the CSS Selectors deprecation**: Previously, no blocks could be customized by CSS Selectors, remember? This breaking change and the reasons that led to it were announced in the [Release Notes for weeks 43 and 44 of 2019](https://vtex.io/docs/releases/2019-week-43-44/css-selectors-deprecation). Now, this scenario has undergone further changes. Apps that are not yet flexible will be able to CSS Selectors as an exception. They are: `vtex.my-account@1.x`, `vtex.my-orders@3.x` and `vtex.login@2.x`,
 
 - **Changes to the VTEX IO Closed Beta list workflow** -  VTEX IO now has a new workflow to require platform development permissions! [Find out more details](https://vtex.io/docs/releases/2020-02/vtex-io-closed-beta-list) about the change and what you will need to do from now on.
 
