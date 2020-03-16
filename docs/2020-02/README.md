@@ -41,15 +41,15 @@ Still with us? It gets better...
 
 - **Braspag Cybersource Fingerprint** - Make way for there is yet another pixel bringing native integration. It is the  [Braspag's Cybersource anti-fraud](https://vtex.io/docs/components/all/vtex.cybersource-fingerprint/)!
 
-- **UserData Event** -  It's up and running, yes! A Google Analytics event that contains the data of users that logged into your store during navigation. Oh yeah! Better still: the `UserData` event is also available on Data Layer.
+- **UserData Event** -  It's up and running, yes! [Set up the Google Tag Manager UserData Event](https://vtex.io/docs/recipes/store-management/setting-up-google-tag-manager) in your store and verify data related to your store logged in users using the Google Analytics.
 
 ## Improvements ➕
 
 - **SEO** - Bad SEO practices? Not here. New URLs that are generated based on a change in a product/category/brand name are no longer indexed by Google even if the content is invalid. Instead, a redirect is created from the old URL to the new one, 
 
-- **Order Placed** - Previously, [Order Placed](https://vtex.io/docs/components/content-blocks/vtex.order-placed/readme) was a big monolithic block. It has been been broken down into smaller blocks, allowing you to customize the order placed page as you wish! Yay! 
+- **Order Placed** - Previously, [Order Placed](https://vtex.io/docs/components/content-blocks/vtex.order-placed/readme) was a big monolithic block. Now, Order Placed v2 is launched. Broken into small and customizable blocks, it allows you to customize the order placed page as you wish! Yay! 
 
-- **React app dependencies** - The wise Toolbelt will now automatically update an App React's dependencies located in the app's `package.json` file to keep them in line with Render's dependencies list. Find out more details on this improvement [here]((https://vtex.io/docs/releases/2020-02/react-app-dependencies)!
+- **React app dependencies** - The wise Toolbelt will now automatically update an App React's dependencies located in the app's `package.json` file to keep them in line with Render's dependencies list. Find out more details on this improvement [here](https://vtex.io/docs/releases/2020-02/react-app-dependencies)!
 
  - **SVG's size** - The `viewbox` prop for [Store Icons](https://vtex.io/docs/components/all/vtex.store-icons/) now accepts other values aside from 16x16px for the following block icons: `search-bar`, `login` and `minicart`.  
 
