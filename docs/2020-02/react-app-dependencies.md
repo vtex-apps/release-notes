@@ -2,7 +2,7 @@
 title: React app dependencies 
 description: "The wise Toolbelt will now update an App React's dependencies (located in the app's `package.json` file) to keep them in line with Render's dependencies list."
 date: "2020-03-16"
-git: "https://github.com/vtex-apps/release-notes/blob/release-notes-february/docs/2020-feb/react-app-dependencies.md"
+git: "https://github.com/vtex-apps/release-notes/blob/fix-link-typos/docs/2020-02/react-app-dependencies.md"
 ---
 
 # React app dependencies 
