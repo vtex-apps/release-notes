@@ -2,7 +2,7 @@
 title: VTEX IO Closed Beta list 
 description: "VTEX IO now has a new workflow to require platform development permissions! Find out more about the change and about what you need to do when accessing the VTEX IO Closed Beta list file."
 date: "2020-03-16"
-git: "https://github.com/vtex-apps/release-notes/blob/release-notes-february/docs/2020-feb/vtex-io-closed-beta-list.md"
+git: "https://github.com/vtex-apps/release-notes/blob/fix-link-typos/docs/2020-02/vtex-io-closed-beta-list.md"
 ---
 
 # VTEX IO Closed Beta list 
