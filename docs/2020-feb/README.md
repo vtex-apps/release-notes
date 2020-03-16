@@ -13,7 +13,7 @@ Brace yourselves... This month's VTEX IO Release Notes is here and you'll need t
 
 ## Special announcements :speaker:
 
-- **CSS Selectors deprecation**: Previously, no blocks could be customized by CSS Selectors, remember? This breaking change and the reasons that led to it were announced in the [Release Notes for weeks 43 and 44 of 2019](https://vtex.io/docs/releases/2019-week-43-44/css-selectors-deprecation). Now, this scenario has undergone further changes. The blocks that are not flexible, i.e. that cannot be declared using Flex Layout, will be able to CSS Selectors as an exception. 
+- **Exception for the CSS Selectors deprecation**: Previously, no blocks could be customized by CSS Selectors, remember? This breaking change and the reasons that led to it were announced in the [Release Notes for weeks 43 and 44 of 2019](https://vtex.io/docs/releases/2019-week-43-44/css-selectors-deprecation). Now, this scenario has undergone further changes. The blocks that are not flexible, i.e. that cannot be declared using Flex Layout, will be able to CSS Selectors as an exception. 
 
 - **Changes to the VTEX IO Closed Beta list workflow** -  VTEX IO now has a new workflow to require platform development permissions! [Find out more details](https://vtex.io/docs/releases/2020-feb/vtex-io-closed-beta-list) about the change and what you will need to do from now on.
 
@@ -29,7 +29,7 @@ Brace yourselves... This month's VTEX IO Release Notes is here and you'll need t
 
 - **Sticky Layout** -  Endless praise to our dev team that deliver not just one, but two new Layouts releases. You are now able to fix elements in place on the interface, thereby making blocks follow user navigation when scrolling thanks to the [Sticky Layout](https://vtex.io/docs/components/layout-blocks/vtex.sticky-layout/)! 
 
-- **Shelf** - Have you heard the latest? Shelf block is now configured with Slider Layout. When listing context, you'll be able to display the desired products in an easier and more practical way. Find out how by reading the [documentation](https://vtex.io/docs/components/content-blocks/vtex.shelf/)!
+- **Shelf** - Have you heard the latest? Shelf block is now configured with [Slider Layout](https://vtex.io/docs/apps/layout-blocks/vtex.slider-layout). When listing context, you'll be able to display the desired products in an easier and more practical way. Find out how by reading the [documentation](https://vtex.io/docs/components/content-blocks/vtex.shelf/)!
 
 Still with us? It gets better...
 
