@@ -59,7 +59,7 @@ Still with us? It gets better...
 
 Breathe in and relax, because we still have more... 
 
-- **CSS Handles** - Our constantly acclaimed CSS Handles release is also present this month with new CSS Handles for NumericStepper elements and [Search Result](https://vtex.io/docs/components/content-blocks/vtex.search-result/)
+- **CSS Handles** - Our constantly acclaimed CSS Handles release is also present this month with new CSS Handles for the [Search Result](https://vtex.io/docs/components/content-blocks/vtex.search-result/) page.
 
 - **Shelf IDs** - The [Shelf](https://vtex.io/docs/components/content-blocks/vtex.shelf/) `trackingId` prop now enables you to identify, using a Shelf ID, which Shelf actually had its content accessed and triggered the Google Analytics event. 
 
