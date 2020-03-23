@@ -19,8 +19,6 @@ Brace yourselves... This month's VTEX IO Release Notes is here and you'll need t
 
 ## Features 🚀
 
-- **404 Pages** - A carnival miracle. Nothing wrong was found in this release... you've asked for it and we've delivered: 404 pages in your store are just a config away!  Give the [documentation](https://vtex.io/docs/recipes/store-management/enabling-404-pages) a good read! 
-
 - **VTEX init** - The creation of new storefronts using the VTEX IO Store Framework will limit itself to the `store` option when running the `vtex init` command. `store` is a basic boilerplate, unlike the previous Store Theme that already had a lot of preset configurations and customization. Good news for Store Framework beginners!
 
 - **Assets Builder** - A brand new Builder to handle assets that are used in your theme's blocks. Magical! Check out the recipe on [how to configure and use it](https://vtex.io/docs/recipes/development/using-the-assets-builder). 
