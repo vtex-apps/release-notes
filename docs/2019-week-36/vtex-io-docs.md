@@ -26,7 +26,7 @@ Whenever browsing our contents and noticing errors, outdated information or impr
 In the Getting Started section, you can learn what VTEX IO is and take your first steps onto the platform, developing your own store theme by yourself. 
 
 - [**What is VTEX IO**](https://vtex.io/docs/getting-started/what-is-vtex-io/1) 
-- [**Build stores with VTEX IO**](https://vtex.io/docs/getting-started/build-stores-with-vtex-io/1) 
+- [**Build stores with VTEX IO**](https://vtex.io/docs/getting-started/build-stores-with-store-framework/1) 
 
 ### Recipes
 
