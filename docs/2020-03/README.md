@@ -15,7 +15,7 @@ Lending credence to the idea the March was not all bad news, we've prepared a Re
 
 So wash your hands, sing Happy Birthday twice and cast your eyes on this beauty:
 
-## Features
+## Features :rocket:
 
 - **Product Gifts app** - A brand new app to display all gifts available to a given product in your catalog. Check out the [documentation](https://vtex.io/docs/components/all/vtex.product-gifts@0.2.0/) and implement this in your store today! 
 
@@ -25,7 +25,7 @@ So wash your hands, sing Happy Birthday twice and cast your eyes on this beauty:
 
 - **Configurations Builder** - A service app's configurations can now be allocated as an independent app on the platform, leveraging from the functionality of workspaces, versioning and much more. It may seem complex, but it's not. Have a look at the documentation on how to use the builder to [develop service configuration apps](https://vtex.io/docs/recipes/development/developing-service-configuration-apps/). 
 
-## Improvements
+## Improvements :heavy_plus_sign:
 
 - **`menu-item` block from Menu** - The `menu-item` block is not a child composition, which means that menu items don't require a limited list of potential blocks that can declared as their children anymore - as mentioned in the [January 2020 Release Notes](https://vtex.io/docs/releases/2020-01/README/). Due to this change, `menu-item`s can henceforth declare any other Store Framework block in their array as children, granting more [Menu](https://vtex.io/docs/components/all/vtex.menu@2.24.1) customization. 
 
@@ -45,7 +45,7 @@ So wash your hands, sing Happy Birthday twice and cast your eyes on this beauty:
 
 - **Outline-color** - The `outline-color` CSS property was added to your theme's `style.json` file. It means that you can set a unique default value that can be applied throughout the store for the line that is drawn around all components when they are highlighted on the interface. Previously, you could only set the component's customization in focus individually [using Handles](https://vtex.io/docs/recipes/style/using-css-handles-for-store-customization).
 
-## Bug Fixes
+## Bug Fixes :bug:
 
 - **Duplicated blocks**: Store Framework was passively accepting a block being declared twice in your store's theme (as long as one was a `.json` file and the other a `jsonc`). This led to various bugs, since only one of the two was going to be effectively rendered... but the developer didn't know which one. An error message is now displayed in Toolbelt whenever the theme is linked and duplicate blocks are present. 
 
