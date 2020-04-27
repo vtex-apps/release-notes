@@ -21,7 +21,7 @@ Without further ado and with the given explanations, have a quick look at our ke
 
 ### New features :rocket:
 
-- [Store v2 Edition](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/store-v2-edition.md) - No more headaches with manually installing `store` v2 compatible apps thanks to Store v2 Edition.
+- Store v2 Edition - No more headaches with manually installing `store` v2 compatible apps thanks to Store v2 Edition.
 - [Pickup Availability](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/pickup-availability.md) - New feature for strengthening Omnichannel experience? Oh yeah! Check out the new Pickup Availability component.
 - [Paging the Search Results](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/paging-the-search-results.md) - If agility is what you are searching for then this feature is for you. Now, the Search Results component provides a URL for each loaded search results page!
 - [Stack Layout](https://github.com/vtex-apps/release-notes/blob/master/docs/2019-week-39-40/stack-layout.md) - Components overlapping other components. If this seems like something difficult, that's because you're unfamiliar with Stack Layout.
