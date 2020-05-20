@@ -20,9 +20,9 @@ Get a sneak peek at last month's releases:
 
 - [**Google Customer Reviews pixel app**](https://vtex.io/docs/components/pixel/vtex.google-customer-reviews@1.0.2/) - A native integration for [Google's service](https://support.google.com/merchants/answer/7124326?hl=en) that collects feedback from customers who’ve made a purchase on your site is now a couple configs away.
 
-- [**Cookiebot pixel app**](https://vtex.io/docs/components/pixel/vtex.cookiebot@2.0.1/) - The native integration for the [Cookiebot solution](https://www.cookiebot.com/) is live. This pixel app is responsible for using your site's cookies to analyze traffic and enhance user experience through custom contents.
+- [**Cookiebot pixel app**](https://vtex.io/docs/components/pixel/vtex.cookiebot@2.0.1/) - The native integration for the [Cookiebot solution](https://www.cookiebot.com/) is live. This pixel app is responsible for that handling the privacy and cookie policy for your store.
 
-- [**Iubenda pixel app**](https://vtex.io/docs/components/pixel/vtex.iubenda@0.2.1/) - Three is a charm, isn't it? This pixel provides native integration with the [Iubenda solution](https://www.iubenda.com/en/?utm_source=adwords&utm_medium=ppc&utm_campaign=aw_brand_global_exact&utm_term=iubenda&utm_content=336331123145&gclid=EAIaIQobChMI-ufW1Yid6QIVEYGRCh1zHAmFEAAYASAAEgLP_fD_BwE) that handles the privacy and cookie policy for your store.
+- [**Iubenda pixel app**](https://vtex.io/docs/components/pixel/vtex.iubenda@0.2.1/) - Three is a charm, isn't it? This pixel provides native integration with the [Iubenda solution](https://www.iubenda.com/en/?utm_source=adwords&utm_medium=ppc&utm_campaign=aw_brand_global_exact&utm_term=iubenda&utm_content=336331123145&gclid=EAIaIQobChMI-ufW1Yid6QIVEYGRCh1zHAmFEAAYASAAEgLP_fD_BwE) that also handles the privacy and cookie policy for your store.
 
 - [**Trustpilot pixel app**](https://vtex.io/docs/components/pixel/vtex.trustpilot@1.0.2/) - Yep, that's right. Fourth pixel app of the evening. This one is for a native integration with the [Trustpilot solution](https://www.trustpilot.com/), responsible for providing your store with review and rating tools.
 
@@ -30,9 +30,9 @@ Get a sneak peek at last month's releases:
 
 ## Improvements :heavy_plus_sign:
 
-- **Public app documentation** - Publish an app on the VTEX IO platform and win a public documentation slot in VTEX IO Docs! This functionality is not new, but its communication is: from now on, Toolbelt will display the public documentation's link each time an app is successfully published!
+- **Public app documentation** - Publish an app on the VTEX IO platform and win a public documentation slot in VTEX IO Docs! This functionality is not new, but its communication is: from now on, Toolbelt (version `2.101.0` or higher) will display the public documentation's link each time an app is successfully published!
 
-- **Toolbelt's commands** - The VTEX IO CLI has undergone an improvement: now, every command has its own `--help` flag. When running `{commandName}--help` in the terminal, you can expect the command's documentation to be shown! 
+- **Toolbelt's commands** - The VTEX IO CLI has undergone an improvement: now, every command has its own `--help` flag. When running `vtex {commandName} --help` in the terminal, you can expect the command's documentation to be shown! 
 
 - **CSS Handles** - Let's talk about good news related to [CSS Handles](https://vtex.io/docs/recipes/style/using-css-handles-for-store-customization) for the [Rich Text](https://vtex.io/docs/components/all/vtex.rich-text@0.10.0/) (`tableTr`, `tableTh` and `tableTd`), [Drawer](https://vtex.io/docs/components/all/vtex.store-drawer@0.12.1/) (`opened`, `closed` and `moving`) and the Filter Navigator block (`filtersWrapper` and `filtersWrapperMobile` ) from the [Search Results](https://vtex.io/docs/components/all/vtex.search-result@3.59.0/) app.
 
