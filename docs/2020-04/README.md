@@ -10,7 +10,7 @@ Get a sneak peek at last month's releases:
 
 ## Features :rocket:
 
-- [**Overlay Layout app**](https://vtex.io/docs/components/all/vtex.overlay-layout@0.1.2/) - A layout app that provides you blocks to create a dropdown, select or a tooltip component in your store. Sounds amazing and simple... and it actually is with this new app!
+- [**Overlay Layout app**](https://vtex.io/docs/components/all/vtex.overlay-layout@0.1.2/) - A layout app that provides you blocks to create a dropdown, select or a tooltip component in your store. Sounds amazing and simple... and it actually is!
 
 - [**Condition Layout app**](https://vtex.io/docs/components/all/vtex.condition-layout@1.1.7/) -  You now get to define different layouts for the same page. This one seems like magic but it's not: choose predefined conditions and have the power to decide if a block should be rendered or not.
 
