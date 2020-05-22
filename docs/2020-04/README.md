@@ -1,3 +1,10 @@
+---
+title: VTEX IO Release Notes - April 2020
+description: "See what is new in VTEX IO for April 2020"
+date: "2020-05-20"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-04/README.md"
+---
+
 # VTEX IO Release Notes - April 2020
 
 The VTEX IO Release Notes is here, team!
