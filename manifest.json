@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "io-release-notes",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "title": "VTEX IO Release Notes",
   "description": "VTEX IO weekly release notes",
   "builders": {
