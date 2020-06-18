@@ -47,7 +47,7 @@ Shall we then start reading this Release Notes gem for May?
 
 ## Bug fixes :bug:
 
-- [**Minicart item list**](https://github.com/vtex/checkout-graphql/pull/73) - When more than 1 SKU with attachments was added to the [Minicart](https://vtex.io/docs/components/all/vtex.minicart) (version 1 and 2), the component interpreted that only 1 should receive the chosen attachment, while the other SKUs would not receive it. This bug was now fixed in both versions and the Minicart lists the correct SKU number with their respective attachment. 
+- **Minicart item list** - When more than 1 SKU with attachments was added to the [Minicart](https://vtex.io/docs/components/all/vtex.minicart) (version 1 and 2), the component interpreted that only 1 should receive the chosen attachment, while the other SKUs would not receive it. This bug was now fixed in both versions and the Minicart lists the correct SKU number with their respective attachment. 
 
 - [**Slider Layout dots on mobile**](https://github.com/vtex-apps/slider-layout/pull/21) -  The pagination dots, located below the component built using [Slider Layout](https://vtex.io/docs/components/layout-blocks/vtex.slider-layout), were not rendering slides when clicked on using a mobile device - contrary to the Slider's arrows. The pagination dots are now working as expected and users can click on them to change slides.
 
