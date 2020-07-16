@@ -21,7 +21,7 @@ Check out the last month's key changes below:
 
 ## Features :rocket:
 
-- **Sitemap** - One long awaited tool for SEO is finally out of the oven: manage your website's sitemap file from now on using the new [VTEX IO Sitemap app](https://vtex.io/docs/components/functional/vtex.store-sitemap/). 
+- **Sitemap** - One long awaited tool for SEO is finally out of the oven: manage your website's sitemap file from now on using the new [VTEX IO Sitemap app](https://vtex.io/docs/components/functional/vtex.store-sitemap@2.8.4/). 
 
 - **Image zooming in a modal** - Open a modal for product image zooming whenever the Product Images component (`product-image` block) is clicked on. The instructions for setting up this new feature are available in the Advanced configuration section of the [Product Image block documentation](https://vtex.io/docs/components/all/vtex.store-components/productimages/).
 
