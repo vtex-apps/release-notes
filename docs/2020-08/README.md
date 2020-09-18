@@ -14,7 +14,7 @@ Did you know that August is called the month of chagrin by some in Brazil? Nonse
 A lot of freshly baked wonder-cakes are finally out of our development oven, among which:
 
 - 🚀 The new Disclosure Layout app
-- ➕ Change ing the app deploying time
+- ➕ Change in the app deploying time
 - ❌ Product Specifications block deprecation
 
 Wonderful right? And it is not just because I wrote everything here... this month's release notes is so blissful that is would change anyone's mood. Have a closer look:
