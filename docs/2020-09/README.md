@@ -29,7 +29,7 @@ Shall we?
 
 ![product-sku-attributes](https://user-images.githubusercontent.com/52087100/97001314-8cbf3a00-150e-11eb-85c3-b538c42d5d22.png)
 
-- **Facebook Domain Verification app** - The Facebook Domain Verification adds a meta-tag containing the Facebook verification code to your homepage `<head>`, which is used by Facebook for checking your website's accountability. The new app is more than ready to be installed: access its documentation [here](https://vtex.io/docs/components/pixel/vtex.facebook-domain-verification/)!
+- **Facebook Domain Verification app** - The Facebook Domain Verification adds a meta-tag containing the Facebook verification code to your homepage `<head>`, which is used by Facebook for checking your website's ownership. The new app is more than ready to be installed: access its documentation [here](https://vtex.io/docs/components/pixel/vtex.facebook-domain-verification/)!
 
 - **Auto-complete for `product-context` properties** - A new improvement for [`product-context`](https://github.com/vtex-apps/product-context)' types enables the auto-complete feature when declaring the desired app's properties in your custom components. In practice, your code editor is from now on able to tell you which properties are actually valid and which are not, avoiding errors and saving you precious development time!
 
