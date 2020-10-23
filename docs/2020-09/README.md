@@ -71,7 +71,7 @@ Documentation is **key**! Check out our out-of-the-oven docs below :
 
 ### Recipes
 
-- [Using events to trigger component behavior]()
+- [Using events to trigger component behavior](https://vtex.io/docs/recipes/templates/using-events-to-trigger-automatic-responses-from-store-components/)
 - [Cross-border store content internationalization](https://vtex.io/docs/recipes/store-management/cross-border-stores-content-internationalization/)
 - [Managing landing pages in cross-border stores](https://vtex.io/docs/recipes/store-management/managing-landing-pages-in-cross-border-stores/)
 - [Creating robots files for cross-border stores](https://vtex.io/docs/recipes/store-management/creating-robots-files-for-cross-border-stores/)
