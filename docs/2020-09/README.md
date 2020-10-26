@@ -31,7 +31,7 @@ Shall we?
 
 - **Facebook Domain Verification app** - The Facebook Domain Verification adds a meta-tag containing the Facebook verification code to your homepage `<head>`, which is used by Facebook for checking your website's ownership. The new app is more than ready to be installed: access its documentation [here](https://vtex.io/docs/components/pixel/vtex.facebook-domain-verification/)!
 
-- **Auto-complete for `product-context` properties** - A new improvement for [`product-context`](https://github.com/vtex-apps/product-context)' types enables the auto-complete feature when declaring the desired app's properties in your custom components. In practice, your code editor is from now on able to tell you which properties are actually valid and which are not, avoiding errors and saving you precious development time!
+- **Auto-complete for `product-context` properties** - The TypeScript types of the `vtex.product-context` app are working! Now, if you develop a React app that depends on them, you might run `vtex setup --typings` to have auto-complete and other juicy features that types provide. 
 
 ## Improvements :heavy_plus_sign:
 
@@ -67,11 +67,11 @@ Documentation is **key**! Check out our out-of-the-oven docs below :
 
 ### Tracks
 
-- [Develop components using VTEX IO and React](https://vtex.io/docs/getting-started/desenvolva-componentes-usando-vtex-io-e-react/1/) (*Develop components using VTEX IO and React*) - Currently only available in Portuguese!
+- [Desenvolva componentes usando VTEX IO e React](https://vtex.io/docs/getting-started/desenvolva-componentes-usando-vtex-io-e-react/1/) (*Develop components using VTEX IO and React*) - Currently only available in Portuguese!
 
 ### Recipes
 
-- [Using events to trigger component behavior](https://vtex.io/docs/recipes/templates/using-events-to-trigger-automatic-responses-from-store-components/)
+- [Using events to trigger side effects on store components](https://vtex.io/docs/recipes/templates/using-events-to-trigger-side-effects-on-store-components/)
 - [Cross-border store content internationalization](https://vtex.io/docs/recipes/store-management/cross-border-stores-content-internationalization/)
 - [Managing landing pages in cross-border stores](https://vtex.io/docs/recipes/store-management/managing-landing-pages-in-cross-border-stores/)
 - [Creating robots files for cross-border stores](https://vtex.io/docs/recipes/store-management/creating-robots-files-for-cross-border-stores/)
