@@ -18,7 +18,7 @@ What a question... surely it did! Check out what October 2020 has brought us:
 
 - **Kokeel pixel app** - The more native integrations, the better: get ready for the [Kelkoo](https://www.kelkoogroup.com/) native integration! The new [pixel app](https://vtex.io/docs/components/all/vtex.kelkoo/) is here to help your store with incremental e-commerce leads!
 
-- **Store Locator app** - If adding information regarding pickup points to your store sounded complicated, it's water under the bridge! The Store Locator is among us to untie the knots in this setup - check out its [documentation]() now!
+- **Store Locator app** - If adding information regarding pickup points to your store sounded complicated, it's water under the bridge! The Store Locator is among us to untie the knots in this setup - check out its [documentation](https://vtex.io/docs/components/all/vtex.store-locator/) now!
 
 ![store-list](https://user-images.githubusercontent.com/52087100/100130205-33299280-2e61-11eb-9493-cddbee147839.png)
 
