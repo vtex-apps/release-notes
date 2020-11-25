@@ -16,7 +16,7 @@ What a question... surely it did! Check out what October 2020 has brought us:
 
 - **Blueknow pixel app** - A new pixel app is out of the oven for the [Blueknow solution](https://www.blueknow.com/en/), responsible for using big data techniques and digital merchandising to provide recovery of lost sales, onsite retargeting, customized recommendations, and more! Check out the [app documentation](https://vtex.io/docs/components/all/vtex.blueknow/) in order to learn how to set it up in your store!
 
-- **Kokeel pixel app** - The more native integrations, the better: get ready for the [Kelkoo](https://www.kelkoogroup.com/) native integration! The new [pixel app](https://vtex.io/docs/components/all/vtex.kelkoo/) is here to help your store with incremental e-commerce leads!
+- **Kelkoo pixel app** - The more native integrations, the better: get ready for the [Kelkoo](https://www.kelkoogroup.com/) native integration! The new [pixel app](https://vtex.io/docs/components/all/vtex.kelkoo/) is here to help your store with incremental e-commerce leads!
 
 - **Store Locator app** - If adding information regarding pickup points to your store sounded complicated, it's water under the bridge! The Store Locator is among us to untie the knots in this setup - check out its [documentation](https://vtex.io/docs/components/all/vtex.store-locator/) now!
 
