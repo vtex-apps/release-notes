@@ -1,3 +1,10 @@
+---
+title: VTEX IO Release Notes - October 2020
+description: "See what is new in VTEX IO for October 2020"
+date: "2020-11-24"
+git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-10/README.md"
+---
+
 # VTEX IO Release Notes - October 2020
 
 While Santa Claus is still not in town, the **VTEX IO Release Notes for October 2020** is the one in charge of delivering lots of goodies for you and delight your home-office days with :sparkles:joy:sparkles:!
