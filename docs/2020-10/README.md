@@ -7,7 +7,7 @@ git: "https://github.com/vtex-apps/release-notes/blob/master/docs/2020-10/README
 
 # VTEX IO Release Notes - October 2020
 
-While Santa Claus is still not in town, the **VTEX IO Release Notes for October 2020** is the one in charge of delivering lots of goodies for you and delight your home-office days with :sparkles:joy:sparkles:!
+While Santa Claus is still not in town, the **VTEX IO Release Notes for October 2020** is the one in charge of delivering lots of goodies for you and delight your home-office days with :sparkles:*joy*:sparkles:!
 
 A tough ask, I know, since there is no end to this terrible and long-lasting virus in our gift basket, but I promise you that our team has prepared some rewards almost as long-awaited as that, such as:
 
@@ -33,7 +33,7 @@ What a question... surely it did! Check out what October 2020 has brought us:
 
 ![newsletter-demo](https://user-images.githubusercontent.com/27777263/96277790-1c169b80-0fab-11eb-99cb-6b55ea7f5b7f.png)
 
-- **Condition Layout v2** - The Condition Layout as we know was remodeled in order to achieve a clearer logic when setting the conditions to build your store's layout. In addition to its new [documentation](https://vtex.io/docs/components/all/vtex.condition-layout/), do not forget to access the [migration guide](https://github.com/vtex-apps/condition-layout/blob/master/docs/MIGRATION-GUIDE.md), especially prepared to help you with this upgrade!
+- **Condition Layout v2** - The Condition Layout as we know was remodeled in order to achieve a clearer logic when setting the conditions to build your store's layout. In addition to its new [documentation](https://vtex.io/docs/components/all/vtex.condition-layout/), do not forget to access the [migration guide](https://github.com/vtex-apps/condition-layout/blob/master/docs/MIGRATION-GUIDE.md), specially prepared to help you with this upgrade!
 
 ## Improvements ➕
 
