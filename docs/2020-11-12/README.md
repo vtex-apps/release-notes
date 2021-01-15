@@ -98,7 +98,7 @@ Nothing but the address will change, I promise! Everything else stays the same, 
 
 - **Unannotated queries requested as public**
 
-The fallback cache option for GraphQL queries that didn't have an annotation on cache policy (`@cacheControl`) has changed from the *default public scope* to the *private* instead, in order to solve an internal issue on the platform. 
+The fallback cache option for GraphQL queries that didn't have an annotation on cache policy (`@cacheControl`) has changed from the **default public scope to the private** instead, in order to solve an internal issue on the platform. 
 
 Although it does not affect functionality, this can impact the store front's performance due to changes to the queries essence, since all unannotated that were being requested as public are now automatically coming in as private.
 
