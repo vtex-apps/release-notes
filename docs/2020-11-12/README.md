@@ -124,8 +124,8 @@ We would not be able to deliver so many amazing results during these last two mo
 - [Gustavo Vasconcellos](https://github.com/gustavopvasconcellos) *from ACCT*
 - [Lucas Castro](https://github.com/LucasCastroAcctGlobal) *from ACCT*
 - [Matheus Araujo](https://github.com/MatheusR42) *from Corebiz* 
+- [Renan Guerra](https://github.com/renanguerraa1) *from ACCT*
 - [Luiz Eduardo](https://github.com/LEduard0)
-- [Renan Guerra](https://github.com/renanguerraa1)
 - [Pmarignan](https://github.com/pmarignan)
 
 Thank you, team :muscle:
