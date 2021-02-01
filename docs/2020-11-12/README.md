@@ -26,7 +26,7 @@ Believe me when I say it... you can't sit this one out! Without further ado, int
 
 - **New home for the VTEX IO documentation**
 
-Officially housing VTEX IO documentation since March 13, 2020, IO Docs was the successful result of VTEX's effort to create a more in-depth and narrowly focused documentation.
+Officially housing VTEX IO documentation since September, 2019, IO Docs was the successful result of VTEX's effort to create a more in-depth and narrowly focused documentation.
 
 With almost a year gone by, it's time to say goodbye: to better take advantage of existing and future VTEX IO documentation and to leverage the development experience of our users, **VTEX IO documentation will henceforth be stored on our [Developer Portal](https://developers.vtex.com/), starting today (January 15, 2021)!**
 
